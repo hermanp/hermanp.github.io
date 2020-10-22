@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://hermanp.github.io/sitemap.xml
