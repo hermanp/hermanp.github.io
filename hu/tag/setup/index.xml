@@ -106,6 +106,8 @@
 &lt;li>Feltolom (push) a GitHubra a &lt;a href="https://github.com/hermanp/website" target="_blank" rel="noopener">forrás repóba&lt;/a>.&lt;/li>
 &lt;li>Hagyom, hogy a GitHub Actions elvégezze a dolgát: építse fel a weboldalt és telepítse a &lt;code>public&lt;/code> mappát a &lt;a href="https://github.com/hermanp/hermanp.github.io" target="_blank" rel="noopener">GitHub Pages repóba&lt;/a>.&lt;/li>
 &lt;/ol>
+&lt;h3 id="az-weboldal-működtetése">Az weboldal működtetése&lt;/h3>
+&lt;p>Próbálom a munkám a repó &lt;a href="https://github.com/hermanp/website/projects" target="_blank" rel="noopener">Projects&lt;/a> oldala alapján kezelni. Ez egy &lt;a href="https://trello.com/" target="_blank" rel="noopener">Trello&lt;/a>-hoz hasonlító tábla, ahol a feladatok nyomon követhetők. Ha valami eszembe jut, akkor egy Note-ot (jegyzetet) készítek róla a To Do listán belül. Ha felér magában egy feladattal, akkor átalakítom Issue-vá. Ha elkezdek dolgozni egy Note-on vagy Issue-n (azzal a céllal, hogy le is zárjam), akkor áthelyezem az In Progress listába. A nyitott Issue-k automatikusan lezárhatók egy git push-sal, a &lt;a href="https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword" target="_blank" rel="noopener">dokumentációnak&lt;/a> megfelelően.&lt;/p>
 &lt;h1 id="tanulságok">Tanulságok&lt;/h1>
 &lt;p>Két stratégiát látok, de nem zárják ki egymást:&lt;/p>
 &lt;ul>

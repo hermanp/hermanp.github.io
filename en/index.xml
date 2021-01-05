@@ -834,6 +834,8 @@
 &lt;li>Push the changes to GitHub &lt;a href="https://github.com/hermanp/website" target="_blank" rel="noopener">source repository&lt;/a>.&lt;/li>
 &lt;li>Let GitHub Actions do its job: build the website and deploy its &lt;code>public&lt;/code> folder in the &lt;a href="https://github.com/hermanp/hermanp.github.io" target="_blank" rel="noopener">GitHub Pages repository&lt;/a>.&lt;/li>
 &lt;/ol>
+&lt;h3 id="managing-the-site">Managing the site&lt;/h3>
+&lt;p>I try to manage my work using the repo&amp;rsquo;s &lt;a href="https://github.com/hermanp/website/projects" target="_blank" rel="noopener">Projects&lt;/a> page. This is a &lt;a href="https://trello.com/" target="_blank" rel="noopener">Trello&lt;/a> like board, where tasks can be tracked. If something pops in my mind, I create a Note about it in the To Do list. If it amounts to be a task on its own, then I convert it to an Issue. If I start to work on an Issue or Note (with the aim to close it), I move it to the In Progress list. The open Issues can be automatically closed by a git push, according to the &lt;a href="https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword" target="_blank" rel="noopener">documentation&lt;/a>.&lt;/p>
 &lt;h1 id="lessons-learned">Lessons learned&lt;/h1>
 &lt;p>I see two strategies, but they do not exclude each other:&lt;/p>
 &lt;ul>
