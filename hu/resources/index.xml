@@ -1,4 +1,269 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Források | Herman Péter</title><link>https://hermanp.github.io/hu/resources/</link><atom:link href="https://hermanp.github.io/hu/resources/index.xml" rel="self" type="application/rss+xml"/><description>Források</description><generator>Wowchemy (https://wowchemy.com)</generator><language>hu</language><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><image><url>https://hermanp.github.io/images/icon_hu1a779452550ea7625b45e05d3004a154_2463_512x512_fill_lanczos_center_2.png</url><title>Források</title><link>https://hermanp.github.io/hu/resources/</link></image><item><title>Könyvjelzők</title><link>https://hermanp.github.io/hu/resources/bookmarks/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://hermanp.github.io/hu/resources/bookmarks/</guid><description>&lt;p>A könyvjelzők szerkezetéről, jellegzetességeiről és ezen oldal létrehozásának módjáról lehet olvasni ebben a &lt;a href="https://hermanp.github.io/hu/post/a-konyvjelzokrol/">posztban&lt;/a>.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Források | Herman Péter</title><link>https://hermanp.github.io/hu/resources/</link><atom:link href="https://hermanp.github.io/hu/resources/index.xml" rel="self" type="application/rss+xml"/><description>Források</description><generator>Wowchemy (https://wowchemy.com)</generator><language>hu</language><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><image><url>https://hermanp.github.io/images/icon_hu1a779452550ea7625b45e05d3004a154_2463_512x512_fill_lanczos_center_2.png</url><title>Források</title><link>https://hermanp.github.io/hu/resources/</link></image><item><title>Panel</title><link>https://hermanp.github.io/hu/resources/panel/</link><pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate><guid>https://hermanp.github.io/hu/resources/panel/</guid><description>&lt;p>Ezen az oldalon gyűjtöm és rendszerezem mindazokat az információkat, amik hozzásegíthetnek a panelházak térképi megjelenítésének projektjéhez. Ehhez társul az érdeklődésem a kispesti lakótelep és története iránt, így építészeti és helytörténeti anyagokként is tekinthetők ezek.&lt;/p>
+&lt;p>A rendszerezés alapja, hogy felkutatok forrásokat és a kutatás közben elém kerülő forrás helyek, személyek, intézmények, fogalmak kigyűjtését is elvégzem. Ezáltal áttekinthetőbbé válik az érintettek köre, ami segíti a folytatást és a kapcsolatteremtést. Ha lenne egy egyszerű módja a markdownban folyamatábrák rajzolásának, szívesen használnám, hogy a kutatási lépéseket ábrázolhassam. A listák töltik be most ezt a szerepet.&lt;/p>
+&lt;p>Mivel a források néhány kivétellel magyar nyelvűek és a téma jellege miatt is korlátozott érdeklődést válthat ki a nem magyar olvasók között, ezért a megjegyzéseimmel próbálom az angol nyelvű tájékozódást segíteni. Nehéz kialakítani egységes stílusú irodalomjegyzéket.&lt;/p>
+&lt;p>Ha bármi ötlet lenne a kedves olvasóban, írja meg nyugodtan! Örömmel fogadom az érdeklődést!&lt;/p>
+&lt;h2 id="források">Források&lt;/h2>
+&lt;ul>
+&lt;li>Google: &lt;code>panel térkép&lt;/code>, &lt;code>panel épület típus&lt;/code>, &lt;code>panelház típusok&lt;/code>
+&lt;ul>
+&lt;li>&lt;a href="https://orszagos-tanusito-kozpont.hu/tanusitas/tanusitas-panel-lakas-alaprajzok" target="_blank" rel="noopener">Panel lakás alaprajzok&lt;/a>&lt;/li>
+&lt;li>Iván László (1996): Budapesti falanszterek, &lt;em>Földrajzi Értesítő&lt;/em>, 45(1-2) pp. 73-99.
+&lt;ul>
+&lt;li>Budapesti Városépítési Tervező Vállalat, Városépítési Tervezési Önálló Osztály (1987): A budapesti lakótelepek főbb adatai (1947-1985).&lt;/li>
+&lt;li>Orbán Kristóf: &lt;a href="http://www.terinno.hu/szamok/teruletfejelsztes_es_innovacio_2011_3.pdf" target="_blank" rel="noopener">Kísérlet a magyarországi lakótelep újradefiniálására&lt;/a>, &lt;em>Területfejlesztés és Innováció&lt;/em>, 5(3), p 2.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Építésügyi és Városfejlesztési Minisztérium Műszaki Tervezési Főosztály: Panelos lakóépületek típusterv katalógusa. Budapest 1976.&lt;/li>
+&lt;li>Balla Regina (2014): Horizontális hézag – a paneles lakóházak földszintje, TDK dolgozat, BME ÉPK Urbanisztika Tanszék&lt;/li>
+&lt;li>Benkő Melinda, Balla Regina (2016): Fundamentum – A paneles lakóépületek földszintje, &lt;em>Építés – Építészettudomány&lt;/em>, 44(3–4) pp. 317–332.&lt;/li>
+&lt;li>Mészáros Ábel (2017. március 22.): &lt;a href="http://lechnerkozpont.hu/cikk/utkereses-a-70-es-evek-lakasepiteseben-i" target="_blank" rel="noopener">Útkeresés a 70-es évek lakásépítésében I.&lt;/a>, Lechner Tudásközpont, weboldal. Hozzáférés ideje: 2020.12.21.&lt;/li>
+&lt;li>Mészáros Ábel (2017. március 27.): &lt;a href="http://uj.lechnerkozpont.hu/cikk/utkereses-a-70-es-evek-lakasepiteseben-ii" target="_blank" rel="noopener">Útkeresés a 70-es évek lakásépítésében II.&lt;/a>, Lechner Tudásközpont, weboldal. Hozzáférés ideje: 2020.12.21. [H épülettípus létrejöttének körülményei, lakás alaprajz képek hivatkozva a Magyar Építőművészet folyóiratból]&lt;/li>
+&lt;li>Csaba Tímea: &lt;a href="http://www.urbanisztika.bme.hu/segedlet/angol/panelstudy_cst.pdf" target="_blank" rel="noopener">How we really live in panel blocks&lt;/a>, Den Haag Kiadó, Budapest, 2006. [Angol szaknyelv]&lt;/li>
+&lt;li>Weiszkopf András (2015): Lebstück Mária u. 47-53. Esettanulmány egy házgyári technológiával készült panelos lakóépület fenntarthatóságának lehetőségeiről, kutatási vázlat, BME Építőművészeti Doktori Iskola [Újpest átnézeti rajza, talán tud tippet adni a kispesti változat elkészítéséhez! (Épület alaprajz körvonal)]&lt;/li>
+&lt;li>Zorkóczy Zoltán: &lt;a href="https://www.e-epites.hu/sites/default/files/2016/LAKOSSAG/E_TANUSITAS/modszertani_segedlet20140714_si.pdf" target="_blank" rel="noopener">Rövid módszertani segédlet energetikai tanúsításhoz, méretezéshez&lt;/a>. Belügyminisztérium, 2014, 16 p. [házgyárak és lakótelepek összekapcsolása]&lt;/li>
+&lt;li>Szabó Balázs, Bene Mónika (2019): &lt;a href="http://www.ksh.hu/docs/hun/xftp/terstat/2019/05/ts590504.pdf" target="_blank" rel="noopener">Budapesti lakótelepek a panelprogram előtt és után&lt;/a>. &lt;em>Területi Statisztika&lt;/em>, 59(5): 526–554. [Rendkívül fontos forrás! Lakótelep kutatások áttekintése, lakótelep és lakóépület lehatárolások módszertana. &amp;ldquo;Így több forrás összekapcsolásával végül egy lényegében teljes budapesti lakótelep-adatbázishoz jutottunk.&amp;quot;]&lt;/li>
+&lt;li>&lt;a href="https://www.gyakorikerdesek.hu/otthon__egyeb-kerdesek__3220010-mi-a-kulonbseg-az-1980-as-evek-elott-es-utan-epult-panellakasok-kozott" target="_blank" rel="noopener">Mi a különbség az 1980-as évek előtt és után épült panellakások között?&lt;/a> - gyakorikerdesek.hu. Hozzáférés: 2021.01.06. [technológiai részletek az építésnél, technikai jellemzők, mire figyeljünk vásárlásnál]&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Google: &lt;code>panel lakás alaprajz beépítés&lt;/code>
+&lt;ul>
+&lt;li>Józsa Katalin, Kulcsár Emese (dátum nem ismert): &lt;a href="https://tdk.bme.hu/EPK/DownloadPaper/Miert-pont-panel-Tervezok-ahogy-lattak-es" target="_blank" rel="noopener">Miért pont panel? Tervezők, ahogy látták, és látják ma&lt;/a>. BME ÉPK TDK [benne említés a Kispest II/A ütemről és a kispesti városközponról, amik Bálint Imre munkái]
+&lt;ul>
+&lt;li>FŐBER Kispest rekonstrukciója, Pestlőrinci lakótelep, &lt;a href="http://www.urb.bme.hu/segedlet/segedletek/bp_lakotelep/kispest_lakotelep.pdf" target="_blank" rel="noopener">12./a kötet&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://kreativlakas.com/iparositott-technologiaval-keszult-epuletek/az-iparositott-technologiaval-keszult-epuletek-csoportositasa/" target="_blank" rel="noopener">A panelos épületek műszaki tervállománya&lt;/a> [Érdekes komment a cikk alján Gonda Ferenc építészmérnöktől! Rákeresve erre a CD-re, nem találtam érdemi infót, úgy tűnik, már nem lelhető fel. Más hasznos cikk is van többlakásos témában.]
+&lt;ul>
+&lt;li>&lt;a href="https://kreativlakas.com/tobblakasos-hazak/tobblakasos-es-emeletes-hazak-4-kategoriaja/" target="_blank" rel="noopener">Többlakásos és emeletes házak 4 kategóriája&lt;/a> [Vélhetőleg Reischl Antal (1979) féle könyvből vett át ábrákat. Látható az ábrákon a kézzel rajzolt mivoltuk és az a fajta stílus, ami például a Tankönyvkiadó Vállalatra, Műszaki Kiadóra és az Akadémiai Kiadóra jellemző.]&lt;/li>
+&lt;li>&lt;a href="https://kreativlakas.com/iparositott-technologiaval-keszult-epuletek/az-iparositott-technologiaval-keszult-epuletek-csoportositasa/" target="_blank" rel="noopener">A panelos építési módok kialakulása&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Fővárosi Szabó Ervin Könyvtár (Központi Könyvtár, Budapest Gyűjtemény). Keresés a &lt;a href="https://saman.fszek.hu/WebPac/CorvinaWeb" target="_blank" rel="noopener">katalógusban&lt;/a>:
+&lt;ul>
+&lt;li>&lt;code>kispest&lt;/code> kulcsszó, 315 találat:
+&lt;ul>
+&lt;li>Fodor L. István: Kispest: új városrész születik. &lt;em>Élet és tudomány&lt;/em> 33. évf. 39. sz. (1978), p. 1235-1237.&lt;/li>
+&lt;li>Fucskó Hajnalka: Megtorpant a lépcsőzetes program : Kispest nem adja fel. &lt;em>Magyar Nemzet&lt;/em> 58. évf. 175. sz. (1995), p. 8.&lt;/li>
+&lt;li>Gulyás Teréz: A kispesti városrészközpont és környéke. &lt;em>Városépítés&lt;/em> 11. évf. 3. sz. (1974), p. 34-35.&lt;/li>
+&lt;li>Kálmánchey Endréné: A kispesti lakótelep közlekedési kapcsolatai. &lt;em>Városi Közlekedés&lt;/em> 23. évf. 2. sz. (1983), p. 93-96.&lt;/li>
+&lt;li>Nyárádi Éva: Várospolitika Kispesten. &lt;em>Budapesti Fórum&lt;/em> 7. évf. 2-3. sz. (1987), p. 99-101.&lt;/li>
+&lt;li>Oszlay István: Új városközpont a régi Kispesten. &lt;em>Budapest&lt;/em> 19. évf. 7. sz. (1981), p. 5-7.&lt;/li>
+&lt;li>Vedres György: Várostervezők gondjai. &lt;em>Budapest&lt;/em> 10. évf. 7. sz. (1972), p. 7-9.&lt;/li>
+&lt;li>Alapfokú ellátó központ, Kispest. &lt;em>Magyar Építőipar&lt;/em> 33. évf. 11. sz. (1984), p. 676-677.&lt;/li>
+&lt;li>Kasza Sándor: Kispest : XIX. kerület. CEBA Kiadó, Budapest, 2006, 120 p.&lt;/li>
+&lt;li>Kispest, Budapest XIX. kerülete. A kerület vezetőinek, új létesítményeknek a fotójával. XIX. ker. Tanács, Budapest, 1985, 23 p.&lt;/li>
+&lt;li>A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés. Tanulmányok, helyszínrajzok, tervrajzok, táblázatok, grafikonok. (kidolgozta az Építésgazdasági és Szervezési Intézet 31. Főosztály Lakótelep Szervezési Osztálya) Építésügyi Tájékoztató Központ, Budapest.
+&lt;ul>
+&lt;li>9., 1981-1983.- 1981. - 313 p. - Készült: 1981. júl.&lt;/li>
+&lt;li>10., 1981-1983. - 1982. - 324 p. - Készült: 1982. febr.&lt;/li>
+&lt;li>[11.], 1982-1984. - 1982. - 341 p. - Készült: 1982. aug.&lt;/li>
+&lt;li>[12.], 1982-1984. - 1983. - 308 p. - Készült: 1983. jan.&lt;/li>
+&lt;li>[13.], 1983-1985. - 1983. - 325 p. - Készült: 1983. júl.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;code>házgyár&lt;/code>:
+&lt;ul>
+&lt;li>Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei / [összeáll. Garai László, Szvoboda Imréné] ; [közread. a] FŐBER, Bp., 1976&lt;/li>
+&lt;li>Panelos lakóépületek típusterv katalógusa : budapesti házgyárak : 43. sz. Állami Építőipari Vállalat (összeáll. a Tervezésfejlesztési és Típustervező Intézet). ÉVM Műszaki Tervezési Főoszt., Budapest, 1976, 72 p.&lt;/li>
+&lt;li>Csaba László: A Budapesti 4.sz. Házgyár sorozattervei. &lt;em>Műszaki Tervezés&lt;/em> 14. évf. 3. sz. (1974), p. 16-22.&lt;/li>
+&lt;li>Csorba Zoltán: Panelos lakóépületek a Budapesti 3.sz. Házgyár elemeiből. &lt;em>Műszaki Tervezés&lt;/em> 15. évf. 4. sz. (1975), p. 10-14.&lt;/li>
+&lt;li>Fülöp Imre: Budapesti 4. sz. Házgyár. &lt;em>Ipari Építészeti Szemle&lt;/em> 29. évf. (1979), p. 6-8.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://library.hungaricana.hu/hu/" target="_blank" rel="noopener">Hungaricana Könyvtár&lt;/a>:
+&lt;ul>
+&lt;li>Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei. Keresés: &lt;code>Budapest Főváros Tanácsa Végrehajtó Bizottsága kispest&lt;/code>, 175 találat; &lt;code>Budapest Főváros Tanácsa Végrehajtó Bizottsága XIX. ker. Kispest II/B. ütem&lt;/code>, 14 találat; &lt;code>Budapest Főváros Tanácsa Végrehajtó Bizottsága XIX. ker. beruházási program&lt;/code>, 43 találat; &lt;code>XIX. ker Tanács végrehajtó bizottság&lt;/code>, 59 találat; &lt;code>kispest &amp;quot;beruházási program&amp;quot;&lt;/code>, 422 találat. Rendezés: alapértelmezett (akkor időrendi).
+&lt;ul>
+&lt;li>&lt;em>1986. szeptember 10.&lt;/em>: A VII. ötéves tervi beruházási programok helyzetének áttekintése, javaslat a módosítások rendjére.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;XIX., Kispest ltp. II/B ütem. A beruházási programban 8369 db lakás került jóváhagyásra. Az időközben érvénybe lépett &amp;ldquo;E&amp;rdquo; program és a pótlólag telepített 2 db garzonház megvalósításával a lakásszém 8562 db-ra emelkedett.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;em>1985. április 24.&lt;/em>: Jelentés a VII. ötéves tervi lakásépítési feladatok előkészítéséről, különös tekintettel az 1986-1987. évi lakásépítési feladatokra. 7. számú melléklet: Nagyobb VII. ötéves tervi új induló telepszerű lakásépitési területek. Közte: XIX., Kispest, Corvin krt.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;a 8. és 9. oldalon felsorolt lakótelepek beruházási programjait folyamatosan, még ez évben [1985] terjessze a Végrehajtó Bizottság elé jóváhagyás végett.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;em>1982. június 9.&lt;/em>: Beszámoló jelentés a XIX. ker. Kispesti lakótelep I. és II/A ütemek kivitelezésének befejezéséről [Hivatkozik az 1977. II. 2-i ülésen a 114-122/1977.sz. V.B. határozatokkal elfogadott II/A ütem beruházási programjára. Megemlíti, hogy többször módosították az I. ütemet, nem lehet mindegyik hivatkozást beazonosítani.]&lt;/li>
+&lt;li>&lt;em>1982. március 3.&lt;/em>: Új egységesített lakóház, illetve lakástípusok műszaki-gazdasági tervezési rendszerének bemutatása, különös tekintettel a fővárosi igények érvényesítésére. [az E sorozat tervei, épület és lakásváltozatokkal, LAKÓTERV, III. iroda]&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Különösen a szűk, étkezésre alkalmatlan konyhák állnak a jogos kritikák középpontjában.&amp;rdquo; és &amp;ldquo;az új tervek áttérnek a lakások, közlekedők/lépcsőházak/ tipizálására, a korábbi épület-tipizálás helyett.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;em>1981. október 28.&lt;/em>: Tájékoztató a XIX. ker. Kispest rekonstrukciójával kapcsolatos beruházások helyzetéről. [előzmények, tervek, ütemek, időpontok, térkép, kispesti áruház]. 190-206. oldal&lt;/li>
+&lt;li>&lt;em>1980. július 30.&lt;/em>: Jelentés a VB határozatok végrehajtásáról. [hivatkozik az 1980. február 14-i ülés határozatára]&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Fővárosi Városrendezési és Építészeti Tervvéleményező Bizottság elfogadta a II/B. ütem 2. és 3. szakaszára vonatkozó színmintákat.&amp;rdquo; (197-198. o.), 1. melléklet a színezés és a zajvédő dombokról (215-216. o.)&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;em>1980. február 14.&lt;/em>: A XIX. ker. Kispest II/B ütem beruházási programja&lt;/li>
+&lt;li>&lt;em>1980. január 30.&lt;/em>: A XIX. ker. Kispest II/B ütem beruházási programja&lt;/li>
+&lt;li>&lt;em>1979. szeptember 28.&lt;/em>: Jelentés a Tanács határozatainak végrehajtásáról és tájékoztató a Végrehajtó Bizottság két tanácsülés közötti munkájáról. [A Végrehajtó Bizottság megtárgyalta: a kispesti fűtőerőmű bővítésének többletköltségeiről szóló előterjesztést, a dél-pesti intézményközpont beruházási célját; pénzösszeg, időpont, ütem].&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;A Tanács 1979. március 27.-i ülésén tárgyalta meg és fogadta el a további munka alapjául a főváros 15 éves lakásépítési és telepítési koncepcióját&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;em>1979. július 4.&lt;/em>: A XIX. ker. Kispest II/B. ütem beruházási programja&lt;/li>
+&lt;li>&lt;em>1979. május 22.&lt;/em>: A dél-pesti intézményközpont beruházási célja (I. ütem) [hivatkozik az 1978. december 20-i ülésre, létesítmények, parkolók, tervezési, kivitelezési időpontok, pénzösszegek és térkép, ami megegyezik a hivatkozottal]&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Az I, ütem, elkészültével visszapótolja a lakótelep épitése során szanálásra kerülő kereskedelmi és ipari szolgáltatói létesítményeket&amp;rdquo;.&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;em>1978. december 20.&lt;/em>: A dél-pesti városrész központ beépítési terve a XIX. kerületi (kispesti) intézményközpontban [hivatkozik az 1977. október 12-i ülésre]&lt;/li>
+&lt;li>&lt;em>1977. december 21.&lt;/em>: A XIX. ker. Kispest II/B. ütem beruházási programja [hivatkozik rá az 1981. október 28-i tájékoztató]&lt;/li>
+&lt;li>&lt;em>1977. október 12.&lt;/em>: A XIX. ker. Kispest városközpont intézményközpontja [hivatkozik az 1976. december 8-i határozatra, az 1977. február 2-i II/A ütem tárgyalásra. Részletes rendezési terv térképpel, melyet 1974. május 24-én fogadtak el, létesítmények jegyzéke és nagyságrendje, vázlatterve]&lt;/li>
+&lt;li>&lt;em>1977. augusztus 31.&lt;/em>: A XIX. ker. Kispest II/B ütem beruházási programja&lt;/li>
+&lt;li>&lt;em>1977. február 2.&lt;/em>: A XIX. ker. Kispest városközpont II/A ütem beruházási programja [hivatkozik rá az 1981. október 28-i tájékoztató, hivatkozik az 1973. december 19-i beruházási programra, térkép]&lt;/li>
+&lt;li>&lt;em>1976. december 8.&lt;/em>: Határidőmódosítási kérelem. XIX.ker.Városközpont, rendezési terv. 687. o.&lt;/li>
+&lt;li>&lt;em>1976. november 10.&lt;/em>: Beruházási programok előterjesztésének határidő módosítása, 594-595. o.&lt;/li>
+&lt;li>&lt;em>1974. június 12.&lt;/em>: A XIX. Kerületi Tanács VB beszámolója munkájáról, különös tekintettel a rekonstrukció helyzetére. [logó, adatok, térkép, és összefoglaló a tervpályázatról két bekezdésben. Utóbbi 1973-ban lett kiiírva, 1974-ben volt határidő, ekkor választottak 17 pályamű közül.]&lt;/li>
+&lt;li>&lt;em>1974. április 10.&lt;/em>: Javaslat a főváros V. ötéves lakásépítési koncepciójára. [benne fejlesztési indoklás, lakásépítés feltételei, közút, közművek, tervellátottság. Nincs térkép.]&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;A terület tervezése késésben van; a részletes rendezési terv a folyamatban lévő tervpályázat eredményétől függően csak 1974-ben készíthető el.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;em>1973. december 19.&lt;/em>: XIX. ker. Kispest, lakótelep I. ütem módosított beruházási programja [hivatkozik rá az 1981. október 28-i tájékoztató, térkép a régi telkekről és a tervezett épületekről]&lt;/li>
+&lt;li>&lt;em>1973. június 6.&lt;/em>: utca elnevezések megszüntetése Kispesten [Zeneköltő utca, Zenekar utca, Piac tér, Viadal utca, stb.]&lt;/li>
+&lt;li>&lt;em>1972. április 12&lt;/em>: Területismertető műleírás az V. ötéves terv budapesti lakásépítésének telepitési javaslatához. XIX. Kispest központ. 147-149. [közmű-, úthálózat, II. sz. házgyár termékei, tervellátottság, nincs térkép]&lt;/li>
+&lt;li>&lt;em>1968. december 4.&lt;/em>: Városközpontok építése a XIX. és a XXII. kerületben [mit szanálnak, mit építenek, megoszlások, nem hivatkozik előzményekre, nincs térkép]&lt;/li>
+&lt;li>&lt;em>1964. július 22.&lt;/em>: A XIX. ker. Kispest központjának és környékének részletes rendezési terve [egyáltalán nem részletes, nincs térkép]&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>MSZMP Budapesti Pártbizottságának ülései:
+&lt;ul>
+&lt;li>&lt;em>1967. május 5.&lt;/em> (Kibővített ülés.): A budapesti lakásépítés, -elosztás, -telepítés és -felújítás problémái. [talán innen kezdődött], benne: Budapest Főváros XIX. ker. Tanács Végrehajtó Bizottsága. Észrevételek. 1967. május 2. [Benne lakáshelyzet, lakásigénylés, nyomatékos kérés a kispesti városközpont rendezésének megkezdésére, lakás statisztikák. Cél: a negyedik ötéves tervben sor kerüljön rá.]&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Arcanum Digitális Tudománytár keresés:
+&lt;ul>
+&lt;li>&lt;code>pomsár jános&lt;/code>, &lt;code>kispest&lt;/code>:
+&lt;ul>
+&lt;li>Magyar Nemzet, 1974. február (30. évfolyam, 26-49. szám) 1974-02-27 / 48. szám: &lt;em>&amp;ldquo;A Minisztertanács három évvel ezelőtt jóváhagyta Budapest és környéke általános rendezési tervét és ennek keretében a dél-pesti városrész központját az Üllői út mentén, Kispest területén jelölte meg.&amp;quot;&lt;/em> ➡️ Hungaricana keresés &lt;code>Budapest és környéke általános rendezési terv 1971&lt;/code>: &lt;a href="https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__VB_1972/?pg=192&amp;amp;layout=s" target="_blank" rel="noopener">MSZMP Budapesti Végrehajtó Bizottságának ülései (HU BFL - XXXV.1.a.4.) 1972&lt;/a> &lt;em>&amp;ldquo;Budapest és környéke általános rendezési terve 1970&amp;rdquo;-el, amelyet a Kormány 1005/1971/II.16./sz. határozatával hagyott jóvá.&amp;quot;&lt;/em> ➕ valahogy elkeveredtem a Fővárosi blogra, &lt;a href="https://fovarosi.blog.hu/2009/02/02/budapest_jovoje_1971_1_resz" target="_blank" rel="noopener">Budapest jövője 1971 1. rész&lt;/a> &lt;em>&amp;ldquo;Budapest és környéke általános rendezési tervét 1971. február 7-én (megj.: másik helyen 16-át említ a könyv) hagyta jóvá a Magyar Népköztársaság Minisztertanácsa&amp;rdquo;&lt;/em> ➡️ Hungaricana, Tanácsok Közlönye keresés &lt;code>Budapest és környéke általános rendezési terv 1971&lt;/code>: Tanácsok közlönye, 1971 (20. évfolyam, 1-61. szám)1971 / 8. szám, 232. oldal. &lt;em>&amp;ldquo;egyben felhívja Budapest Főváros Tanácsának Végrehajtó Bizottságát, hogy a felülvizsgált általános rendezési terv, továbbá az Országos Építésügyi Szabályzat város- és községrendezési előírásainak alapján a Budapesti Városrendezési Szabályzat módosítását készíttesse el és annak tanácsrendeletként történő kiadásáról gondoskodjék.&amp;quot;&lt;/em> ➡️ Hungaricana, Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei keresés &lt;code>Budapest és környéke általános rendezési terv 1971&lt;/code> ➡️ 1972. október 31. &lt;em>&amp;ldquo;Épitési és Városfejlesztési Minisztériumnak a már hatályba lévő [Országos Építésügyi Szabályzat] I. kötetet is módosítania kell, és ezek a módosítások több vonatkozásban hatással lesznek az uj Budapesti Városrendezési Szabályzatra.&amp;quot;&lt;/em> Ezért későbbre halasztották ➡️ 1975. április 8. &lt;em>&amp;ldquo;hogy a BVSz. tervezetét &amp;hellip; legkésőbb 1975. év végéig terjesszék a Tanács elé&amp;rdquo;&lt;/em>, mivel halasztani kellett újból, hasonlóan az előző okokból. ➡️ 1975. december 16. - Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei, 50. oldal: &lt;em>&amp;ldquo;Budapest Főváros Tanácsa 1971-ben elfogadta Budapest és környéke általános rendezési tervét, amelyet a Kormány 1005/1971. /II. 26./ Korm. sz. határozatával jóváhagyott. [&amp;hellip;] A kormányhatározat alapján - többszöri átdolgozással - elkészítettük az uj BVSZ tervezetét.&amp;quot;&lt;/em> De sajna nincs benne szó Kispestről, se térkép. Pontosítva: néhány védett fasor és terület feltüntetése a kerületben. ↩️ 1970. október 20. - Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei, 148. oldal. Itt terjesztik fel a Kormánynak a rendezési tervet, amit ő határozatban jóváhagy. Ebben szerepel térkép! Egyúttal Dianoczky János elvtárs felszólal: &lt;em>&amp;ldquo;Kerületünk élete lakás szempontjából 20 éve stagnál és ebből a dermedtségből most már egy minőségi csúszás is bekövetkezik. [&amp;hellip;] Szeretném a lakásépítési koncepcióhoz csatlakozva a végleges terv kidolgozásakor konkréten Kispestre vonatkozólag a lakásépítési tervek felülvizsgálását kérni. Abban a reményben vagyunk, hogy ez az 500 lakás csak kezdete a kerület rekonstrukciójának.&amp;quot;&lt;/em> Ez lenne az I ütem, szerintem. A tanácsülés elnöke, Kelemen Lajos reagált: &amp;ldquo;Kispest vonatkozáséban vállaljuk az ottani városközpont indítását, és ezzel kapcsolatban a kispesti közmüvesítés építésére Giltner elvtársék már kidolgozták a tervet.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Google: &lt;code>Building Footprint Mapping Using OSM and R Script&lt;/code>, &lt;code>r interactive dashboard map select click&lt;/code>, &lt;code>r interactive map highlight polygon&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="folyóiratok-könyvek">Folyóiratok, könyvek&lt;/h2>
+&lt;ul>
+&lt;li>Magyar Építőművészet (&lt;a href="https://matarka.hu/" target="_blank" rel="noopener">MATARKA&lt;/a>-n böngészhető tartalomjegyzék)&lt;/li>
+&lt;li>Magyar Építőipar&lt;/li>
+&lt;li>Budapest&lt;/li>
+&lt;li>Városépítés&lt;/li>
+&lt;li>Műszaki Tervezés&lt;/li>
+&lt;li>Bitó János (2013): Lakóépületek tervezése&lt;/li>
+&lt;li>Reischl Antal (1979): Lakóépületek tervezése, Tankönyvkiadó Vállalat, p 328.&lt;/li>
+&lt;li>Preisich Gábor (1998): Budapest városépítésének története, Műszaki Könyvkiadó&lt;/li>
+&lt;li>Panelki : Construct Your Socialist Prefab Panel Block&lt;/li>
+&lt;/ul>
+&lt;h2 id="intézetek-vállalatok">Intézetek, vállalatok&lt;/h2>
+&lt;ul>
+&lt;li>Budapest Főváros Tanácsa (&lt;strong>építtető&lt;/strong>, Kispest)
+&lt;ul>
+&lt;li>Beruházási Főosztály&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Lakó és Kommunális Épületeket Tervező Vállalat (LAKÓTERV) (&lt;strong>generáltervező&lt;/strong>, Kispest)&lt;/li>
+&lt;li>Fővárosi Építőipari Beruházási Vállalat (FŐBER) (&lt;strong>lebonyolító&lt;/strong>, Kispest)&lt;/li>
+&lt;li>&lt;em>43.&lt;/em> számú Állami Építőipari Vállalat (&lt;strong>generálkivitelező&lt;/strong>, Kispest)&lt;/li>
+&lt;li>UVATERV (Bp. XIX. Kispest lakótelep III. ütem beépítési tanulmányterv)&lt;/li>
+&lt;li>Építésgazdasági és Szervezési Intézet (ÉGSZI) 31. Főosztály Lakótelep Szervezési Osztály&lt;/li>
+&lt;li>Általános Épülettervező Vállalat (ÁÉTV)&lt;/li>
+&lt;li>Budapesti Városépítési Tervező Vállalat (BUVÁTI vagy BVTV)&lt;/li>
+&lt;li>Típustervező Intézet (TTI)&lt;/li>
+&lt;li>Építésügyi és Városfejlesztési Minisztérium Műszaki Tervezési Főosztály&lt;/li>
+&lt;li>BME ÉPK &lt;a href="http://www.urbanisztika.bme.hu/" target="_blank" rel="noopener">Urbanisztika Tanszék&lt;/a>
+&lt;ul>
+&lt;li>Budapest, XIX. Kispest központjának részletes rendezési terve. (akkoriban Városépítési Tanszék. &lt;a href="https://library.hungaricana.hu/hu/view/BME_Evkonyv_1970-71/?pg=155&amp;amp;layout=s" target="_blank" rel="noopener">A Budapesti Műszaki Egyetem Évkönyve 1970-1971.&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>BME ÉPK &lt;a href="http://www.lako.bme.hu/" target="_blank" rel="noopener">Lakóépülettervezési Tanszék&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://lechnerkozpont.hu/" target="_blank" rel="noopener">Lechner Tudásközpont&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="http://lechnerkozpont.hu/oldal/dokumentacios-kozpont-altalanos-informaciok" target="_blank" rel="noopener">Építésügyi Dokumentációs és Információs Központ&lt;/a> (tervtár és szakkönyvtár) | itt lehet majd betekinteni a tervekbe, itt lehet fellelni a legtöbbet a Katalógusuk alapján kereshetőek is&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Budapest Főpolgármesteri Hivatal, &lt;a href="https://einfoszab.budapest.hu/form/belso-szervezeti-egyseg-view;id=1801324" target="_blank" rel="noopener">Várostervezési Főosztály&lt;/a>&lt;/li>
+&lt;li>XIX. Kerület Kispest Önkormányzata &lt;a href="https://uj.kispest.hu/ugyintezes/irodak/215-foepitesz" target="_blank" rel="noopener">Főépítészi Iroda&lt;/a>&lt;/li>
+&lt;li>ELKH Csillagászati és Földtudományi Kutatóközpont, Földrajztudományi Intézet&lt;/li>
+&lt;li>ELKH Társadalomtudományi Kutatóközpont, Szociológiai Intézet&lt;/li>
+&lt;li>&lt;a href="http://magyarpanel.hu/" target="_blank" rel="noopener">Magyar Panelrehabilitációs Nonprofit Kft.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="személyek">Személyek&lt;/h2>
+&lt;ul>
+&lt;li>Iván László&lt;/li>
+&lt;li>&lt;a href="https://tk.hu/kutato/csizmady-adrienne" target="_blank" rel="noopener">Csizmady Adrienne&lt;/a> (ELKH Társadalomtudományi Kutatóközpont, Szociológiai Intézet)&lt;/li>
+&lt;li>&lt;a href="http://www.urbanisztika.bme.hu/en/tanszek/munkatarsak/benko-melinda/" target="_blank" rel="noopener">Benkő Melinda&lt;/a> (BME ÉPK Urbanisztika Tanszék)&lt;/li>
+&lt;li>Balla Regina (PhD hallgató, BME ÉPK Urbanisztika Tanszék)&lt;/li>
+&lt;li>Weiszkopf András (tanársegéd, BME ÉPK &lt;a href="http://www.lako.bme.hu/?page_id=98" target="_blank" rel="noopener">Lakóépülettervezési Tanszék&lt;/a>)&lt;/li>
+&lt;li>&lt;a href="https://hu.linkedin.com/in/%C3%A1bel-m%C3%A9sz%C3%A1ros-50b83b56" target="_blank" rel="noopener">Mészáros Ábel&lt;/a> (Lechner Tudásközpont)&lt;/li>
+&lt;li>Zoltai István:
+&lt;ul>
+&lt;li>Magyar Építőművészet, 1979/6.szám : &amp;ldquo;Időközben műtermünkben Zoltai István kollégám megtervezte a csatlakozó kispesti lakótelepet mely hasonló az Üllői útra&amp;rdquo;&lt;/li>
+&lt;li>&lt;a href="https://index.hu/urbanista/2018/03/28/kaposztasmegyer_lakotelep_terkep_terv_panel_kapi_ujpest/" target="_blank" rel="noopener">Amikor szalvétára fért egy budapesti lakótelep terve&lt;/a>: &amp;ldquo;Ez a terv még abban az évben kész lett a LAKÓTERV építészgárdája jóvoltából, Zoltai István építész vezetésével (aki egyébként Ybl Miklós-díjas, de azt még 1976-ban kapta a Kispesti lakótelepért).&amp;rdquo;&lt;/li>
+&lt;li>&lt;code>&amp;quot;zoltai istván&amp;quot;&lt;/code> Hungaricana keresés, 200 találat. &lt;em>1987. március 11.&lt;/em> - Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei: Javaslat Reitter Ferenc díj adományozására. [személyes adatok, elismerései, méltatás, a javaslat indoklása építészeti tevékenységével, de Ybl-díjának okát nem említik]&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Bálint Imre, Kispest II/A ütem és kispesti városközpont tervezője&lt;/li>
+&lt;li>Pomsár János, BVTV osztályvezető (Javaslat Pro Urbe Budapest kitüntetésre, Budapest Főváros Tanácsa Végrehajtó Bizottsága jegyzőkönyv 1979. január 17. és 1981. január 14.: Kispest városközpont (I. ütem) beépítési terve, 1967)&lt;/li>
+&lt;li>Pongrácz Pál, Városrendezési és Építészeti Főosztály, főosztályvezető (Kispest II/B ütem előadó)&lt;/li>
+&lt;li>Giltner Andor, tanácselnök helyettes (Kispest II/B ütem felelős)&lt;/li>
+&lt;li>Szabó Balázs (MTA CSFK FTI)&lt;/li>
+&lt;li>Bene Mónika (KSH)&lt;/li>
+&lt;li>Székely Krisztina, a &lt;a href="http://alaprajzok.paneltunder.hu/" target="_blank" rel="noopener">Paneltündér&lt;/a>. [lakás alaprajzokhoz készít lakberendezési tanácsot]&lt;/li>
+&lt;li>Magyar Csaba, Futureal projektvezető. &lt;a href="https://www.portfolio.hu/ingatlan/20120406/az-elso-igazi-panelbontas-es-tanulsagai-interju-165311" target="_blank" rel="noopener">Az első igazi panelbontás és tanulságai (interjú)&lt;/a> - Portfolio.hu. Hozzáférés: 2021.01.06.&lt;/li>
+&lt;li>László-Kun Gábor, a &lt;a href="https://www.instagram.com/legotelep/" target="_blank" rel="noopener">Legótelep&lt;/a> Instagram oldal készítője. &lt;a href="https://welovebudapest.com/cikk/2019/6/14/ha-az-igazit-nem-is-ezeket-a-legobol-epult-panelhazakat-szeretni-fogod" target="_blank" rel="noopener">Ha az igazit nem is, ezeket a legóból épült panelházakat szeretni fogod&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Azt tervezem, hogy a lehető legtöbb hazai paneles típustervet elkészítsem Legóból, megemlékezve a iparosított lakásépítés mozgalmas évtizedeiről, ami színes kockákból megépítve talán mégsem olyan szürke, mint gondolnánk&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="fogalmak">Fogalmak&lt;/h2>
+&lt;ul>
+&lt;li>building footprint&lt;/li>
+&lt;li>choropleth map&lt;/li>
+&lt;li>rendezési, kiviteli, szabályozási, beruházási terv, beruházási program, beépítési terv, tanulmányterv&lt;/li>
+&lt;li>tervpályázat&lt;/li>
+&lt;li>kerületi alapterv, kapcsolódóan Budapest és környéke általános rendezési tervéhez.
+&lt;ul>
+&lt;li>&lt;em>1959. szeptember 30.&lt;/em> - Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;A hivatkozott határozat értelmében a VB. Városrendezési és építészeti osztálya az általános terv alapján, elsősorban az ütemterv és a részletes tervek kidolgozásának elősegítése céljából, 1959. december 31-ig elkészíti az egyes városrészek u.n. kerületi alapterveit. Eeok a tervek lényegében az 1:20000-es léptékben készült általános terv megállapításait pontosabb terülctlehatárolással ós az összefüggések fokozottabb érvényesítésével 1:5000-es léptékben rögzítik. Ezek a tervek mind a területfclhnsználás, mind a forgalmi úthálózat, mind pedig a város építészeti kialakítása szempontjából a részletes tervek kidolgozása és a végrehajtás ütemezése számára egyaránt egyértelmű alapul szolgálnak.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>megvalósulási/megvalósítási térrajz&lt;/li>
+&lt;li>építtető, lebonyolító, generáltervező, generálkivitelező (FŐBER sorozat 12.)&lt;/li>
+&lt;li>fogat&lt;/li>
+&lt;/ul>
+&lt;h2 id="technológiák">Technológiák&lt;/h2>
+&lt;ul>
+&lt;li>kispanel&lt;/li>
+&lt;li>alagútzsalu&lt;/li>
+&lt;/ul>
+&lt;h2 id="képek">Képek&lt;/h2>
+&lt;p>FSZEK katalógus: &lt;code>kispest lakótelep&lt;/code> [Bármely kulcsszó] keresés
+&lt;em>A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés&lt;/em>
+FSZEK Központi Könyvtár Budapest Gyűjtemény, raktár&lt;/p>
+&lt;p>Bp 19. kerület Kispest városközpont 2/B ütem 1. és 2. szakasz
+&lt;img src="IMG_20200730_143336.jpg" alt="Bp 19. kerület Kispest városközpont 2/B ütem 1. és 2. szakasz">&lt;/p>
+&lt;p>Bp 19. kerület Kispest városközpont 2/B ütem 3. szakasz
+&lt;img src="IMG_20200730_143400.jpg" alt="Bp 19. kerület Kispest városközpont 2/B ütem 3. szakasz">&lt;/p></description></item><item><title>Könyvjelzők</title><link>https://hermanp.github.io/hu/resources/bookmarks/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://hermanp.github.io/hu/resources/bookmarks/</guid><description>&lt;p>A könyvjelzők szerkezetéről, jellegzetességeiről és ezen oldal létrehozásának módjáról lehet olvasni ebben a &lt;a href="https://hermanp.github.io/hu/post/a-konyvjelzokrol/">posztban&lt;/a>.&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;h2 id="adat">Adat&lt;/h2>
