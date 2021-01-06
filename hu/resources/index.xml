@@ -1,1 +1,724 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Források | Herman Péter</title><link>https://hermanp.github.io/hu/resources/</link><atom:link href="https://hermanp.github.io/hu/resources/index.xml" rel="self" type="application/rss+xml"/><description>Források</description><generator>Wowchemy (https://wowchemy.com)</generator><language>hu</language><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><image><url>https://hermanp.github.io/images/icon_hu1a779452550ea7625b45e05d3004a154_2463_512x512_fill_lanczos_center_2.png</url><title>Források</title><link>https://hermanp.github.io/hu/resources/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Források | Herman Péter</title><link>https://hermanp.github.io/hu/resources/</link><atom:link href="https://hermanp.github.io/hu/resources/index.xml" rel="self" type="application/rss+xml"/><description>Források</description><generator>Wowchemy (https://wowchemy.com)</generator><language>hu</language><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><image><url>https://hermanp.github.io/images/icon_hu1a779452550ea7625b45e05d3004a154_2463_512x512_fill_lanczos_center_2.png</url><title>Források</title><link>https://hermanp.github.io/hu/resources/</link></image><item><title>Könyvjelzők</title><link>https://hermanp.github.io/hu/resources/bookmarks/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://hermanp.github.io/hu/resources/bookmarks/</guid><description>&lt;p>A könyvjelzők szerkezetéről, jellegzetességeiről és ezen oldal létrehozásának módjáról lehet olvasni ebben a &lt;a href="https://hermanp.github.io/hu/post/a-konyvjelzokrol/">posztban&lt;/a>.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;h2 id="adat">Adat&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;h3 id="stat">Stat&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Outline_of_statistics" target="_blank" rel="noopener">Outline of statistics&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Significant_figures" target="_blank" rel="noopener">Significant figures&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://statweb.stanford.edu/~tibs/ElemStatLearn/" target="_blank" rel="noopener">Elements of Statistical Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stats.stackexchange.com/questions/4551/what-are-common-statistical-sins/4553#4553" target="_blank" rel="noopener">What are common statistical sins?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stats.stackexchange.com/questions/219733/what-should-be-taught-first-probability-or-statistics" target="_blank" rel="noopener">What should be taught first: Probability or Statistics?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://math.stackexchange.com/questions/436415/a-path-to-truly-understanding-probability-and-statistics" target="_blank" rel="noopener">A path to truly understanding probability and statistics&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stats.stackexchange.com/questions/16696/what-are-good-resources-providing-a-history-of-statistics" target="_blank" rel="noopener">What are good resources providing a history of statistics?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stats.stackexchange.com/questions/165/how-would-you-explain-markov-chain-monte-carlo-mcmc-to-a-layperson" target="_blank" rel="noopener">How would you explain Markov Chain Monte Carlo (MCMC) to a layperson?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stats.stackexchange.com/questions/2181/book-recommendations-for-multivariate-analysis" target="_blank" rel="noopener">Book recommendations for multivariate analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://ramet.elte.hu/~podani/subindex.html" target="_blank" rel="noopener">Bevezetés a többváltozós biológiai adatfeltárás rejtelmeibe&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://psycho.unideb.hu/statisztika/index2.html" target="_blank" rel="noopener">Többváltozós statisztika pszichológus hallgatóknak&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://meta.stats.stackexchange.com/questions/793/internet-support-for-statistics-software" target="_blank" rel="noopener">Internet Support for Statistics Software&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.autodeskresearch.com/publications/samestats" target="_blank" rel="noopener">The Datasaurus Dozen&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://seeing-theory.brown.edu/" target="_blank" rel="noopener">Seeing Theory&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://simplystatistics.org/" target="_blank" rel="noopener">Simply Statistics&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://kbroman.wordpress.com/2013/04/02/thoughts-on-statistical-consulting/" target="_blank" rel="noopener">Thoughts on statistical consulting&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.ksh.hu/statszemle_archive/2017/2017_05/2017_05_461.pdf" target="_blank" rel="noopener">Hivatalos statisztika és a Big Data&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="data-science">Data science&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;h4 id="képzés">Képzés&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://www.facebook.com/datajobshu" target="_blank" rel="noopener">datajobs.hu - Facebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dmlab.hu/blog/data-science-kepzesek-2020/" target="_blank" rel="noopener">Data Science képzések - 2020&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/hungary/comments/9u6if4/mi_a_v%C3%A9lem%C3%A9nyetek_a_programoz%C3%B3/" target="_blank" rel="noopener">Mi a véleményetek a programozó kurzusokról?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://index.hu/gazdasag/2019/08/22/green_fox_programozokepzes_junior_allas_munka/" target="_blank" rel="noopener">Álompályának tűnt, de fel kellett adniuk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://csmsc.elte.hu/curriculum/syllabuses_DSC.pdf" target="_blank" rel="noopener">ELTE IK CS MSc Data Science specialization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developers.google.com/machine-learning/crash-course" target="_blank" rel="noopener">Machine Learning Crash Course&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://towardsdatascience.com/21-amazing-youtube-channels-for-you-to-learn-ai-machine-learning-and-data-science-for-free-486c1b41b92a" target="_blank" rel="noopener">23 amazing Youtube channels for you to learn AI, Machine Learning, and Data Science for free&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://towardsdatascience.com/how-id-learn-data-science-if-i-could-start-over-2-years-in-b821d8a4876c" target="_blank" rel="noopener">How I’d Learn Data Science if I Could Start Over (2 years in) | by Terence S&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://towardsdatascience.com/" target="_blank" rel="noopener">Towards Data Science&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/datascience/" target="_blank" rel="noopener">Data Science&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dmlab.hu/" target="_blank" rel="noopener">Dmlab&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dms.sztaki.hu/" target="_blank" rel="noopener">MTA SZTAKI Adatbányászat és Keresés Csoport&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/jtleek/datasharing" target="_blank" rel="noopener">How to share data with a statistician&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ubc-mds.github.io/descriptions/" target="_blank" rel="noopener">UBC Master of Data Science courses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://p.migdal.pl/2015/12/14/sci-to-data-sci.html" target="_blank" rel="noopener">What I do or: science to data science&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c" target="_blank" rel="noopener">How to Build a Data Science Portfolio&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://news.codecademy.com/data-science-job/" target="_blank" rel="noopener">How to Get a Job in Data Science&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hackernoon.com/what-on-earth-is-data-science-eb1237d8cb37" target="_blank" rel="noopener">What on earth is data science?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7" target="_blank" rel="noopener">The 10 Statistical Techniques Data Scientists Need to Master&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/wish-engineering/scaling-analytics-at-wish-619eacb97d16" target="_blank" rel="noopener">Building The Analytics Team At Wish&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/craftdata-labs/on-building-effective-data-science-teams-4813a4b82939" target="_blank" rel="noopener">On Building Effective Data Science Teams&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://towardsdatascience.com/the-best-free-data-science-ebooks-b671691e5231" target="_blank" rel="noopener">The Best Free Data Science eBooks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://towardsdatascience.com/how-to-learn-data-science-on-your-own-a-practical-guide-1a871fec2034" target="_blank" rel="noopener">How to learn data science on your own: a practical guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4" target="_blank" rel="noopener">The Ultimate Guide to Data Cleaning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e" target="_blank" rel="noopener">12 things I wish I’d known before starting as a Data Scientist&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091" target="_blank" rel="noopener">Scaling Knowledge at Airbnb&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://towardsdatascience.com/data-engineering-complete-reference-guide-from-a-z-2019-852c308b15ed" target="_blank" rel="noopener">Data Engineering — Complete Reference Guide From A-Z [2019]&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.confetti.ai/" target="_blank" rel="noopener">Confetti AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.confetti.ai/assets/ml-primer/ml_primer.pdf" target="_blank" rel="noopener">A machine learning primer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/datascience/comments/j31x1h/everyonr_talks_about_transitioning_into_data/" target="_blank" rel="noopener">Everyonr talks about transitioning into Data Science. Has anyone transitioned out of data science? Where did you end up? Why did you leave?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/datascience/comments/j5himo/why_is_it_so_hard_to_find_any_r_related_job_r_now/" target="_blank" rel="noopener">Why is it so hard to find any R related job?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mdneuzerling.com/post/my-data-science-job-hunt/" target="_blank" rel="noopener">My data science job hunt&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jonkeane.com/blog/simple_tricks/" target="_blank" rel="noopener">4 tricks to be a more efficient data scientist&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/df-foundation/meet-whale-the-stupidly-simple-data-discovery-tool-9f847c004b47" target="_blank" rel="noopener">Meet whale! 🐳 The stupidly simple data discovery tool. | by Robert Yi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01" target="_blank" rel="noopener">Ethics in Web Scraping&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="geoinf">Geoinf&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://lechnerkozpont.hu/" target="_blank" rel="noopener">Lechner Tudásközpont&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.teir.hu/" target="_blank" rel="noopener">TeIR&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.earthdatascience.org/" target="_blank" rel="noopener">Earth Data Science&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.copernicus.eu/en" target="_blank" rel="noopener">Copernicus&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://scihub.copernicus.eu/" target="_blank" rel="noopener">Copernicus Open Access Hub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rus-copernicus.eu/portal/" target="_blank" rel="noopener">Copernicus Research and User Support&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.sentinel-hub.com/" target="_blank" rel="noopener">Sentinel Hub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.osgeo.org/" target="_blank" rel="noopener">OSGeo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.agt.bme.hu/gis/view.php" target="_blank" rel="noopener">Geodéziai és térinformatikai szabadszoftverek&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://leafletjs.com/" target="_blank" rel="noopener">Leaflet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://firststreet.org/" target="_blank" rel="noopener">First Street Foundation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/53012258/plotting-building-footprints-with-leaflet-in-r" target="_blank" rel="noopener">Plotting building footprints with leaflet in R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://azure.microsoft.com/en-ca/blog/how-to-extract-building-footprints-from-satellite-images-using-deep-learning/" target="_blank" rel="noopener">How to extract building footprints from satellite images using deep learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.nature.com/articles/s41597-020-0542-3#code-availability" target="_blank" rel="noopener">A rasterized building footprint dataset for the United States&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://richardlent.github.io/post/web-mapping/" target="_blank" rel="noopener">Web Mapping with Free Software Tools · Richard A. Lent, Ph.D.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://c3s-edu.wemcouncil.org/" target="_blank" rel="noopener">C3S Edu Demo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://geod.bme.hu/geod/muszaki_terinf" target="_blank" rel="noopener">Műszaki térinformatika szakirányú továbbképzés&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://eo-college.org/courses/echoes-in-space/" target="_blank" rel="noopener">Echoes in space – EO College&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/53161186/q-r-plot-building-footprint-outline-on-map-using-openstreetmap-data" target="_blank" rel="noopener">R plot building footprint / outline on map using OpenStreetMap data&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://azure.microsoft.com/en-us/blog/how-to-extract-building-footprints-from-satellite-images-using-deep-learning/" target="_blank" rel="noopener">How to extract building footprints from satellite images using deep learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/chenzhaiyu/awesome-building-detection" target="_blank" rel="noopener">Papers for Building Detection from Remote Sensing Images&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="bioinfo">Bioinfo&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://www.bioconductor.org/" target="_blank" rel="noopener">Bioconductor&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://neuroconductor.org/" target="_blank" rel="noopener">Neuroconductor&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ncbi.nlm.nih.gov/" target="_blank" rel="noopener">National Center for Biotechnology Information&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.biostars.org/" target="_blank" rel="noopener">Biostars&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.biostars.org/p/142494/" target="_blank" rel="noopener">Bioinformatics courses, workshops or training&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.biostars.org/p/196703/" target="_blank" rel="noopener">[UPDATE] Thrown into a Bioinformatics Position&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.biostars.org/p/184551/" target="_blank" rel="noopener">A Wet-Lab Guide to &amp;lsquo;what I wish I had known&amp;rsquo; for Computational Biology&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://bytesizebio.net/2012/10/04/synopsis-of-career-paths-in-bioinformatics/" target="_blank" rel="noopener">A Synopsis of Career Paths in Bioinformatics&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://pongor.itk.ppke.hu/library/Group-Publications/PAPERS%20PDF%20ONLY/133.pdf" target="_blank" rel="noopener">A bioinformatika mint oktatási feladat&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://academic.oup.com/bioinformatics/article-pdf/20/14/2159/566247/bth217.pdf" target="_blank" rel="noopener">Bioinformatics scientists versus bioinformatics technicians&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://education.knoweng.org/sequenceng/" target="_blank" rel="noopener">SequencEnG&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/bioinformatics/comments/61tq1w/what_is_the_next_big_thing_or_method_in_your_niche/" target="_blank" rel="noopener">What is the next &amp;ldquo;big thing&amp;rdquo; or method in your niche? : bioinformatics&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="legal-informatics">Legal informatics&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://globallegalhackathon.com/" target="_blank" rel="noopener">Global Legal Hackathon&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Jurimetrics" target="_blank" rel="noopener">Jurimetrics&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://law.mit.edu/" target="_blank" rel="noopener">MIT Computational Law Report&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://lrec-conf.org/workshops/lrec2018/W22/pdf/6_W22.pdf" target="_blank" rel="noopener">Legal text processing within the MIREL project&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://unipub.lib.uni-corvinus.hu/3513/1/2017_05_505.pdf" target="_blank" rel="noopener">A bírósági ítéletek adatbázisa mint Big Data&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://programminghistorian.org/" target="_blank" rel="noopener">The Programming Historian&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://data.europa.eu/euodp/en/home/" target="_blank" rel="noopener">EU Open Data Portal&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gdpr.eu/" target="_blank" rel="noopener">GDPR Compliance Guidelines&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="r">R&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;h3 id="r-issues">R issues&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/2712421/r-and-version-control-for-the-solo-data-analyst/2715569#2715569" target="_blank" rel="noopener">R and version control for the solo data analyst&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/1429907/workflow-for-statistical-analysis-and-report-writing" target="_blank" rel="noopener">Workflow for statistical analysis and report writing&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nicercode.github.io/blog/2013-04-05-projects/" target="_blank" rel="noopener">Designing projects - Nice R Code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.carlboettiger.info/2012/05/06/research-workflow.html" target="_blank" rel="noopener">My research workflow, based on Github&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/10904124/global-and-local-variables-in-r/10904810#10904810" target="_blank" rel="noopener">Global and local variables in R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/3412911/r-exe-rcmd-exe-rscript-exe-and-rterm-exe-whats-the-difference?lq=1" target="_blank" rel="noopener">R.exe vs Rcmd.exe vs Rscript.exe vs Rterm.exe what&amp;rsquo;s the difference?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/21370132/r-data-formats-rdata-rda-rds-etc" target="_blank" rel="noopener">R data formats: RData, Rda, Rds&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/3505701/r-grouping-functions-sapply-vs-lapply-vs-apply-vs-tapply-vs-by-vs-aggrega" target="_blank" rel="noopener">R Grouping functions: sapply vs. lapply vs. apply. vs. tapply vs. by vs. aggregate&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/19226816/how-can-i-view-the-source-code-for-a-function" target="_blank" rel="noopener">How can I view the source code for a function?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/4442518/general-suggestions-for-debugging-in-r" target="_blank" rel="noopener">General suggestions for debugging in R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/2908822/speed-up-the-loop-operation-in-r?rq=1" target="_blank" rel="noopener">Speed up the loop operation in R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/1401904/painless-way-to-install-a-new-version-of-r" target="_blank" rel="noopener">Painless way to install a new version of R?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/1299871/how-to-join-merge-data-frames-inner-outer-left-right" target="_blank" rel="noopener">How to join (merge) data frames (inner, outer, left, right)?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/12193779/how-to-write-trycatch-in-r" target="_blank" rel="noopener">How to write trycatch in R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rsangole.netlify.com/post/try-catch/" target="_blank" rel="noopener">Using tryCatch for robust R scripts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/10393508/how-to-use-the-switch-statement-in-r-functions" target="_blank" rel="noopener">How to use the switch statement in R functions?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/16703222/apply-function-in-different-levels-of-a-nested-list-re-post?rq=1" target="_blank" rel="noopener">Apply function in different levels of a nested list (re-post)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/17531403/how-to-sort-a-character-vector-where-elements-contain-letters-and-numbers-in-r" target="_blank" rel="noopener">How to sort a character vector where elements contain letters and numbers in R?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/3490196/how-to-make-pretty-rounding-in-r?rq=1" target="_blank" rel="noopener">How to make &amp;ldquo;pretty rounding&amp;rdquo; in R?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/9508518/why-are-these-numbers-not-equal" target="_blank" rel="noopener">Why are these numbers not equal?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/13579953/how-can-i-paste-100000-without-it-being-shortened-to-1e05" target="_blank" rel="noopener">How can I paste 100000 without it being shortened to 1e+05?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/48799959/r-reduce-with-merge-and-more-than-2-suffixes-or-how-to-merge-multiple-datafr" target="_blank" rel="noopener">How to merge multiple dataframes and keep track of columns&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/50749875/programmatically-rename-columns-in-dplyr" target="_blank" rel="noopener">Programmatically rename columns dplyr triple bang (!!!)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/730133/invalid-characters-in-xml" target="_blank" rel="noopener">Invalid Characters in XML&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/134494/is-there-any-difference-between-valid-xml-and-well-formed-xml/25830482#25830482" target="_blank" rel="noopener">Is there any difference between &amp;lsquo;valid xml&amp;rsquo; and &amp;lsquo;well formed xml&amp;rsquo;?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/34593753/testing-text-nodes-vs-string-values-in-xpath/34595441#34595441" target="_blank" rel="noopener">Testing text() nodes vs string values in XPath&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://support.rstudio.com/hc/en-us/articles/360017886674-Troubleshooting-RStudio-Rendering-Errors" target="_blank" rel="noopener">Troubleshooting RStudio Rendering Errors&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="hadley">Hadley&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://hadley.nz/" target="_blank" rel="noopener">Hadley Wickham&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://adv-r.had.co.nz/" target="_blank" rel="noopener">Advanced R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://r4ds.had.co.nz/" target="_blank" rel="noopener">R for Data Science&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://r-pkgs.had.co.nz/" target="_blank" rel="noopener">R packages&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.tidyverse.org/" target="_blank" rel="noopener">Tidyverse&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.tidymodels.org/" target="_blank" rel="noopener">Tidymodels&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/rfordatascience/tidytuesday" target="_blank" rel="noopener">tidytuesday&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="plot">Plot&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;h4 id="tools">Tools&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://color.adobe.com/create/color-wheel" target="_blank" rel="noopener">Adobe Color&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://leonardocolor.io/" target="_blank" rel="noopener">Leonardo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coolors.co/" target="_blank" rel="noopener">Coolors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://projects.susielu.com/viz-palette" target="_blank" rel="noopener">Viz Palette&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf" target="_blank" rel="noopener">ggplot2 cheatsheet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf" target="_blank" rel="noopener">R color cheatsheet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://public.tableau.com/en-us/s/" target="_blank" rel="noopener">Tableau Public&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noopener">Microsoft Power BI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://vega.github.io/vega-lite/" target="_blank" rel="noopener">Vega-Lite&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.htmlwidgets.org/" target="_blank" rel="noopener">htmlwidgets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cran.r-project.org/web/packages/UpSetR/" target="_blank" rel="noopener">UpSetR: Alternative to Venn Diagrams&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://igraph.org/r/" target="_blank" rel="noopener">igraph: network analysis package&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://briatte.github.io/ggnet/" target="_blank" rel="noopener">ggnet2: network visualization with ggplot2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gephi.org/" target="_blank" rel="noopener">Gephi&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://informationisbeautiful.net/" target="_blank" rel="noopener">Information is Beautiful&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.informationisbeautifulawards.com/" target="_blank" rel="noopener">Information is Beautiful Awards&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.datavisualizationsociety.com/" target="_blank" rel="noopener">Data Visualization Society&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pudding.cool/" target="_blank" rel="noopener">The Pudding&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.datawrapper.de/colorguide/" target="_blank" rel="noopener">Your Friendly Guide to Colors in Data Visualisation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.datawrapper.de/colors/" target="_blank" rel="noopener">What to consider when choosing colors for data visualization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://programmingdesignsystems.com/" target="_blank" rel="noopener">Programming Design Systems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.yan-holtz.com/" target="_blank" rel="noopener">Yan Holtz&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.williamrchase.com/" target="_blank" rel="noopener">Will Chase&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.r-graph-gallery.com/" target="_blank" rel="noopener">The R Graph Gallery&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://driven-by-data.net/" target="_blank" rel="noopener">driven by data&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://material.io/design/communication/data-visualization.html#" target="_blank" rel="noopener">Material Design data visualization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.datawrapper.de/" target="_blank" rel="noopener">Datawrapper Chartable&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://plotly-r.com/" target="_blank" rel="noopener">Interactive web-based data visualization with R, plotly, and shiny&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kateto.net/network-visualization" target="_blank" rel="noopener">Static and dynamic network visualization with R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/" target="_blank" rel="noopener">Bivariate maps with ggplot2 and sf&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deanattali.com/blog/advanced-shiny-tips/#shinydashboard-sidebar-hide" target="_blank" rel="noopener">Shiny tips &amp;amp; tricks for improving your apps and solving common problems&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/nightingale/constructing-a-career-in-data-visualization-the-how-18ad4900c120" target="_blank" rel="noopener">Constructing a Career in Data Visualization: The How&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/nightingale/from-camera-roll-to-color-harmony-greening-a-visualization-28366a1b3b17" target="_blank" rel="noopener">How to extract color themes for data visualization from images&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://socviz.co/" target="_blank" rel="noopener">Data Visualization - Kieran Healy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.anychart.com/blog/category/data-visualization-weekly/" target="_blank" rel="noopener">Data Visualization Weekly | AnyChart&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.huevaluechroma.com/index.php" target="_blank" rel="noopener">The Dimensions of Colour&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="blogdown">Blogdown&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">blogdown: Creating Websites with R Markdown&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://makingwebsiteswithr.rbind.io/" target="_blank" rel="noopener">Making a Website with R and the Blogdown Package&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://regisphilibert.com/blog/2018/08/hugo-multilingual-part-1-managing-content-translation/" target="_blank" rel="noopener">Hugo Multilingual Part 1: Content translation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.muscaestar.xyz/en/post/multilanguage-blog-hugo-github/" target="_blank" rel="noopener">Start a Multi Language Blog with Hugo on Github Pages&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.dsquintana.blog/free-website-in-r-easy/" target="_blank" rel="noopener">How to make a free personal website in R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://diegousai.io/2019/10/build-your-website-with-hugo-and-blogdown/" target="_blank" rel="noopener">Build Your Website with Hugo and blogdown&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/" target="_blank" rel="noopener">Up &amp;amp; Running with blogdown | Alison Hill&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://annielyu.com/2020/01/12/blogdown-website/" target="_blank" rel="noopener">Fun blogdown in R to design a personal website&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://annielyu.com/slides/isugg/blogdown_aa#1" target="_blank" rel="noopener">Settle down a Personal Website&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://vickimzhang.rbind.io/post/hugo-blogdown/" target="_blank" rel="noopener">How I used blogdown and Hugo to set up a personal static site&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://oganm.com/note-to-self-how-did-i-set-up-this-site/" target="_blank" rel="noopener">Note to self: How did I set up this site - B. Ogan Mancarci&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bobbymuljono.com/post/data-analyst-guide-to-creating-your-personal-website-with-r/" target="_blank" rel="noopener">A Data Analyst&amp;rsquo;s Guide to Creating Your Personal Website with R | Bobby Muljono&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://community.rstudio.com/t/whats-your-blogdown-workflow-to-include-work-from-other-projects/1445" target="_blank" rel="noopener">What&amp;rsquo;s your blogdown workflow to include work from other projects&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://community.rstudio.com/t/updating-academic-theme-woes/68224" target="_blank" rel="noopener">Updating academic theme woes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/issues/1845" target="_blank" rel="noopener">Problem with: blogdown::new_site(theme = &amp;ldquo;gcushen/hugo-academic&amp;rdquo;)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions/1891" target="_blank" rel="noopener">Light/Dark/Automatic translation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions/1886" target="_blank" rel="noopener">How can I add credits by the end of the page?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dadascience.design/post/r-troubleshooting-blogdown-hugo-for-windows-dummies/" target="_blank" rel="noopener">Troubleshooting Blogdown &amp;amp; Hugo for (Windows) Dummies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://portfolio.peter-baumgartner.net/2017/09/14/alternatives-for-disqus/" target="_blank" rel="noopener">Alternatives for Disqus?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://andreaczhang.rbind.io/post/my-1st-blogpost/" target="_blank" rel="noopener">Overwhelmed by Hugo academic theme: a beginner&amp;rsquo;s guide | Chi Zhang&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lmyint.github.io/post/hugo-academic-tips/" target="_blank" rel="noopener">Tips for using the Hugo academic theme&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://thisdwhitley.com/post/024-hugo-toc/" target="_blank" rel="noopener">Adding a useful Table of Contents to Hugo sites&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://isabella-b.com/blog/hugo-academic-customization/" target="_blank" rel="noopener">7 Ways You Can Further Customize the Hugo Academic Theme&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.jameswright.xyz/post/deploy-hugo-academic-using-githubio/" target="_blank" rel="noopener">Automate Deployment of Hugo Academic Website onto GitHub Pages&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://varmara.github.io/post/2019-01-15-deploying-a-hugo-based-website-on-github-user-pages/" target="_blank" rel="noopener">Deploying a hugo-based website on GitHub user pages&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lakemper.eu/blog/getting-started-with-hugo-academic-and-github-pages/" target="_blank" rel="noopener">Getting Started With Hugo Academic and Github Pages&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/zendesk-engineering/a-github-actions-workflow-to-generate-publish-your-hugo-website-f36375e56cf7" target="_blank" rel="noopener">A Github Actions Workflow to Generate &amp;amp; Publish your Hugo Website&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.morling.dev/blog/automatically-deploying-hugo-website-via-github-actions/" target="_blank" rel="noopener">Automatically Deploying a Hugo Website via GitHub Actions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ruddra.com/hugo-deploy-static-page-using-github-actions/" target="_blank" rel="noopener">Hugo: Deploy Static Site using GitHub Actions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ashwinnarayan.com/post/hugo-windows-workflow/" target="_blank" rel="noopener">Hugo Web Development Workflow on Windows&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://drmowinckels.io/blog/2020-05-25-changing-you-blogdown-workflow/" target="_blank" rel="noopener">Changing your Blogdown Workflow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jaantollander.com/" target="_blank" rel="noopener">Jaan Tollander de Balsch | Resources page is a must&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://danmackinlay.name/about.html" target="_blank" rel="noopener">Dan MacKinlay&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rodrigoalcarazdelaosa.me/en/" target="_blank" rel="noopener">Physichemically with Rodri&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kevinrue.github.io/post/writing-my-cv-using-pagedown/" target="_blank" rel="noopener">Writing my CV using pagedown | Kevin Rue-Albrecht&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://livefreeordichotomize.com/2019/09/04/building_a_data_driven_cv_with_r/" target="_blank" rel="noopener">Building a data-driven CV with R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://iphysresearch.github.io/blog/post/writting-markdown/" target="_blank" rel="noopener">Markdown Elements for Hugo/Wowchemy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bojanvidanovic.com/posts/moving-away-from-pocket-to-my-hugo-website-and-firefox-bookmarks/" target="_blank" rel="noopener">Moving away from Pocket to my Hugo website and Firefox bookmarks · Bojan Vidanovic&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="http://www.r-project.org/" target="_blank" rel="noopener">The R Project for Statistical Computing&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://r-projekt.hu/" target="_blank" rel="noopener">R-projekt&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.rstudio.com/" target="_blank" rel="noopener">RStudio&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://shiny.rstudio.com/" target="_blank" rel="noopener">Shiny&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://support.rstudio.com/hc/en-us/articles/200713843-Debugging-with-RStudio" target="_blank" rel="noopener">Debugging with RStudio&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://swirlstats.com/" target="_blank" rel="noopener">swirl&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.rdocumentation.org/" target="_blank" rel="noopener">Rdocumentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rdrr.io/" target="_blank" rel="noopener">R Package Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cran.r-project.org/web/views/" target="_blank" rel="noopener">CRAN Task Views&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/tags/r/info" target="_blank" rel="noopener">&amp;lsquo;r&amp;rsquo; tag wiki - Stack Overflow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/qinwf/awesome-R" target="_blank" rel="noopener">awesome R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ropensci.org/" target="_blank" rel="noopener">rOpenSci&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bookdown.org/" target="_blank" rel="noopener">bookdown&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stat545.com/" target="_blank" rel="noopener">STAT 545&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.cookbook-r.com/" target="_blank" rel="noopener">Cookbook for R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rafalab.github.io/dsbook/" target="_blank" rel="noopener">Introduction to Data Science Irizarry&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.agr.unideb.hu/~huzsvai/R/gyakori_r_parancsok.pdf" target="_blank" rel="noopener">Gyakori R parancsok&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://google.github.io/styleguide/Rguide.html" target="_blank" rel="noopener">Google’s R Style Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rstats.wtf/" target="_blank" rel="noopener">What They Forgot to Teach You About R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.burns-stat.com/pages/Tutor/R_inferno.pdf" target="_blank" rel="noopener">R Inferno&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dmi3kno/user19-polite/blob/master/useR19%20-%20polite.pdf" target="_blank" rel="noopener">Polite on web scraping&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.sixsigmawithr.com/" target="_blank" rel="noopener">Six Sigma with R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://paulvanderlaken.com/2018/07/31/transitioning-from-excel-to-r-dictionary-of-common-functions/" target="_blank" rel="noopener">Dictionary of common functions Excel to R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.r-bloggers.com/" target="_blank" rel="noopener">R-bloggers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.meetup.com/Budapest-Users-of-R-Network/" target="_blank" rel="noopener">Budapest Users of R Network&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://real.mtak.hu/40962/1/04_daroczi.pdf" target="_blank" rel="noopener">Alkalmazott statisztika? R! - Daróczi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigbookofr.com/index.html" target="_blank" rel="noopener">Big Book of R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://thomaselove.github.io/431-2020-syllabus/other-worthy-and-free-resources.html" target="_blank" rel="noopener">Section 8 Other Worthy (and Free) Resources&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="info">Info&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;h3 id="git">Git&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://git-scm.com/" target="_blank" rel="noopener">Git&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://happygitwithr.com/" target="_blank" rel="noopener">Happy Git and GitHub for the useR&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ropenscilabs.github.io/actions_sandbox/" target="_blank" rel="noopener">Github actions with R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://r-bio.github.io/intro-git-rstudio/" target="_blank" rel="noopener">An introduction to Git and how to use it with RStudio&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://sixrevisions.com/resources/git-tutorials-beginners/" target="_blank" rel="noopener">Top 10 Git Tutorials for Beginners&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lab.github.com/" target="_blank" rel="noopener">GitHub Learning Lab&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://guides.github.com/" target="_blank" rel="noopener">GitHub Guides&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.git-tower.com/learn/" target="_blank" rel="noopener">Git Tower&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.atlassian.com/git/" target="_blank" rel="noopener">Atlassian Git Tutorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf" target="_blank" rel="noopener">4 branching workflows for Git&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://nevergone.hu/hu/blog/110523/verziokezelesrol-mindenkinek-miert-kell-ez-nekunk" target="_blank" rel="noopener">Verziókezelésről mindenkinek&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.codinghorror.com/get-your-database-under-version-control/" target="_blank" rel="noopener">Get Your Database Under Version Control&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learngitbranching.js.org/" target="_blank" rel="noopener">Learn Git Branching&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dangitgit.com/en" target="_blank" rel="noopener">Dangit, Git!?!&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="sql">SQL&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.sqlstyle.guide/" target="_blank" rel="noopener">SQL style guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://towardsdatascience.com/6-incredible-resources-to-learn-advanced-sql-364fe0889dcd" target="_blank" rel="noopener">6 Incredible Resources to Learn Advanced SQL | by Terence S&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="python">Python&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.freecodecamp.org/news/the-python-guide-for-beginners/" target="_blank" rel="noopener">The Ultimate Python Beginner&amp;rsquo;s Handbook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.pythonlikeyoumeanit.com/index.html" target="_blank" rel="noopener">Python Like You Mean It&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://automatetheboringstuff.com/" target="_blank" rel="noopener">Automate the Boring Stuff with Python&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/donnemartin/data-science-ipython-notebooks" target="_blank" rel="noopener">Data science Python notebooks&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="frontend">Frontend&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://codepen.io/" target="_blank" rel="noopener">CodePen&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.javascript.com/" target="_blank" rel="noopener">JavaScript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://css-tricks.com/" target="_blank" rel="noopener">CSS-Tricks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://practicaltypography.com/" target="_blank" rel="noopener">Butterick’s Practical Typography&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://frontendmasters.com/books/front-end-handbook/2019/" target="_blank" rel="noopener">Front-end Developer Handbook 2019&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.smashingmagazine.com/2018/03/using-ethics-in-web-design/" target="_blank" rel="noopener">Using Ethics In Web Design&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://info340.github.io/" target="_blank" rel="noopener">Client-Side Web Development&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="general">General&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29" target="_blank" rel="noopener">Summary of Clean code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://refactoring.com/" target="_blank" rel="noopener">Refactoring&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://12factor.net/" target="_blank" rel="noopener">The Twelve-Factor App&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://softwareengineering.stackexchange.com/questions/373633/programming-cleanly-when-writing-scientific-code" target="_blank" rel="noopener">Programming cleanly when writing scientific code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://legyelteis.hu/it_szakmak" target="_blank" rel="noopener">IT szakmák&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codeberryschool.com/blog/hu/kulonbseg-programozo-es-szoftverfejleszto/?fbclid=IwAR2b2W2vYdEbu5IHroLaIBgSHqz0ymFmecF_zWHbhaM4hBq_jEX6VmtrYh0#Mi_a_kulonbseg_a_data_analyst_es_a_data_scientist_kozott" target="_blank" rel="noopener">Van-e különbség programozó és szoftverfejlesztő között?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codeburst.io/5-unexpected-skills-to-master-as-a-beginner-software-engineer-96ada8b0ba11" target="_blank" rel="noopener">5 Unexpected Skills to Master as a Beginner Software Engineer&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="tools-1">Tools&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.docker.com/" target="_blank" rel="noopener">Docker&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://slack.com/" target="_blank" rel="noopener">Slack&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://doodle.com/" target="_blank" rel="noopener">Doodle&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://about.mattermost.com/" target="_blank" rel="noopener">Mattermost&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.zotero.org/" target="_blank" rel="noopener">Zotero&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://zapier.com/blog/automate-job-search/?from_url=https%3A%2F%2Fzapier.com%2Fapps%2Fintegrations" target="_blank" rel="noopener">Zapier&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.canva.com/" target="_blank" rel="noopener">Canva&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.teamviewer.com/hu/index.aspx" target="_blank" rel="noopener">TeamViewer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://anydesk.com/en" target="_blank" rel="noopener">AnyDesk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.atlassian.com/software/free" target="_blank" rel="noopener">Atlassian free&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://trello.com/" target="_blank" rel="noopener">Trello&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://toggl.com/" target="_blank" rel="noopener">Toggl&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nostromo.io/" target="_blank" rel="noopener">Nostromo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://asana.com/" target="_blank" rel="noopener">Asana&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://jupyter.org/" target="_blank" rel="noopener">Project Jupyter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://notepad-plus-plus.org/" target="_blank" rel="noopener">Notepad++&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://hu.excel-translator.de/fuggveny" target="_blank" rel="noopener">Excel-translator&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://exceljet.net/" target="_blank" rel="noopener">Exceljet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://smallpdf.com/" target="_blank" rel="noopener">Smallpdf&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.epochconverter.com/" target="_blank" rel="noopener">Unix Timestamp Epoch Converter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://helyesiras.mta.hu/" target="_blank" rel="noopener">Helyesírás&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="license">License&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://choosealicense.com/" target="_blank" rel="noopener">Choose a License&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://creativecommons.org/" target="_blank" rel="noopener">Creative Commons&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://spdx.org/licenses/" target="_blank" rel="noopener">SPDX License List&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lacyc3.eu/hogyan-valassz-szabad-szoftver-licencet-1?fbclid=IwAR20-w-zlsU9YWlqT-z2CEAl_4NnEPU66Pzev5uphUUlvn2fZUUBW9M4kRc" target="_blank" rel="noopener">Hogyan válassz szabad (szoftver) licencet?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bitport.hu/ezt-tudnod-kell-a-nyilt-forraskodu-szoftverek-licenceirol?fbclid=IwAR3TKZQSoKpHmmdlQ-c3BsPjWxHYrm-jDEfFhP1CKtr3iwtZatfp4CcqgDM" target="_blank" rel="noopener">A nyílt forráskódú szoftverek licenceiről&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="security">Security&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://index.hu/tech/helpdeszka/2019/03/05/netbiztonsagi_kalauz_kiberbiztonsag_adatvedelem_jelszo_adathalaszat_titkositas/" target="_blank" rel="noopener">Index Nagy Netbiztonsági Kalauza&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cyber.gov.au/" target="_blank" rel="noopener">Australian Cyber Security Center&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nki.gov.hu/" target="_blank" rel="noopener">Nemzeti Kibervédelmi Intézet&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="google">Google&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://en.wikipedia.org/wiki/List_of_Google_products" target="_blank" rel="noopener">List of Google products&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://about.google/intl/hu/products/?tab=uh" target="_blank" rel="noopener">All of Google&amp;rsquo;s Products &amp;amp; Services&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developers.google.com/" target="_blank" rel="noopener">Google Developers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://research.google.com/" target="_blank" rel="noopener">Research at Google&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://deepmind.com/" target="_blank" rel="noopener">Google DeepMind&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ai.google/" target="_blank" rel="noopener">Google AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://federated.withgoogle.com/#learn" target="_blank" rel="noopener">Federated Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.googleartproject.com/" target="_blank" rel="noopener">Google Art Project&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.google.com/cloudprint" target="_blank" rel="noopener">Google Cloud Print&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://fonts.google.com/" target="_blank" rel="noopener">Google Fonts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://elearninginfographics.com/google-power-user-infographic/" target="_blank" rel="noopener">Become a Google Power User&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coursebuilder.withgoogle.com/sample/course" target="_blank" rel="noopener">Power Searching with Google&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://datasetsearch.research.google.com/" target="_blank" rel="noopener">Dataset Search&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://maps.google.com/localguides/home" target="_blank" rel="noopener">Helyi idegenvezetők&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://scholar.google.hu/" target="_blank" rel="noopener">Google Tudós&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://support.google.com/chrome/answer/157179?guide=25799&amp;amp;rd=1" target="_blank" rel="noopener">Chrome billentyűparancsok&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://index.hu/tech/helpdeszka/2016/10/12/gmail_torles_levelezes_betelt/" target="_blank" rel="noopener">Tartsa kordában a levelezését!&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://grow.google/" target="_blank" rel="noopener">Grow with Google&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learndigital.withgoogle.com/digitalworkshop-hu" target="_blank" rel="noopener">Google Digital Workshop&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="degoogle">DeGoogle&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://markosaric.com/surveillance-capitalism/" target="_blank" rel="noopener">De-Google-ify your life for a less intrusive web&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.prototypr.io/kiss-my-device-goodbye-degoogle-your-online-life-with-these-11-alternatives-3d8b33a99948" target="_blank" rel="noopener">Kiss my device goodbye&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bestvpnguru.com/degoogle-alternatives-to-google/" target="_blank" rel="noopener">How to De-Google Your Life&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://restoreprivacy.com/google-alternatives/" target="_blank" rel="noopener">Alternatives to Google Products&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nomoregoogle.com/" target="_blank" rel="noopener">No More Google&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nextcloud.com/" target="_blank" rel="noopener">Nextcloud&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://tutanota.com/" target="_blank" rel="noopener">Tutanota&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.onlyoffice.com/" target="_blank" rel="noopener">Onlyoffice&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.openstreetmap.org/" target="_blank" rel="noopener">OpenStreetMap&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://osmand.net/" target="_blank" rel="noopener">OsmAnd&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://standardnotes.org/" target="_blank" rel="noopener">Standard Notes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://matomo.org/" target="_blank" rel="noopener">Matomo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="unicode">Unicode&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://www.joelonsoftware.com/articles/Unicode.html" target="_blank" rel="noopener">Must Know About Unicode and Character Sets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.asciivalue.com/index.php" target="_blank" rel="noopener">ASCII Value Tool&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/ASCII" target="_blank" rel="noopener">ASCII - Wikipedia&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/222386/what-do-i-need-to-know-about-unicode" target="_blank" rel="noopener">What do I need to know about Unicode?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.utf-8.com/" target="_blank" rel="noopener">UTF-8 and Unicode Standards&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.smashingmagazine.com/2012/06/all-about-unicode-utf8-character-sets/" target="_blank" rel="noopener">All About Unicode, UTF8 &amp;amp; Character Sets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.w3.org/International/technique-index" target="_blank" rel="noopener">Learn i18n&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://graphemica.com/" target="_blank" rel="noopener">Graphemica&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.compart.com/en/unicode/" target="_blank" rel="noopener">Unicode - Compart&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/25308913/automatically-escape-unicode-characters" target="_blank" rel="noopener">Automatically escape unicode characters R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/29379771/utf-8-encoding-problems-with-r" target="_blank" rel="noopener">UTF-8 encoding problems with R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/9934856/removing-non-ascii-characters-from-data-files" target="_blank" rel="noopener">Removing non-ASCII characters from data files&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="regular-expressions">Regular Expressions&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://www.regular-expressions.info/" target="_blank" rel="noopener">Regex Tutorial, Examples and Reference&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://regexr.com/" target="_blank" rel="noopener">Learn, Build, &amp;amp; Test RegEx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean" target="_blank" rel="noopener">Regular Expressions FAQ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/tags/regex/info" target="_blank" rel="noopener">[regex] - Stack Overflow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/18697005/r-split-text-with-multiple-regex-patterns-and-exceptions" target="_blank" rel="noopener">split text with multiple regex patterns and exceptions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/4050381/regular-expression-for-checking-if-capital-letters-are-found-consecutively-in-a" target="_blank" rel="noopener">Regular expression for checking if capital letters are found consecutively in a string + Unicode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/6364783/capitalize-the-first-letter-of-both-words-in-a-two-word-string" target="_blank" rel="noopener">Capitalize the first letter of both words in a two word string&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/469913/regular-expressions-is-there-an-and-operator" target="_blank" rel="noopener">Is there an AND operator&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/21393336/is-there-an-r-function-to-find-the-index-of-regexp-matches-in-a-character-vector" target="_blank" rel="noopener">Is there an R function to find the index of regexp matches in a character vector?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/10488343/removing-an-empty-character-item-from-a-corpus-of-documents-in-r" target="_blank" rel="noopener">Removing an &amp;ldquo;empty&amp;rdquo; character item from a corpus of documents in R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/15565479/weird-space-character-in-string-thats-not-a-space" target="_blank" rel="noopener">Weird space character in string, that&amp;rsquo;s not a space?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/27237233/parsing-html-containing-non-breaking-space" target="_blank" rel="noopener">Parsing html containing non-breaking space&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackoverflow.com/questions/15451251/extract-numeric-part-of-strings-of-mixed-numbers-and-characters-in-r" target="_blank" rel="noopener">Extract numeric part of strings of mixed numbers and characters in R&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="qa">Q&amp;amp;A&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/4010158/is-it-possible-to-get-a-list-of-files-under-a-directory-of-a-website-how" target="_blank" rel="noopener">Is it possible to get a list of files under a directory of a website? How?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://superuser.com/questions/791022/how-can-i-split-in-half-a-double-page-scanned-pdf-in-a-single-pass" target="_blank" rel="noopener">How can I split in half a double-page scanned PDF in a single pass?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://superuser.com/questions/570601/rename-profile-folder-on-windows-7-8" target="_blank" rel="noopener">Rename profile folder on Windows 7/8&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://superuser.com/questions/207414/extract-first-page-from-multiple-pdfs" target="_blank" rel="noopener">Extract first page from multiple pdfs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://superuser.com/questions/66561/how-to-avoid-keyboard-layout-automatically-changing-on-windows" target="_blank" rel="noopener">How to avoid keyboard layout automatically changing on windows&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.computerhope.com/issues/ch000549.htm" target="_blank" rel="noopener">How to set the path in Microsoft Windows&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.dell.com/community/Inspiron/Upgrade-the-networking-card-on-a-Dell-Inspiron-1525/td-p/7266461" target="_blank" rel="noopener">Upgrade the networking card on a Dell Inspiron 1525&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/" target="_blank" rel="noopener">Stack Overflow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hup.hu/" target="_blank" rel="noopener">HUP&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://prog.hu/" target="_blank" rel="noopener">Prog.Hu&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ithon.info/" target="_blank" rel="noopener">IThon.info&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ivsz.hu/" target="_blank" rel="noopener">IVSZ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://vali.ifka.hu/" target="_blank" rel="noopener">VALI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hopeinsource.com/" target="_blank" rel="noopener">Hope in Source&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="érdekesség">Érdekesség&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;h3 id="logika">Logika&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://yourlogicalfallacyis.com/" target="_blank" rel="noopener">Thou shalt not commit logical fallacies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://a.te.ervelesi.hibad.hu/" target="_blank" rel="noopener">Ne kövess el érvelési hibákat!&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.uni-miskolc.hu/~bolantro/informalis/tartalom.html" target="_blank" rel="noopener">Informális logika&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.typotex.hu/book/283/a_meggyozes_csapdai" target="_blank" rel="noopener">A meggyőzés csapdái&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener">List of fallacies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.logicalfallacies.info/" target="_blank" rel="noopener">Logical Fallacies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.fallacyfiles.org/taxonomy.html" target="_blank" rel="noopener">Taxonomy of the Logical Fallacies&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="futurológia">Futurológia&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://www.foreignpolicy.com/articles/2014/09/26/why_big_data_missed_the_early_warning_signs_of_ebola" target="_blank" rel="noopener">Why Big Data Missed the Early Warning Signs of Ebola&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://index.hu/tech/2015/08/05/google_fordito_mesterseges_intelligencia_neuralis_halozat_melytanulas/" target="_blank" rel="noopener">Mesterséges intelligenciát tett a zsebünkbe a Google&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://index.hu/tech/2015/07/08/robot_gyilkossag_buntetojog_gepek_vilagvege/" target="_blank" rel="noopener">Robot ölt embert, ez már az apokalipszis?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://index.hu/tudomany/egeszseg/2015/10/30/es_akkor_dr._house-t_feltoltottek_a_skynetre/" target="_blank" rel="noopener">És akkor Dr. House-t feltöltötték a Skynetre&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://index.hu/tech/2015/10/08/memoria_felejtes_internet_technologia_agymukodes/" target="_blank" rel="noopener">Segítség, a gép emlékezik helyettem!&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://index.hu/tech/2014/07/07/segitseg_egy_algoritmus_a_fonokom/" target="_blank" rel="noopener">Segítség, egy algoritmus a főnököm!&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://index.hu/tech/2016/05/11/openai_elon_musk_mesterseges_intelligencia/" target="_blank" rel="noopener">Eddig féltünk a mesterséges intelligenciától, most felturbózzuk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://index.hu/tech/2017/01/23/mesterseges_intelligencia_google_brain_mi_ai_gepi_tanulas/" target="_blank" rel="noopener">A mesterséges intelligencia megtanult mesterséges intelligenciát fejleszteni&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://index.hu/tech/2017/01/31/ujabb_merdoldko_pokerben_is_legyozte_az_embert_a_gep/" target="_blank" rel="noopener">Újabb mérföldkő: pókerben is legyőzte az embert a gép&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://index.hu/kulfold/2014/08/10/igy_epult_ki_a_konszenzusos_szingapuri_rendorallam/" target="_blank" rel="noopener">Totális megfigyelés a biztonságért cserébe&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://foreignpolicy.com/2014/07/29/the-social-laboratory/" target="_blank" rel="noopener">The Social Laboratory&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.independent.co.uk/news/world/asia/china-surveillance-big-data-score-censorship-a7375221.html" target="_blank" rel="noopener">China wants to give all of its citizens a score – and their rating could affect every area of their lives&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.origo.hu/techbazis/20140627-mobiljukon-at-figyelne-lakoit-chicago-varosa.html" target="_blank" rel="noopener">Mobiljukon követné lakóit Chicago városa&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.examiner.com/article/seattle-becomes-next-city-to-use-crime-prediction-software" target="_blank" rel="noopener">Seattle becomes next city to use crime prediction software&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://444.hu/2017/09/06/a-deutsche-bank-vezere-szerint-nagy-szamban-kell-majd-kirugniuk-embereket-a-robotok-terjedese-miatt" target="_blank" rel="noopener">A Deutsche Bank vezére szerint nagy számban kell majd kirúgniuk embereket a robotok terjedése miatt&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="galamb">Galamb&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://pigeonmoviedb.blogspot.co.uk/" target="_blank" rel="noopener">The Pigeon Movie Database&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357" target="_blank" rel="noopener">Pigeons as Trainable Observers of Pathology and Radiology Breast Cancer Images&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html" target="_blank" rel="noopener">Dermatologist-level classification of skin cancer with deep neural networks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://index.hu/mindekozben/poszt/2016/08/04/egy_galamb_20_kilometeren_keresztul_cikazott_az_autok_kozott_90_km_oras_sebesseggel/" target="_blank" rel="noopener">Index - Mindeközben - Egy galamb 20 kilométeren keresztül cikázott az autók között 90 km/órás sebességgel&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://index.hu/tudomany/2016/09/20/a_galamb_latja_a_kulonbseget_szavak_es_betuk_kozott/" target="_blank" rel="noopener">A galamb látja a különbséget szavak és betűk között&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="interjú">Interjú&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://www.peldakep.hu/" target="_blank" rel="noopener">Példakép&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.elte.hu/content/jo-emberi-kapcsolatokat-is-kell-apolni-enelkul-nem-megy-a-szeker-se.t.15807" target="_blank" rel="noopener">Jó emberi kapcsolatokat is kell ápolni - Vicsek Tamás&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.elte.hu/content/aki-ide-belep-az-tatott-szajjal-bamuljon.t.16024" target="_blank" rel="noopener">Aki ide belép, az tátott szájjal bámuljon - Holló-Szabó Ferenc&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.elte.hu/content/en-szenvedelyesen-utaltam-a-szamvitelt.t.16350" target="_blank" rel="noopener">Szenvedélyesen utáltam a számvitelt - Laáb Ágnes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kepmas.hu/a-belso-iranytum-vezet-beszelgetes-dr-speidl-bianka-iszlamkutatoval" target="_blank" rel="noopener">A belső iránytűm vezet - Speidl Bianka&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://towardsdatascience.com/rage-quitting-cancer-research-5e79cb04801" target="_blank" rel="noopener">Rage Quitting Cancer Research - from Neuroscientist to Data Scientist&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://index.hu/tudomany/2015/02/20/az_nsa_primitiven_hasznalta_a_begyujtott_adatokat/" target="_blank" rel="noopener">Az NSA primitíven használta a begyűjtött adatokat - Barabási Albert-László&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.urban-eve.hu/2013/06/17/szeretem-a-munkam-20-statisztikus-vagyok/" target="_blank" rel="noopener">Szeretem a munkám - Statisztikus vagyok&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="http://index.hu/tudomany/2016/10/12/igy_gondozd_a_zsenidet/" target="_blank" rel="noopener">Így gondozd a zsenidet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://index.hu/tech/2016/12/09/macedoniabol_jottem_mestersegem_cimere_alhirgyarto/" target="_blank" rel="noopener">Macedóniából jöttem, mesterségem címere: álhírgyártó&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://index.hu/tech/2018/01/31/mobilfuggoseg_kozossegi_media_tari_annamaria_kiskamasz_gyerek_pszichologus_gyerekneveles_facebook/" target="_blank" rel="noopener">Ha drogot nem ad a gyereknek, miért vesz neki mobilt?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.huffingtonpost.com/johann-hari/the-real-cause-of-addicti_b_6506936.html" target="_blank" rel="noopener">The Likely Cause of Addiction Has Been Discovered&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://purpose-economy.org/en/" target="_blank" rel="noopener">Purpose Economy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/worldbrain/how-vc-money-prevents-innovation-and-what-we-can-do-about-it-2f8867b2fff8" target="_blank" rel="noopener">How to build a world with 6x more sustainable organisations that are 10x more innovative&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.digitalnatives.hu/blog/minimum-viable-product/" target="_blank" rel="noopener">Minimum Viable Product: The Definitive Guide - Digital Natives&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.councilofnonprofits.org/" target="_blank" rel="noopener">National Council of Nonprofits&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://fourweekmba.com/business-model-generation/" target="_blank" rel="noopener">The 60 patterns of business models&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="forrás">Forrás&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;h3 id="mooc">MOOC&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.coursera.org/" target="_blank" rel="noopener">Coursera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.edx.org/" target="_blank" rel="noopener">edX&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://ocw.mit.edu/index.htm" target="_blank" rel="noopener">MIT OpenCourseWare&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lagunita.stanford.edu/" target="_blank" rel="noopener">Stanford Lagunita&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.udacity.com/" target="_blank" rel="noopener">Udacity&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.udemy.com/courses/free/" target="_blank" rel="noopener">Udemy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.futurelearn.com/" target="_blank" rel="noopener">FutureLearn&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.mikedane.com/" target="_blank" rel="noopener">Mike Dane&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.khanacademy.org/" target="_blank" rel="noopener">Khan Academy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.microsoft.com/en-us/learn/" target="_blank" rel="noopener">Microsoft Learn&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://opportunity.linkedin.com/en-us" target="_blank" rel="noopener">LinkedIn Opportunity&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mooc.copernicus.eu/" target="_blank" rel="noopener">MOOC Copernicus&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ujratervezes.nive.hu/" target="_blank" rel="noopener">Újratervezés Program&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rendezveny.hwsw.hu/" target="_blank" rel="noopener">HWSW rendezvények és képzések&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.class-central.com/" target="_blank" rel="noopener">Class Central&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.coursetalk.com/" target="_blank" rel="noopener">CourseTalk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/JoseDeFreitas/awesome-youtubers" target="_blank" rel="noopener">Awesome YouTubers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.geeksforgeeks.org/" target="_blank" rel="noopener">GeeksforGeeks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learncodethehardway.org/" target="_blank" rel="noopener">Learn Code the Hard Way&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.freecodecamp.org/" target="_blank" rel="noopener">freeCodeCamp&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.datacamp.com/" target="_blank" rel="noopener">DataCamp&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.dataquest.io/" target="_blank" rel="noopener">Dataquest&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.spoj.com/" target="_blank" rel="noopener">Sphere Online Judge&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/" target="_blank" rel="noopener">Kaggle&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.fast.ai/" target="_blank" rel="noopener">fast.ai&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.deeplearning.ai/" target="_blank" rel="noopener">deeplearning.ai&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.codecademy.com/" target="_blank" rel="noopener">Codecademy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.w3schools.com/" target="_blank" rel="noopener">W3Schools&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://fsf.hu/konyvek/" target="_blank" rel="noopener">FSF.hu&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://noexcuselist.com/" target="_blank" rel="noopener">No Excuse List&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.szabilinux.hu/forditasok/hacker-howto.html" target="_blank" rel="noopener">Hogyan lesz az emberből Hacker&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.ncase.me/how-do-we-learn-a-zine/" target="_blank" rel="noopener">How Do We Learn? A Zine&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openlearning.mit.edu/mit-faculty/research-based-learning-findings" target="_blank" rel="noopener">Proven learning activities that strengthen student learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.teachthought.com/literacy/20-types-of-learning-journals-that-help-students-think/" target="_blank" rel="noopener">20 Types Of Learning Journals That Help Students Think&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://carpentries.github.io/instructor-training/papers/science-of-learning-2015.pdf" target="_blank" rel="noopener">Science of Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://prog.hu/support/hogyankerdezzunk.html" target="_blank" rel="noopener">Hogyan kérdezzünk okosan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="tananyagok">Tananyagok&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://dtk.tankonyvtar.hu/" target="_blank" rel="noopener">Digitális Tankönyvtár&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://regi.tankonyvtar.hu/hu" target="_blank" rel="noopener">Digitális Tankönyvtár régi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://videotorium.hu/" target="_blank" rel="noopener">Videotorium&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://tankonyvtar.ttk.bme.hu/" target="_blank" rel="noopener">BME ELTE TTK elektronikus tankönyvtár&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ttk.elte.hu/ebook" target="_blank" rel="noopener">ELTE TTK ekönyvek&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.inf.elte.hu/etananyagok" target="_blank" rel="noopener">ELTE IK ekönyvek&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.inf.elte.hu/tanuljnalunk-kepzeseink" target="_blank" rel="noopener">ELTE IK képzések&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://etananyag.ttk.elte.hu/news.php" target="_blank" rel="noopener">Természettudományi elektronikus tananyagok&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.inf.unideb.hu/hu/node/382" target="_blank" rel="noopener">Kelet-Magyarországi Informatika Tananyag Tárház&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://mtdaportal.extra.hu/index.html" target="_blank" rel="noopener">Magyar Társtudományok Digitális Archívuma&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://mkweb.uni-pannon.hu/tudastar/" target="_blank" rel="noopener">Környezetmérnöki Tudástár&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://web.alt.uni-miskolc.hu/tananyag/" target="_blank" rel="noopener">ME anyag-, nano - és gépészeti technológiák&lt;/a>&lt;/li>
+&lt;li>&lt;a href="ftp://witch.pmmf.hu:2001/Tanszeki_anyagok/">PTE PMMK belső könyvtár&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://vdt.uni-nke.hu/" target="_blank" rel="noopener">Vízügyi Digitális Tudástár (VDT)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kszgysz.hu/" target="_blank" rel="noopener">KSZGYSZ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.maszesz.hu/" target="_blank" rel="noopener">MASZESZ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://vtk.uni-nke.hu/" target="_blank" rel="noopener">NKE Víztudományi Kar&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ibm.com/garage/method/" target="_blank" rel="noopener">IBM Garage Methodology&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://leanszotar.hu/page.php?1" target="_blank" rel="noopener">Lean szótár&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.feherotto.hu/index.html" target="_blank" rel="noopener">Minőségmenedzsment módszerek&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://account.nexiuslearning.com/login" target="_blank" rel="noopener">Nexius Learning&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="cikk">Cikk&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://compass.konyvtar.mta.hu/" target="_blank" rel="noopener">Compass&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://academic.microsoft.com/home" target="_blank" rel="noopener">Microsoft Academic&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://scholar.google.com/" target="_blank" rel="noopener">Google Tudós&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://publons.com/about/home/" target="_blank" rel="noopener">Publons&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.lens.org/" target="_blank" rel="noopener">The Lens&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://unpaywall.org/" target="_blank" rel="noopener">Unpaywall&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/" target="_blank" rel="noopener">How to read and understand a scientific paper&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Sci-Hub" target="_blank" rel="noopener">Sci-Hub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://index.hu/tudomany/2016/02/15/a_tudosok_is_kenytelenek_kalozkodni/" target="_blank" rel="noopener">A tudósok is kénytelenek kalózkodni&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://index.hu/tudomany/2016/06/17/kalozok_vagy_burokratak_szabaditjak_fel_a_multiktol_a_tudomanyt/" target="_blank" rel="noopener">A kazah kalózlány esete a forrongó tudósokkal&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.gwern.net/Search" target="_blank" rel="noopener">Internet Search Tips - Gwern.net&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/libgen/wiki/index" target="_blank" rel="noopener">Library Genesis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://1lib.eu/" target="_blank" rel="noopener">Zlibrary ebooks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://stackexchange.com/sites" target="_blank" rel="noopener">Stack Exchange&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hackernoon.com/" target="_blank" rel="noopener">Hacker Noon&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.quora.com/" target="_blank" rel="noopener">Quora&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://archive.org/index.php" target="_blank" rel="noopener">Internet Archive&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.wolframalpha.com/" target="_blank" rel="noopener">Wolfram|Alpha&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.urbandictionary.com/" target="_blank" rel="noopener">Urban Dictionary&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://knowyourmeme.com/" target="_blank" rel="noopener">Know Your Meme&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.thesaurus.com/" target="_blank" rel="noopener">Thesaurus&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.nefmi.gov.hu/felsooktatas/dokumentumok/felsooktatasban-gyakran" target="_blank" rel="noopener">Felsőoktatási magyar-angol szótár&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.tintakiado.hu/szotar/angol/muszaki/" target="_blank" rel="noopener">Tinta angol-magyar műszaki szótár&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.1moment.hu/Penzugyi_es_szamviteli_angol_szotar.pdf" target="_blank" rel="noopener">Pénzügyi és számviteli angol-magyar szótár&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.1moment.hu/szotar.pdf" target="_blank" rel="noopener">Jogi angol-magyar szótár&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.linguee.hu/magyar-angol/" target="_blank" rel="noopener">Linguee&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ludwig.guru/" target="_blank" rel="noopener">Ludwig&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.differencebetween.net/" target="_blank" rel="noopener">Difference Between&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://builtwith.com/" target="_blank" rel="noopener">BuiltWith Technology Lookup&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://tv.animare.hu/" target="_blank" rel="noopener">TV műsor keresés visszamenőleg&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/UN_number" target="_blank" rel="noopener">UN number&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.featherbase.info/hu/home" target="_blank" rel="noopener">featherbase&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.europeana.eu/hu" target="_blank" rel="noopener">Europeana&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://adatbazisokonline.hu/" target="_blank" rel="noopener">AdatbázisokOnline&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hungaricana.hu/hu/" target="_blank" rel="noopener">Hungaricana&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.fortepan.hu/" target="_blank" rel="noopener">Fortepan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.arcanum.hu/hu/" target="_blank" rel="noopener">Arcanum&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.arcanum.hu/hu/mapire/" target="_blank" rel="noopener">Mapire&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.natgeomaps.com/wall-maps/map-archive" target="_blank" rel="noopener">National Geographic Map Archive&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="sport">Sport&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;h3 id="túra">Túra&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.termeszetjaro.hu/hu/" target="_blank" rel="noopener">Természetjáró&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://index.hu/akekmenet/" target="_blank" rel="noopener">Index - A Kék menet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.teljesitmenyturazoktarsasaga.hu/okt_forum" target="_blank" rel="noopener">Teljesítménytúrázók Társasága OKT fórum&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kirandulastippek.hu/" target="_blank" rel="noopener">KirándulásTippek&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.geomania.hu/index.php" target="_blank" rel="noopener">Geománia&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://tak.e-epites.hu/#" target="_blank" rel="noopener">TAK&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://magyarzarandokut.hu/" target="_blank" rel="noopener">Magyar Zarándokút&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://imaginebp.hu/" target="_blank" rel="noopener">Városnéző túrák – Imagine Budapest&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="térkép">Térkép&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://cartographia.hu/" target="_blank" rel="noopener">Cartographia&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://map.hu/" target="_blank" rel="noopener">Szarvas térképek&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://terkep-center.hu/" target="_blank" rel="noopener">Budai Térképbolt&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.mapking.hu/" target="_blank" rel="noopener">Térképkirály&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://funiq.hu/" target="_blank" rel="noopener">funiQ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.nemzetiatlasz.hu/" target="_blank" rel="noopener">Magyarország Nemzeti Atlasza&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.mtafki.hu/konyvtar/Magyarorszag/tartalom.html" target="_blank" rel="noopener">Magyarország térképekben&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.fentrol.hu/hu/" target="_blank" rel="noopener">fentrol.hu&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://wikimapia.org/#lang=hu&amp;amp;lat=47.500000&amp;amp;lon=19.083300&amp;amp;z=10&amp;amp;m=b" target="_blank" rel="noopener">Wikimapia&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.urbface.com/index.html" target="_blank" rel="noopener">UrbFace&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://merretekerjek.hu/" target="_blank" rel="noopener">Merretekerjek&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://bicycles.stackexchange.com/" target="_blank" rel="noopener">Bicycles Stack Exchange&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://kerekparosklub.hu/" target="_blank" rel="noopener">Magyar Kerékpárosklub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://darebee.com/" target="_blank" rel="noopener">DAREBEE&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
