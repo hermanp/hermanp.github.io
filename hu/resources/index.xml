@@ -166,6 +166,22 @@
 &lt;li>&lt;a href="https://maps.hungaricana.hu/hu/BFLTerkeptar/4801" target="_blank" rel="noopener">Budapest övezeti térképe, Állami lakótelepi építkezések.&lt;/a>. Nincs térkép, ezt meg kellene nézni!&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>keresés &lt;code>HIER=(BFLTerkeptarHierarchy-6) kispest&lt;/code>, 9 találat:
+&lt;ul>
+&lt;li>&lt;a href="https://maps.hungaricana.hu/hu/BFLTerkeptar/5748" target="_blank" rel="noopener">Kispest alaptérképe&lt;/a>, 1959. Erre a térképre (térképtípusra) hivatkoznak a Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek 1959. szeptember 30-i jegyzőkönyvében is. Lásd lejjebb, ezen az oldalon.&lt;/li>
+&lt;li>&lt;a href="https://maps.hungaricana.hu/hu/BFLTerkeptar/5758" target="_blank" rel="noopener">XIX. kerület Kispest tervpályázat. Általános városrendezési terv kivonata és környezetvázlat&lt;/a>. Itt jelölve van a városközpont és a &amp;ldquo;tömör városias beépítés&amp;rdquo; területe, ami a kispesti lakótelepet fedi le.&lt;/li>
+&lt;li>&lt;a href="https://maps.hungaricana.hu/hu/BFLTerkeptar/5750" target="_blank" rel="noopener">XIX. kerület Kispest tervpályázat&lt;/a>, az Üllői út–Ady Endre utca közti terület helyszínrajza városrendezési tervpályázat céljából. Nincs térkép, érdemes lenne megszerezni!&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>keresés &lt;code>HIER=(BFLTerkeptarHierarchy-6) XIX&lt;/code>, 16 találat (az előzőekkel átfedők nem listázva):
+&lt;ul>
+&lt;li>&lt;a href="https://maps.hungaricana.hu/hu/BFLTerkeptar/5753" target="_blank" rel="noopener">A XIX. kerület városrendezési alaptérképe&lt;/a>, 1961. Fel vannak tüntetve és sorolva az egyes oktatási, ipari, kereskedelmi stb. egységek és épületük. Vannak furcsa színes vonalas területi jelölések, ezek lennének a jelmagyarázatban említett szabályozási térrajzok?&lt;/li>
+&lt;li>&lt;a href="https://maps.hungaricana.hu/hu/BFLTerkeptar/5751" target="_blank" rel="noopener">XIX. kerület övezeti térképe&lt;/a>, 1961. Készült az 1027/1960 Minisztertanácsi határozat alapján. Ez IV. építési övezetként tartja számon az Üllői út mentét a Lehel utcától, amiből néhány év múlva kinő a rekonstrukciós terület (ami már a későbbi lakótelep területét fedi le). Tervezett és meglévő közintézmények.&lt;/li>
+&lt;li>&lt;a href="https://maps.hungaricana.hu/hu/BFLTerkeptar/5756" target="_blank" rel="noopener">XIX. kerület. Intézkedési terv. Tervezés, építési lehetőségek, zöldterület, közlekedés&lt;/a>, 1961. A Fővárosi Tanács Végrehajtó Bizottság VIII. Városrendezési és Építészeti Osztály osztályvezetője, Szilágyi Lajos hagyta jóvá 1961. május 22-én. Üllői út átépítése, Kosárfonó utca (elődjének) meghosszabbítása, véderdő sáv az ipari terület körül (ma a Lehel utcától ÉNY-ra eső terület a Határ úti csomópontig).&lt;/li>
+&lt;li>&lt;a href="https://maps.hungaricana.hu/hu/BFLTerkeptar/5754" target="_blank" rel="noopener">A XIX. kerület városrendezési alaptérképe a beépítési mód, lakókörzet, közintézmények utólagos jelölésével&lt;/a>, 1967. február 6. Meglévő és tervezett közintézmények külön jelölve. Az R-12224 jóváhagyott részletes rendezési terv jelölt területe majdnem teljesen lefedi a későbbi kispesti lakótelep területét. A hivatkozott rendezési terv lenne az 1964. július 22-i Fővárosi Tanács Végrehajó Bizottság jegyzőkönyvében szereplő részletes rendezési terv?&lt;/li>
+&lt;li>&lt;a href="https://maps.hungaricana.hu/hu/BFLTerkeptar/5752" target="_blank" rel="noopener">XIX. kerület intézkedési tervének módosítási javaslata&lt;/a>. Megközelítési távolságok köreivel és a rekonstrukciós terület határának jelölésével.&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h3 id="arcanum-digitális-tudománytár">Arcanum Digitális Tudománytár&lt;/h3>
 &lt;p>&lt;a href="https://adtplus.arcanum.hu/hu/" target="_blank" rel="noopener">Arcanum Digitális Tudománytár&lt;/a> keresés:&lt;/p>
@@ -234,7 +250,7 @@ Magyar Nemzet, 1974. február (30. évfolyam, 26-49. szám) 1974-02-27 / 48. sz�
 &lt;li>UVATERV (Bp. XIX. Kispest lakótelep III. ütem beépítési tanulmányterv)&lt;/li>
 &lt;li>Építésgazdasági és Szervezési Intézet (ÉGSZI) 31. Főosztály Lakótelep Szervezési Osztály&lt;/li>
 &lt;li>Általános Épülettervező Vállalat (ÁÉTV)&lt;/li>
-&lt;li>Budapesti Városépítési Tervező Vállalat (BUVÁTI vagy BVTV)&lt;/li>
+&lt;li>Budapesti Városépítési Tervező Vállalat (BUVÁTI vagy BVTV), a kispesti térképek jó részét készítette.&lt;/li>
 &lt;li>Tervezésfejlesztési és Típustervező Intézet, röviden Típustervező Intézet (TTI)&lt;/li>
 &lt;li>Építésügyi és Városfejlesztési Minisztérium Műszaki Tervezési Főosztály&lt;/li>
 &lt;li>BME ÉPK &lt;a href="http://www.urbanisztika.bme.hu/" target="_blank" rel="noopener">Urbanisztika Tanszék&lt;/a>
