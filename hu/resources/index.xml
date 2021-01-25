@@ -71,6 +71,21 @@
 &lt;p>&amp;ldquo;Az Építőipari és Közlekedési Műszaki Egyetem városépítési tanszéke által készített terv szerint Kispest központját a Kossuth téren és annak körzetében alakítják ki.&amp;rdquo;&lt;/p>
 &lt;/blockquote>
 &lt;/li>
+&lt;li>Google &lt;code>&amp;quot;mot&amp;quot; típus terv&lt;/code>, pl. MOT.I.58/76 esetén mi az a MOT?:
+&lt;ul>
+&lt;li>Magyar országos típustervek katalógusa. Ennek több kötete létezik, lakó és műszaki épületekkel is. Az ÉM fogadja el.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Hungaricana &lt;code>tipusterv&lt;/code>:
+&lt;ul>
+&lt;li>&lt;a href="https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1960/?query=%C3%89M%20tipusterv&amp;amp;pg=206&amp;amp;layout=s" target="_blank" rel="noopener">Új Típusterv Katalógus megjelenése&lt;/a>, &lt;em>Tanácsok Közlönye&lt;/em>, 1960, 8. évfolyam, 16. szám&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Hungaricana &lt;code>SZO=(típusterv OR tipusterv) AND DATE=(1965--1966)&lt;/code>:
+&lt;ul>
+&lt;li>&lt;a href="https://library.hungaricana.hu/hu/view/DunantuliNaplo_1965_10/?pg=124&amp;amp;layout=s" target="_blank" rel="noopener">Az ezredik panellakás&lt;/a>. &lt;em>Dunántúli Napló&lt;/em>, 1965. október 22., 22. évfolyam, 249. szám. [Benne Juhász Ferenc, a Baranya megyei Építőipari Vállalat főtechnológusát, a panelgyártás technológiájának kidolgozóját, Tillai Ernő építészt, a panelépületek prototípusának és típusterveinek készítőjét és Wolf István építésvezetőt, aki az ezer lakás összeszerelését irányította szólaltatták meg.]&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h3 id="fszek">FSZEK&lt;/h3>
 &lt;p>Fővárosi Szabó Ervin Könyvtár (Központi Könyvtár, Budapest Gyűjtemény). Keresés a &lt;a href="https://saman.fszek.hu/WebPac/CorvinaWeb" target="_blank" rel="noopener">katalógusban&lt;/a>:&lt;/p>
@@ -113,7 +128,8 @@
 &lt;h4 id="bft-vb">BFT VB&lt;/h4>
 &lt;p>Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei&lt;/p>
 &lt;ul>
-&lt;li>keresés: &lt;code>Budapest Főváros Tanácsa Végrehajtó Bizottsága kispest&lt;/code>, 175 találat; &lt;code>Budapest Főváros Tanácsa Végrehajtó Bizottsága XIX. ker. Kispest II/B. ütem&lt;/code>, 14 találat; &lt;code>Budapest Főváros Tanácsa Végrehajtó Bizottsága XIX. ker. beruházási program&lt;/code>, 43 találat; &lt;code>XIX. ker Tanács végrehajtó bizottság&lt;/code>, 59 találat; &lt;code>kispest &amp;quot;beruházási program&amp;quot;&lt;/code>, 422 találat. Rendezés: alapértelmezett (időrendi).
+&lt;li>
+&lt;p>keresés: &lt;code>Budapest Főváros Tanácsa Végrehajtó Bizottsága kispest&lt;/code>, 175 találat; &lt;code>Budapest Főváros Tanácsa Végrehajtó Bizottsága XIX. ker. Kispest II/B. ütem&lt;/code>, 14 találat; &lt;code>Budapest Főváros Tanácsa Végrehajtó Bizottsága XIX. ker. beruházási program&lt;/code>, 43 találat; &lt;code>XIX. ker Tanács végrehajtó bizottság&lt;/code>, 59 találat; &lt;code>kispest &amp;quot;beruházási program&amp;quot;&lt;/code>, 422 találat. Rendezés: alapértelmezett (időrendi).&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1986. szeptember 10.&lt;/em>: A VII. ötéves tervi beruházási programok helyzetének áttekintése, javaslat a módosítások rendjére.&lt;/li>
 &lt;/ul>
@@ -155,7 +171,7 @@
 &lt;li>&lt;em>1979. május 22.&lt;/em>: A dél-pesti intézményközpont beruházási célja (I. ütem) [hivatkozik az 1978. december 20-i ülésre, létesítmények, parkolók, tervezési, kivitelezési időpontok, pénzösszegek és térkép, ami megegyezik a hivatkozottal]&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>&amp;ldquo;Az I, ütem, elkészültével visszapótolja a lakótelep épitése során szanálásra kerülő kereskedelmi és ipari szolgáltatói létesítményeket&amp;rdquo;.&lt;/p>
+&lt;p>&amp;ldquo;Az I. ütem, elkészültével visszapótolja a lakótelep épitése során szanálásra kerülő kereskedelmi és ipari szolgáltatói létesítményeket&amp;rdquo;.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
 &lt;li>&lt;em>1978. december 20.&lt;/em>: A dél-pesti városrész központ beépítési terve a XIX. kerületi (kispesti) intézményközpontban [hivatkozik az 1977. október 12-i ülésre]&lt;/li>
@@ -184,12 +200,14 @@
 &lt;li>&lt;em>1964. július 22.&lt;/em>: A XIX. ker. Kispest központjának és környékének részletes rendezési terve [egyáltalán nem részletes, nincs térkép]&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>keresés &lt;code>XIX kerület településfejlesztési tervjavaslat&lt;/code>, 8 találat:
+&lt;li>
+&lt;p>keresés &lt;code>XIX kerület településfejlesztési tervjavaslat&lt;/code>, 8 találat:&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1968. december 18.&lt;/em>: Javaslat a XIX. ker. településfejlesztési tervére. Hivatkozza Budapest Főváros Tanácsa 1969. január 28-i ülése. [térképvázlatok, grafikonok, utca és épületfotók, rendkívül részletes! Érdemes az érintett személyek neveit kigyűjteni, mert későbbi kereséshez felhasználható!]&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>A Budapest Főváros Tanácsa 1959. szeptember 30-i tánácsülésén hivatkozva (lásd lejjebb), &lt;code>budapest rendezési terv&lt;/code> kapcsán:
+&lt;li>
+&lt;p>A Budapest Főváros Tanácsa 1959. szeptember 30-i tánácsülésén hivatkozva (lásd lejjebb), &lt;code>budapest rendezési terv&lt;/code> kapcsán:&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1959. szeptember 30.&lt;/em>: Budapest és környéke általános rendezési tervének elkészítése. Benne &lt;a href="https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1959-09-30/?pg=96&amp;amp;layout=s" target="_blank" rel="noopener">térkép&lt;/a> Budapest környék fejlesztési programjáról.&lt;/li>
 &lt;/ul>
@@ -209,30 +227,35 @@
 &lt;li>&lt;em>1955. február 3-4.&lt;/em>: Budapest általános városrendezési tervének nyilvános vitája [Nincs térkép, csak a hivatkoznak rá, ahogy 1955. február 11-i BFT VB ülésen, akár térképként, akár tervlapként.]&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>keresés &lt;code>Budapest és környéke általános rendezési tervének elkészítése&lt;/code>:
+&lt;li>
+&lt;p>keresés &lt;code>Budapest és környéke általános rendezési tervének elkészítése&lt;/code>:&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1960. március 28.&lt;/em>: Budapest és környéke általános városrendezési tervének elkészítése. [Nem ejtenek szót benne Kispestről, de egy jó térkép van benne, amin lakástelepítési területek javaslatai vannak megjelölve és Kispest területén nincs ilyen. Ezzel egybecsengenek Kőszeghy Lea tanulmányának állításai.]&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>egyszerűen ráakadtam &lt;code>kispest XIX rendezési terv&lt;/code> közben:
+&lt;li>
+&lt;p>egyszerűen ráakadtam &lt;code>kispest XIX rendezési terv&lt;/code> közben:&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1981. február 11.&lt;/em>: Budapest és környéke általános rendezési tervének felülvizsgálata.&lt;/li>
 &lt;li>&lt;em>1981. június 3.&lt;/em>: Budapest főváros VI. ötéves területfejlesztési tervjavaslata.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>keresés &lt;code>(III OR harmadik) ötéves terv lakástelepítés&lt;/code>:
+&lt;li>
+&lt;p>keresés &lt;code>(III OR harmadik) ötéves terv lakástelepítés&lt;/code>:&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1967. június 7.&lt;/em>: „A budapesti lakásépítés, elosztás, telepítés és felújítás néhány időszerű problémája” c. témában a Budapesti Párt Végrehajtó Bizottság által hozott határozatokról.&lt;/li>
 &lt;li>&lt;em>1965. október 27.&lt;/em>: Előterjesztés a III. ötéves terv lakástelepítésének módosításáról. [Kispest még 500 lakással szerepel. Előzmény összefoglaló az elején.]&lt;/li>
 &lt;li>&lt;em>1962. szeptember 19.&lt;/em>: Előterjesztés a III. ötéves terv lakásépítkezéseinek területi elhelyezéséről. Ez szerepelt az MSZMP BP VB ülésén 1962. szeptember 3-án.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>keresés: &lt;code>(XIX OR kispest) beépítési terv&lt;/code>
+&lt;li>
+&lt;p>keresés: &lt;code>(XIX OR kispest) beépítési terv&lt;/code>&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1964. szeptember 16.&lt;/em>: Jelentés Budapest lakásépítésének helyzetéről. [Benne: lakás és lakó statisztikák, II. és III. ötéves tervi feladatok, építési technológiák szerinti megoszlás a II. ötéves tervben, a III. ötéves terv lakásépitési feladatainak előkészítése, Kispest beruházási programja készítés alatt. 1. sz. melléklet: III. ötéves lakásépitési területek előkészítésének részletes ismertetése, benne Kispest.]&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Hungaricana: &lt;code>Budapest és környéke általános rendezési terv 1971&lt;/code>:
+&lt;li>
+&lt;p>Hungaricana: &lt;code>Budapest és környéke általános rendezési terv 1971&lt;/code>:&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1973. december 5.&lt;/em>: Jelentés az V. ötéves lakástelepítési terv előkészítése érdekében eddig tett intézkedésekről, javaslat a további feladatokra. [Benne: A koncentrált lakástelepités szempontjából számbajövő területek kiválasztása, a IV. ötéves terv lakástelepítésének matematikai programozása. Térkép!] De ugyanezen az ülésen:&lt;/li>
 &lt;/ul>
@@ -240,33 +263,53 @@
 &lt;p>&amp;ldquo;Zala megye és a Kispesti Közért Vállalat megállapodása alapján a megyei Húsipari Vállalat és a Nagykanizsai Sörgyár folyamatosan szállít húskészítményt, valamint sört a kerület üzleteibe.&amp;rdquo;&lt;/p>
 &lt;/blockquote>
 &lt;/li>
-&lt;li>hivatkozás az MSZMP BP VB 1967. október 27-i ülésén:
+&lt;li>
+&lt;p>hivatkozás az MSZMP BP VB 1967. október 27-i ülésén:&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1967. szeptember 25.&lt;/em>: A IV. és az V. ötéves terv lakásépítési javaslata. [Benne Kispesti tervezett lakásszámok táblázatokban. Térkép a IV. ötéves tervi telepítési javaslatról.]&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>már nem tudom honnan:
+&lt;li>
+&lt;p>már nem tudom honnan:&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1969. június 25.&lt;/em>: Jelentés a IV. és V. ötéves lakásépítési terv előkészítéséről.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>keresés &lt;code>ötéves lakástelepítés lakásépítés terv javaslat&lt;/code>:
+&lt;li>
+&lt;p>keresés &lt;code>ötéves lakástelepítés lakásépítés terv javaslat&lt;/code>:&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1970. december 23&lt;/em>: Jelentés a IV-V. ötéves fővárosi lakásépítési program előkészítésének helyzetéről. [néhány számadat: V. ötéves 6000 lakás, BULAV által 1972-ben átadott 60 db (?), IV. ötéves 600 lakás.]&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>vegyes:
+&lt;li>
+&lt;p>vegyes:&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1972. április 12&lt;/em>: Az V. ötéves terv lakásépítési terv és telepítésének előkészítése. [keress &lt;code>kispest&lt;/code>-re benne, fellelés oka: &lt;code>kispest &amp;quot;117oo&amp;quot;&lt;/code> figyelj a nullák mint &amp;ldquo;o&amp;rdquo; szerepeltetésére! Keresés indok: 1969. június 25-i ülés szerint a részletes rendezési terv szerint építhető lakásszám 11700. Ezzel szemben nincs is leírva benne ez a szám! Honnan vették akkor?] &lt;a href="https://library.hungaricana.hu/hu/view/HU_BFL_XXIII_102_a_1_1972-04-12/?pg=36&amp;amp;layout=s" target="_blank" rel="noopener">térkép&lt;/a> a lakástelepítési javaslatról, és az I. és II. alternatívák szerinti telepítésekre.&lt;/li>
 &lt;li>&lt;em>1975. október 29.&lt;/em>: A főváros V. ötéves lakástelepítési és lakásépítési terve. [Térképek!]&lt;/li>
 &lt;li>&lt;em>1976. október 26.&lt;/em>: Jelentés az V. ötéves tervidőszakban kezdődő komplex lakásépítési beruházások helyzetéről. [és] Jelentés a VI. ötéves tervidőszak lakástelepítésének és lakásépítésének előkészítéséről.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>keresés &lt;code>&amp;quot;Kispest III. ütem&amp;quot;&lt;/code>:
+&lt;li>
+&lt;p>keresés &lt;code>&amp;quot;Kispest III. ütem&amp;quot;&lt;/code>:&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1977. december 21.&lt;/em>: Az 1981-1982. évekre vonatkozó és a VI. ötéves tervi előzetes lakásépítési javaslat. [Benne Kispest III. ütem! Térkép! Táblázat! Területleírás!]&lt;/li>
 &lt;li>&lt;em>1979. március 27.&lt;/em>: A főváros 15 éves lakásépítési és telepítési tervének koncepciója.&lt;/li>
 &lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>keresés &lt;code>(III OR harmadik) &amp;quot;ötéves terv&amp;quot; típusterv&lt;/code>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;em>1963. március 20.&lt;/em>: Jelentés a budapesti lakáshelyzetről és a lakásgazdálkodás rendszeréről. Ennek szerkesztett jegyzőkönyvében:&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Az ÉM-nek egyébként egy száma fix: az, hogy a III. ötéves tervben 53 m2-es lakásokat épit, az első ötéves terv 48 m2-es lakásaival szemben. Az ÉM-nek még külön budapesti számai sincsenek és még az sincs meg, hogy tulajdonképpen milyen házak épüljenek: magas házak, stb., típustervek még a III. ötéves tervre sincsenek [&amp;hellip;]&amp;rdquo; — Bondor József, BFT VB elnökhelyettes&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;em>1963. augusztus 10.&lt;/em>: A fővárosi lakásépítési program végrehajtásának helyzete és a további feladatok.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Valamit kellene csinálni, mert a fővárosi tanácsnak jó lenne tudni, hogy abból a globális számból, amely a 15 évre szóló tervben bennefoglaltatik, mi lesz a részesedése. Tudniillik a helyzet az, hogy évekkel előbb kell már előkészíteni az építkezést. Ahhoz, hogy a lakótelepek helyét előkészítsük, kb két év szükséges. Azonkívül az új típusterveket is elő kell készíteni a harmadik ötéves tervhez. A jelenlegi tervek azért sem megfelelők, mert a 40 négyzetméter helyett 53 négyzetméter lesz a lakások alapterülete.&amp;rdquo; — Bondor József, BFT VB elnökhelyettes&lt;/p>
+&lt;/blockquote>
 &lt;/li>
 &lt;/ul>
 &lt;h4 id="bft">BFT&lt;/h4>
@@ -341,7 +384,8 @@ Műszaki tervezési munkák terve. XIX. Kispest I. telep 510 lakás. Generálter
 &lt;h4 id="mszmp-bp-vb">MSZMP BP VB&lt;/h4>
 &lt;p>MSZMP Budapesti Végrehajtó Bizottságának ülései&lt;/p>
 &lt;ul>
-&lt;li>keresés &lt;code>III ötéves terv lakás kispest&lt;/code>:
+&lt;li>
+&lt;p>keresés &lt;code>III ötéves terv lakás kispest&lt;/code>:&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1962. szeptember 3.&lt;/em>: A Fővárosi Tanács VB javaslata a lakástelepítésre a III. ötéves terv során. [Benne &lt;a href="https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__VB_1962/?pg=1291&amp;amp;layout=s" target="_blank" rel="noopener">térkép&lt;/a> a lakásépítkezések elhelyezésére! Kispesti adatok, 500 lakás és halvány elképzelés a beépítés helyéről a Kossuth tér és a Tanácsháza közötti Vöröshadsereg úti szakaszon.]&lt;/li>
 &lt;li>&lt;em>1967. január 13.&lt;/em>: A Fővárosi Tanács VB beszámolója a Bp. VB 1966. április 1-jei – a peremkerületek ellátására vonatkozó – határozata végrehajtására tett intézkedésekről.&lt;/li>
@@ -360,7 +404,8 @@ A Fővárosi Tanács VB. korábbi határozata a II. ötéves tervben a csepeli, 
 Az V. ötéves terv tengelyében még mindig a nagymérvű mennyiségi lakáshiány felszámolása áll, de emellett fokozódik az avult belső városrészek és peremkerületi központok rekonstrukciója. [&amp;hellip;] Újpest és Kispest központjának átépítését jelentős ütemben folytatjuk.&amp;rdquo;&lt;/p>
 &lt;/blockquote>
 &lt;/li>
-&lt;li>keresés: Hungaricana &lt;code>városrészközpont&lt;/code>, 763 találat, nincs szűrés
+&lt;li>
+&lt;p>keresés: Hungaricana &lt;code>városrészközpont&lt;/code>, 763 találat, nincs szűrés&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1969. június 6.&lt;/em>: A Fővárosi Tanács VB jelentése Budapest és környéke általános városrendezési tervének felülvizsgálata 1967–1968. évi munkálatairól, a lakó- és iparterületi tervről. [Nincs térkép, de Bartos István, a BFT VB elnökhelyettese &lt;a href="https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__VB_1969/?pg=916&amp;amp;layout=s&amp;amp;query=t%C3%A9rk%C3%A9p" target="_blank" rel="noopener">hivatkozik&lt;/a> 4 db térképre, amik valószínűleg megegyeznek az 1970. február 25-i MSZMP BP PB ülésen bemutatottakkal.]&lt;/li>
 &lt;/ul>
@@ -371,10 +416,29 @@ Az V. ötéves terv tengelyében még mindig a nagymérvű mennyiségi lakáshi�
 &lt;li>&lt;em>1975. április 15.&lt;/em>: A Fővárosi Tanács VB javaslata a főváros V. ötéves lakástelepítési és lakásépítési tervére. [Az állami célcsoportos lakástelepítés telepítési helyein belül az alternatívákban kijelölt helyek között Kispest II. ütem. Javasolják az A alternatíva elfogadását. Táblázat is. Térkép nincs.]&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>keresés: valami összetett, az ötéves lakástelepítési tervről
+&lt;li>
+&lt;p>keresés: valami összetett, az ötéves lakástelepítési tervről&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>1972. augusztus 11.&lt;/em>: Jelentés a IV. ötéves tervben előirányzott budapesti lakásépítés időarányos teljesítéséről. Javaslat az V. ötéves terv budapesti lakásépítési és telepítési előzetes programjára. [benne Az V. ötéves terv lakástelepitése céljára számításba vehető területek. Térkép. Sokban hasonlít az 1972. október 5-i MSZMP BP PB ülésén előadottakkal. Különbség: a 2. melléklet átdolgozva, más számok, Kispest a IV. számú házgyári technológiára jelölve.]&lt;/li>
 &lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>keresés &lt;code>SZO=(típusterv OR tipusterv) AND DATE=(1965--1966)&lt;/code>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;em>1965. április 9.&lt;/em>: A Bp. VB és a Fővárosi Tanács VB együttes ülése Budapest fejlesztésének problémáiról. [Megtalálható a BFT VB alatt is!]&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;A II. ötéves terv tényszámait, valamint a III. ötéves tervre előirányozható lakásépités tervszámait figyelembevéve, a IV. ötéves tervben mintegy 160-180.000 lakást kellene megépiteni. Ezt a feladatot a jelenleg kialakult lakásépítési ütem, valamint a jelenleg ismert&amp;rsquo;fejlesztési elképzelések figyelembevétele mellett nem lehet megoldani. Véleményünk szerint a reálisan előirányozható lakásszám a IV. ötéves terv időszakában 80.000 állami lakásra tehető. Ez esetben a 15 éves lakásfejlesztési terv végére, 1976. január 1-re, még mintegy 90-100.000 lakáshiánnyal kell számolni. Megállapítható, hogy &lt;strong>a 15 éves lakásépitési terv célkitűzései&lt;/strong> országosan esetleg teljesíthetők, de &lt;strong>Budapesten&lt;/strong> az épitőipar jelenlegi kapacitását figyelembevéve, &lt;strong>nem lehet teljesíteni&lt;/strong>.&amp;rdquo; — az előterjesztés 9. oldala&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&amp;ldquo;A III. ötéves tervben végrehajtandó budapesti lakásépítés előkészítése nem mondható sikeresnek annak ellenére, hogy a Fővárosi Tanács és a Budapesti Pártbizottság a lakások telepítési javaslatát még 1962 szeptemberébon elfogadta. [&amp;hellip;] Az OT és az ÉM a megadott irányszámot több izben változtatták. Először 60.000, majd 45.000 és legutóbb 34.000 db, állami lakás épitését irányozták elő. Végleges jóváhagyott lakásépítési tervszám még ma sincs. 1964. őszén az ÉM módosította az 1962-ben kiadott tervezési irányelveket. Ennek következtében az addig elkészült típustervek alkalmatlanokká váltak és uj típusterveket kellett készíteni. A szovjet házgyár által termelt lakások, valamint az ötszintes blokkos lakóépületek típusain kívül &lt;strong>ma sem rendelkezik a főváros a további szükséges tipustervekkel&lt;/strong>. További bizonytalanság van a magasházak számának és építési technológiájának rendezésében is. A rendelkezésre álló kevés terület miatt, továbbá a nagy szanálási közlekedési, közmüvesitési költségek miatt, a lakosságsürüség növelése érdekében, ma már feltétlenül szükséges 10-12 szintes középmagas, illetve 15-16 szintes magasépületek építése. A középmagas épületek paneltechnológiával készülnek, a magas épületek technológiája még nincs egyértelműen megoldva.&amp;rdquo; — az előterjesztés &lt;a href="https://library.hungaricana.hu/hu/view/BUDAPESTMSZMP__VB_1965/?pg=462&amp;amp;layout=s" target="_blank" rel="noopener">12. oldala&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&amp;ldquo;A 12.oldal utolsó előtti bekezdése azt mondja, hogy a főváros ma sem rendelkezik a szükséges típustervekkel - két lakástipus kivételével. Kérdésem: az utóbbi években a népgazdaság nagy erőt forditott a típustervek készítésére, - mi az oka annak, hogy nem állnak rendelkezésre típustervek, és ki a felelős ezért?&amp;rdquo; — Rózsa László, UVATERV mérnöke, BFT VB tag
+&amp;ldquo;A típustervek vonalán bizonyos mértékig lemaradás van, a technológia nem végleges egyeztetéséből és eldöntéséből kifolyólag. A magasházak, a középmagas épületek technológiája, amely épületek nem házgyárban készülnek, nincs még egyértelmüleg lezárva. Az ÉM azt mondja, hogy a főváros néhány héten belül megkapja a technológiai előírásokat és akkor ki lehet majd alakítani ezekre a véglegesen meghatározott technológiákra a végleges típusterveket. A szovjet házgyár technológiája és arra a típustervek megvannak. A II. Ötéves tervben zömében használt középblokkos - földszint + 4 emeletes - épületek típusterve és az öntöttbeton-pontházak technológiája megvan. A további típustervek technológiája a tervek végleges eldöntésekor lesz jóváhagyva, nem általunk, hanem az ÉM tipustervező intézete által.&amp;rdquo; — Szilágyi Lajos, a BFT VB Városrendezési és Építészeti Osztály osztályvezetője (hivatali szervezete tagja) válasza, amelyben kitér a poligonos és a házgyári építkezés gazdaságosságára is
+&amp;ldquo;Itt van például a lakáskérdés. Sok hiba, sok baj van ebben a tekintetben, - de mi ebben az alapvető kérdés? Véleményem szerint nem az a döntő, hogy házgyár van-e, vagy panel. Erre vonatkozóan már nyilvánítottam a véleményemet, amikor a Központi Bizottság ülésén ez a téma szerepelt. A Végrehajtóbizottságnak nem abban kell állásfoglalnia, hogy poligon van-e, vagy házgyár, - hanem azt kell rögzíteni, hogy Budapesten a lakásépítés műszaki bázisa, ipari bázisa nincsen megteremtve, illetve rossz a szervezete. Már pedig a lakásépítés ezen áll vagy bukik.&amp;rdquo; — Perényi Imre, BFT VB tag, de korábbról úgy tűnik, ÉM miniszterhelyettes
+&amp;ldquo;A típustervekkel olyan problémáink vannak, hogy megváltozott a technológia, és igy a korábbi típustervek nem használhatók. Ehhez járul még, hogy kétizben is megváltoztatták a lakások alapterületére vonatkozó határozatot.&amp;rdquo; — Sarlós István, BFT VB elnök&lt;/p>
+&lt;/blockquote>
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="hungaricana-térképtár">Hungaricana Térképtár&lt;/h3>
@@ -479,9 +543,11 @@ Magyar Nemzet, 1974. február (30. évfolyam, 26-49. szám) 1974-02-27 / 48. sz�
 &lt;ul>
 &lt;li>Magyar Építőművészet (&lt;a href="https://matarka.hu/" target="_blank" rel="noopener">MATARKA&lt;/a>-n böngészhető tartalomjegyzék)&lt;/li>
 &lt;li>Magyar Építőipar&lt;/li>
+&lt;li>Építésügyi Értesítő&lt;/li>
 &lt;li>&lt;a href="http://apps.arcanum.hu/app/budapest/" target="_blank" rel="noopener">Budapest&lt;/a>&lt;/li>
 &lt;li>Városépítés&lt;/li>
 &lt;li>Műszaki Tervezés&lt;/li>
+&lt;li>Műszaki Élet&lt;/li>
 &lt;li>Bitó János (2013): Lakóépületek tervezése&lt;/li>
 &lt;li>Reischl Antal (1979): Lakóépületek tervezése, Tankönyvkiadó Vállalat, p 328.&lt;/li>
 &lt;li>Ferkai András (2005): &lt;a href="https://library.hungaricana.hu/hu/view/VaroshazaKiado_0112/?pg=0&amp;amp;layout=s" target="_blank" rel="noopener">Lakótelepek&lt;/a>&lt;/li>
@@ -565,6 +631,7 @@ Magyar Nemzet, 1974. február (30. évfolyam, 26-49. szám) 1974-02-27 / 48. sz�
 &lt;ul>
 &lt;li>building footprint&lt;/li>
 &lt;li>choropleth map&lt;/li>
+&lt;li>típusterv, sorozatterv&lt;/li>
 &lt;li>rendezési, kiviteli, szabályozási, beruházási terv, beruházási program, beépítési terv, tanulmányterv&lt;/li>
 &lt;li>tervpályázat&lt;/li>
 &lt;li>kerületi alapterv, kapcsolódóan Budapest és környéke általános rendezési tervéhez. Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek 1959. szeptember 30-i jegyzőkönyvében található utalás.&lt;/li>
