@@ -2,8 +2,7 @@
 &lt;p>A rendszerezés alapja, hogy felkutatok forrásokat és a kutatás közben elém kerülő forrás helyek, személyek, intézmények, fogalmak kigyűjtését is elvégzem. Ezáltal áttekinthetőbbé válik az érintettek köre, ami segíti a folytatást és a kapcsolatteremtést. Ha lenne egy egyszerű módja a markdownban folyamatábrák rajzolásának, szívesen használnám, hogy a kutatási lépéseket ábrázolhassam. A listák töltik be most ezt a szerepet.&lt;/p>
 &lt;p>Mivel a források néhány kivétellel magyar nyelvűek és a téma jellege miatt is korlátozott érdeklődést válthat ki a nem magyar olvasók között, ezért ha lefordítom, akkor a megjegyzéseimmel próbálom az angol nyelvű tájékozódást segíteni. Nehéz kialakítani egységes stílusú irodalomjegyzéket.&lt;/p>
 &lt;p>Ha bármi ötlet lenne a kedves olvasóban, írja meg nyugodtan! Örömmel fogadom az érdeklődést!&lt;/p>
-&lt;h2 id="források">Források&lt;/h2>
-&lt;h3 id="cikkek">Cikkek&lt;/h3>
+&lt;h2 id="cikkek">Cikkek&lt;/h2>
 &lt;ul>
 &lt;li>Google: &lt;code>panel térkép&lt;/code>, &lt;code>panel épület típus&lt;/code>, &lt;code>panelház típusok&lt;/code>
 &lt;ul>
@@ -99,7 +98,7 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h3 id="fszek">FSZEK&lt;/h3>
+&lt;h2 id="fszek">FSZEK&lt;/h2>
 &lt;p>Fővárosi Szabó Ervin Könyvtár (Központi Könyvtár, Budapest Gyűjtemény). Keresés a &lt;a href="https://saman.fszek.hu/WebPac/CorvinaWeb" target="_blank" rel="noopener">katalógusban&lt;/a>:&lt;/p>
 &lt;ul>
 &lt;li>&lt;code>kispest&lt;/code> kulcsszó, 315 találat:
@@ -135,14 +134,15 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h3 id="hungaricana-könyvtár">Hungaricana Könyvtár&lt;/h3>
+&lt;h2 id="hungaricana-könyvtár">Hungaricana Könyvtár&lt;/h2>
 &lt;p>&lt;a href="https://library.hungaricana.hu/hu/" target="_blank" rel="noopener">Hungaricana Könyvtár&lt;/a>&lt;/p>
-&lt;h4 id="bft-vb">BFT VB&lt;/h4>
+&lt;h3 id="bft-vb">BFT VB&lt;/h3>
 &lt;p>Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;p>keresés: &lt;code>Budapest Főváros Tanácsa Végrehajtó Bizottsága kispest&lt;/code>, 175 találat; &lt;code>Budapest Főváros Tanácsa Végrehajtó Bizottsága XIX. ker. Kispest II/B. ütem&lt;/code>, 14 találat; &lt;code>Budapest Főváros Tanácsa Végrehajtó Bizottsága XIX. ker. beruházási program&lt;/code>, 43 találat; &lt;code>XIX. ker Tanács végrehajtó bizottság&lt;/code>, 59 találat; &lt;code>kispest &amp;quot;beruházási program&amp;quot;&lt;/code>, 422 találat. Rendezés: alapértelmezett (időrendi).&lt;/p>
 &lt;ul>
+&lt;li>&lt;em>1988. június 29.&lt;/em>: Javaslat a XIX. ker. Vörös Hadsereg útja – Corvin krt. - Ady E. utca – Mátyás király krt. által határolt terület lépcsőzetes szanálása VII. ötéves tervi lehetőségeire.&lt;/li>
 &lt;li>&lt;em>1986. szeptember 10.&lt;/em>: A VII. ötéves tervi beruházási programok helyzetének áttekintése, javaslat a módosítások rendjére.&lt;/li>
 &lt;/ul>
 &lt;blockquote>
@@ -327,7 +327,7 @@
 &lt;/blockquote>
 &lt;/li>
 &lt;/ul>
-&lt;h4 id="bft">BFT&lt;/h4>
+&lt;h3 id="bft">BFT&lt;/h3>
 &lt;p>Budapest Főváros Tanácsa tanácsülési jegyzőkönyvei&lt;/p>
 &lt;ul>
 &lt;li>keresés &lt;code>&amp;quot;rendezési terv&amp;quot; (kispest OR XIX)&lt;/code>, Sorozat: Budapest Főváros Tanácsának jegyzőkönyvei 1950-1990, Rendezés: alapértelmezett, 331 találat:
@@ -361,7 +361,7 @@ Műszaki tervezési munkák terve. XIX. Kispest I. telep 510 lakás. Generálter
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h4 id="mszmp-bp-pb">MSZMP BP PB&lt;/h4>
+&lt;h3 id="mszmp-bp-pb">MSZMP BP PB&lt;/h3>
 &lt;p>MSZMP Budapesti Pártbizottságának ülései&lt;/p>
 &lt;ul>
 &lt;li>
@@ -396,7 +396,7 @@ Műszaki tervezési munkák terve. XIX. Kispest I. telep 510 lakás. Generálter
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h4 id="mszmp-bp-vb">MSZMP BP VB&lt;/h4>
+&lt;h3 id="mszmp-bp-vb">MSZMP BP VB&lt;/h3>
 &lt;p>MSZMP Budapesti Végrehajtó Bizottságának ülései&lt;/p>
 &lt;ul>
 &lt;li>
@@ -443,8 +443,15 @@ Az V. ötéves terv tengelyében még mindig a nagymérvű mennyiségi lakáshi�
 &lt;li>&lt;em>1965. április 9.&lt;/em>: A Bp. VB és a Fővárosi Tanács VB együttes ülése Budapest fejlesztésének problémáiról. [Megtalálható a BFT VB alatt is!]&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>
+&lt;p>keresés (kispest OR xix) 2W rekonstrukció*:&lt;/p>
+&lt;ul>
+&lt;li>&lt;em>1982. november 17.&lt;/em>: A XIX. Kerületi PB és a PTO beszámolója a XII. kongresszus óta végzett kerületi munkáról. [Őszinteség az összefoglalóban. Pl. szervezési nehézségek]&lt;/li>
+&lt;li>&lt;em>1986. szeptember 3.&lt;/em>: A XIX. Kerületi PB és a PTO jelentése a XIII. kongresszus óta végzett kerületi munka tapasztalatairól, különös tekintettel a kerület közrendjére, közbiztonságára.&lt;/li>
 &lt;/ul>
-&lt;h3 id="hungaricana-térképtár">Hungaricana Térképtár&lt;/h3>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="hungaricana-térképtár">Hungaricana Térképtár&lt;/h2>
 &lt;p>&lt;a href="https://hungaricana.hu/hu/adatbazisok/terkepgyujtemeny/" target="_blank" rel="noopener">Térképek és Építészeti Tervek&lt;/a> ➡️ Budapest Főváros Levéltára – Térképek ➡️ Budapest térképeinek katalógusa ➡️ &lt;a href="https://maps.hungaricana.hu/hu/search/results/?query=HIER%3D%28BFLTerkeptarHierarchy-6%29" target="_blank" rel="noopener">Az 1950–2000 közötti időszakra vonatkozó térképek leírása&lt;/a>&lt;/p>
 &lt;ul>
 &lt;li>keresés &lt;code>HIER=(BFLTerkeptarHierarchy-6) rendezési terv&lt;/code>, 15 találat:
@@ -477,7 +484,7 @@ Az V. ötéves terv tengelyében még mindig a nagymérvű mennyiségi lakáshi�
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h3 id="arcanum-digitális-tudománytár">Arcanum Digitális Tudománytár&lt;/h3>
+&lt;h2 id="arcanum-digitális-tudománytár">Arcanum Digitális Tudománytár&lt;/h2>
 &lt;p>&lt;a href="https://adtplus.arcanum.hu/hu/" target="_blank" rel="noopener">Arcanum Digitális Tudománytár&lt;/a> keresés:&lt;/p>
 &lt;ul>
 &lt;li>
@@ -519,7 +526,7 @@ Magyar Nemzet, 1974. február (30. évfolyam, 26-49. szám) 1974-02-27 / 48. sz�
 &lt;/blockquote>
 &lt;/li>
 &lt;/ul>
-&lt;h3 id="arcanum-alkalmazások">Arcanum alkalmazások&lt;/h3>
+&lt;h2 id="arcanum-alkalmazások">Arcanum alkalmazások&lt;/h2>
 &lt;p>&lt;a href="http://apps.arcanum.hu/" target="_blank" rel="noopener">Arcanum alkalmazások&lt;/a>, melyen belül elérhető a &lt;a href="http://apps.arcanum.hu/app/budapest/" target="_blank" rel="noopener">Budapest&lt;/a> folyóirat! Keresés &lt;code>kispest*&lt;/code>, 594 találat:&lt;/p>
 &lt;ul>
 &lt;li>Dr. Székely vera (1968): &lt;a href="http://apps.arcanum.hu/app/budapest/view/Budapest_1968/?query=SZO%3D%28kispest*%29&amp;amp;pg=297&amp;amp;layout=s" target="_blank" rel="noopener">Egy peremkerület előtörténete&lt;/a>. &lt;em>Budapest&lt;/em>, 6. évfolyam, 6. szám, 36-37. pp. [Kispest előtörténete! Nagyon jó forrás!]&lt;/li>
@@ -534,17 +541,14 @@ Magyar Nemzet, 1974. február (30. évfolyam, 26-49. szám) 1974-02-27 / 48. sz�
 &lt;li>Fekete Gábor: Fővárosi őrjárat III.: &lt;a href="http://apps.arcanum.hu/app/budapest/view/Budapest_1972/?query=SZO%3D%28kispest*%29&amp;amp;pg=323&amp;amp;layout=s" target="_blank" rel="noopener">A „csendes” városrész&lt;/a>.&lt;/li>
 &lt;li>Zolnay László (1973): &lt;a href="http://apps.arcanum.hu/app/budapest/view/Budapest_1973/?query=SZO%3D%28kispest*%29&amp;amp;pg=626&amp;amp;layout=s" target="_blank" rel="noopener">A paraszti élet kezdete, tündöklése és elmúlása&lt;/a>. &lt;em>Budapest&lt;/em>, 11. évfolyam, 12. szám, 36-38. pp. [Benne: Minor Pest, azaz Kispest, de ez a Gellért-hegynél!]&lt;/li>
 &lt;li>Tömöry Márta, Benyó Márta (1974): &lt;a href="http://apps.arcanum.hu/app/budapest/view/Budapest_1974/?query=SZO%3D%28kispest*%29&amp;amp;pg=139&amp;amp;layout=s" target="_blank" rel="noopener">&amp;ldquo;Ős&amp;rdquo;-Kispest házai között&lt;/a>. &lt;em>Budapest&lt;/em>, 12. évfolyam, 3. szám, 34-35. pp.&lt;/li>
-&lt;li>Hajduska István (): &lt;a href="http://apps.arcanum.hu/app/budapest/view/Budapest_1976/?query=SZO%3D%28kispest*%29&amp;amp;pg=210&amp;amp;layout=s" target="_blank" rel="noopener">A főváros múltjának kutatói&lt;/a>. &lt;em>Budapest&lt;/em>, 14. évfolyam, 5. szám, 1-3. pp. [Nagyrészt a kispesti helytörténeti mozgalomról szól, példaként állítva a többi kerület elé.]&lt;/li>
+&lt;li>Hajduska István (1976): &lt;a href="http://apps.arcanum.hu/app/budapest/view/Budapest_1976/?query=SZO%3D%28kispest*%29&amp;amp;pg=210&amp;amp;layout=s" target="_blank" rel="noopener">A főváros múltjának kutatói&lt;/a>. &lt;em>Budapest&lt;/em>, 14. évfolyam, 5. szám, 1-3. pp. [Nagyrészt a kispesti helytörténeti mozgalomról szól, példaként állítva a többi kerület elé.]&lt;/li>
 &lt;li>Dr. Buza Péter (1981): &lt;a href="http://apps.arcanum.hu/app/budapest/view/Budapest_1981/?query=SZO%3D%28kispest*%29&amp;amp;pg=174&amp;amp;layout=s" target="_blank" rel="noopener">A kispesti Gondűző-villa&lt;/a>. &lt;em>Budapest&lt;/em>, 19. évfolyam, 4. szám, 17-19. pp.&lt;/li>
-&lt;li>Oszlay István: &lt;a href="http://apps.arcanum.hu/app/budapest/view/Budapest_1981/?query=SZO%3D%28kispest*%29&amp;amp;pg=318&amp;amp;layout=s" target="_blank" rel="noopener">Új városközpont a régi Kispesten&lt;/a>. &lt;em>Budapest&lt;/em> 19. évf. 7. sz. (1981), p. 5-7.&lt;/li>
+&lt;li>Oszlay István (1981): &lt;a href="http://apps.arcanum.hu/app/budapest/view/Budapest_1981/?query=SZO%3D%28kispest*%29&amp;amp;pg=318&amp;amp;layout=s" target="_blank" rel="noopener">Új városközpont a régi Kispesten&lt;/a>. &lt;em>Budapest&lt;/em> 19. évf. 7. szám, p. 5-7.&lt;/li>
 &lt;li>Dr. Buza Péter (1981): A postamestert Klári néninek hívták. &lt;em>Budapest&lt;/em> 19. évf. 7. sz, 18-21. pp. [Móricz Zsigmond kispesti kapcsolata.]&lt;/li>
 &lt;li>Szakolczay Lajos (1981): Kispest és a kisember. &lt;em>Budapest&lt;/em>, 19. évfolyam, 7. szám, pp. 8-9. [Benne utalás a kispesti piac védelméről, ugyanis a II/B ütemben vagy legkésőbb az intézményközpont építésekor elbontották volna és vásárcsarnokot építettek volna. Lehet emiatt nem valósult meg az összes épület a tervből?]&lt;/li>
 &lt;/ul>
-&lt;h3 id="térképi-ábrázolás">Térképi ábrázolás&lt;/h3>
+&lt;h2 id="térképi-ábrázolás">Térképi ábrázolás&lt;/h2>
 &lt;p>Google: &lt;code>Building Footprint Mapping Using OSM and R Script&lt;/code>, &lt;code>r interactive dashboard map select click&lt;/code>, &lt;code>r interactive map highlight polygon&lt;/code>&lt;/p>
-&lt;h2 id="képek">Képek&lt;/h2>
-&lt;p>&lt;a href="https://fortepan.hu" target="_blank" rel="noopener">Fortepan&lt;/a>: 65841, 66152-66156, 66264-66266, 66269, 66270, 66275-66278, 80082, 111500, 110523, 187837-187844, 195782, 195784, 195814-195817, 197911, 197912
-&lt;a href="http://www.ilyenisvoltbudapest.hu" target="_blank" rel="noopener">Ilyesmi is volt Budapest&lt;/a>: a fenti Fortepan képek, leírásokkal. &lt;a href="http://www.ilyenisvoltbudapest.hu/ilyen-is-volt/tizenkilencedik-kerulet-kispest" target="_blank" rel="noopener">XIX. kerület&lt;/a>&lt;/p>
 &lt;h2 id="folyóiratok-könyvek">Folyóiratok, könyvek&lt;/h2>
 &lt;ul>
 &lt;li>Magyar Építőművészet (&lt;a href="https://matarka.hu/" target="_blank" rel="noopener">MATARKA&lt;/a>-n böngészhető tartalomjegyzék)&lt;/li>
@@ -552,6 +556,7 @@ Magyar Nemzet, 1974. február (30. évfolyam, 26-49. szám) 1974-02-27 / 48. sz�
 &lt;li>Építésügyi Értesítő&lt;/li>
 &lt;li>&lt;a href="http://apps.arcanum.hu/app/budapest/" target="_blank" rel="noopener">Budapest&lt;/a>&lt;/li>
 &lt;li>Városépítés&lt;/li>
+&lt;li>Városi Közlekedés&lt;/li>
 &lt;li>Műszaki Tervezés&lt;/li>
 &lt;li>Műszaki Élet&lt;/li>
 &lt;li>Bitó János (2013): Lakóépületek tervezése&lt;/li>
@@ -653,10 +658,20 @@ Magyar Nemzet, 1974. február (30. évfolyam, 26-49. szám) 1974-02-27 / 48. sz�
 &lt;li>kispanel&lt;/li>
 &lt;li>alagútzsalu&lt;/li>
 &lt;/ul>
-&lt;h2 id="képek-1">Képek&lt;/h2>
-&lt;p>FSZEK katalógus: &lt;code>kispest lakótelep&lt;/code> [Bármely kulcsszó] keresés
+&lt;h2 id="képek">Képek&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://fortepan.hu" target="_blank" rel="noopener">Fortepan&lt;/a>: 65841, 66152-66156, 66264-66266, 66269, 66270, 66275-66278, 80082, 111500, 110523, 187837-187844, 195782, 195784, 195814-195817, 197911, 197912&lt;/li>
+&lt;li>&lt;a href="http://www.ilyenisvoltbudapest.hu" target="_blank" rel="noopener">Ilyesmi is volt Budapest&lt;/a>: a fenti Fortepan képek, leírásokkal. &lt;a href="http://www.ilyenisvoltbudapest.hu/ilyen-is-volt/tizenkilencedik-kerulet-kispest" target="_blank" rel="noopener">XIX. kerület&lt;/a>&lt;/li>
+&lt;li>Google &lt;code>(kispest OR xix) rekonstrukció*&lt;/code>:
+&lt;ul>
+&lt;li>A kispesti rekonstrukció alapkőletétele: 1972. október 12. = 30 éve szabad Kispest. (Budapest, 1975) p. 54.&lt;/li>
+&lt;li>A kispesti városrészközpont makettje. = A 100 éves Kispest. (Budapest, 1972.) p. 234.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>FSZEK katalógus: &lt;code>kispest lakótelep&lt;/code> [Bármely kulcsszó] keresés
 &lt;em>A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés&lt;/em>
-FSZEK Központi Könyvtár Budapest Gyűjtemény, raktár&lt;/p>
+FSZEK Központi Könyvtár Budapest Gyűjtemény, raktár&lt;/li>
+&lt;/ul>
 &lt;p>Bp 19. kerület Kispest városközpont 2/B ütem 1. és 2. szakasz
 &lt;img src="IMG_20200730_143336.jpg" alt="Bp 19. kerület Kispest városközpont 2/B ütem 1. és 2. szakasz">&lt;/p>
 &lt;p>Bp 19. kerület Kispest városközpont 2/B ütem 3. szakasz
