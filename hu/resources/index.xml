@@ -2,6 +2,10 @@
 &lt;p>A rendszerezés alapja, hogy felkutatok forrásokat és a kutatás közben elém kerülő forrás helyek, személyek, intézmények, fogalmak kigyűjtését is elvégzem. Ezáltal áttekinthetőbbé válik az érintettek köre, ami segíti a folytatást és a kapcsolatteremtést. Ha lenne egy egyszerű módja a markdownban folyamatábrák rajzolásának, szívesen használnám, hogy a kutatási lépéseket ábrázolhassam. A listák töltik be most ezt a szerepet.&lt;/p>
 &lt;p>Mivel a források néhány kivétellel magyar nyelvűek és a téma jellege miatt is korlátozott érdeklődést válthat ki a nem magyar olvasók között, ezért ha lefordítom, akkor a megjegyzéseimmel próbálom az angol nyelvű tájékozódást segíteni. Nehéz kialakítani egységes stílusú irodalomjegyzéket.&lt;/p>
 &lt;p>Ha bármi ötlet lenne a kedves olvasóban, írja meg nyugodtan! Örömmel fogadom az érdeklődést!&lt;/p>
+&lt;h2 id="szakdolgozat">Szakdolgozat&lt;/h2>
+&lt;ul>
+&lt;li>Balázs Péter: &lt;a href="http://lazarus.elte.hu/hun/digkonyv/szakdolg/2012-bsc/balazs_peter.pdf" target="_blank" rel="noopener">Budapest területének fejlődése 1945-től napjainkig&lt;/a>. ELTE IK Térképtudományi és Geoinformatikai Tanszék, 2011. [Benne a városfejlesztési vezetőkről történeti áttekintés.]&lt;/li>
+&lt;/ul>
 &lt;h2 id="cikkek">Cikkek&lt;/h2>
 &lt;ul>
 &lt;li>Google: &lt;code>panel térkép&lt;/code>, &lt;code>panel épület típus&lt;/code>, &lt;code>panelház típusok&lt;/code>
@@ -92,9 +96,16 @@
 &lt;li>&lt;a href="https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1960/?query=%C3%89M%20tipusterv&amp;amp;pg=206&amp;amp;layout=s" target="_blank" rel="noopener">Új Típusterv Katalógus megjelenése&lt;/a>, &lt;em>Tanácsok Közlönye&lt;/em>, 1960, 8. évfolyam, 16. szám&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>&lt;a href="https://library.hungaricana.hu/hu/view/DTT_KOZL_TanacsokKozlonye_1969/?pg=71&amp;amp;layout=s" target="_blank" rel="noopener">Az építésügyi és városfejlesztési miniszter 1/1909. (I.8.) ÉVM számú rendelete az építési tipizálásról&lt;/a>. Tanácsok közlönye, 1969, 17. évfolyam, 1. szám&lt;/li>
 &lt;li>Hungaricana &lt;code>SZO=(típusterv OR tipusterv) AND DATE=(1965--1966)&lt;/code>:
 &lt;ul>
 &lt;li>&lt;a href="https://library.hungaricana.hu/hu/view/DunantuliNaplo_1965_10/?pg=124&amp;amp;layout=s" target="_blank" rel="noopener">Az ezredik panellakás&lt;/a>. &lt;em>Dunántúli Napló&lt;/em>, 1965. október 22., 22. évfolyam, 249. szám. [Benne Juhász Ferenc, a Baranya megyei Építőipari Vállalat főtechnológusát, a panelgyártás technológiájának kidolgozóját, Tillai Ernő építészt, a panelépületek prototípusának és típusterveinek készítőjét és Wolf István építésvezetőt, aki az ezer lakás összeszerelését irányította szólaltatták meg.]&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Kondor Attila Csaba – Szabó Balázs: &lt;a href="http://www.mtafki.hu/konyvtar/kiadv/FE2007/FE20073-4_237-269.pdf" target="_blank" rel="noopener">A lakáspolitika hatása Budapest városszerkezetéreaz 1960-as és az 1970-es években&lt;/a>. &lt;em>Földrajzi Értesítő&lt;/em> 2007. LVI. évf. 3–4. füzet, pp. 237–269.&lt;/li>
+&lt;li>Hungaricana ``:
+&lt;ul>
+&lt;li>Réfi Oszkó Magdolna: &lt;a href="https://library.hungaricana.hu/hu/view/LeveltariKorpusz_LevModFuz_09/?pg=0&amp;amp;layout=s" target="_blank" rel="noopener">Műszaki tervdokumentumok az államosított építőiparban&lt;/a>. Levéltári módszertani füzetek. Bp, 1990, Új Magyar Központi Levéltár, 340 p. [Benne: Az állami műszaki tervező szervezet kialakulása és fejlődése 1948-tól napjainkig. A beruházások tervezésének és lebonyolításának rendszere. Az építési műszaki tervdokumentumok fajtái és tartalma.]&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
@@ -557,6 +568,7 @@ Az V. ötéves terv tengelyében még mindig a nagymérvű mennyiségi lakáshi�
 &lt;li>Reischl Antal (1979): Lakóépületek tervezése, Tankönyvkiadó Vállalat, p 328.&lt;/li>
 &lt;li>Ferkai András (2005): &lt;a href="https://library.hungaricana.hu/hu/view/VaroshazaKiado_0112/?pg=0&amp;amp;layout=s" target="_blank" rel="noopener">Lakótelepek&lt;/a>&lt;/li>
 &lt;li>Preisich Gábor (1998): Budapest városépítésének története, Műszaki Könyvkiadó&lt;/li>
+&lt;li>Modern építészeti lexikon (Műszaki Könyvkiadó, Budapest, 1978)&lt;/li>
 &lt;li>Panelki: &lt;a href="https://www.zupagrafika.com/shop/panelki" target="_blank" rel="noopener">Construct Your Socialist Prefab Panel Block&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="intézetek-vállalatok">Intézetek, vállalatok&lt;/h2>
@@ -603,6 +615,7 @@ Az V. ötéves terv tengelyében még mindig a nagymérvű mennyiségi lakáshi�
 &lt;li>Balla Regina (PhD hallgató, BME ÉPK Urbanisztika Tanszék)&lt;/li>
 &lt;li>Weiszkopf András (tanársegéd, BME ÉPK &lt;a href="http://www.lako.bme.hu/?page_id=98" target="_blank" rel="noopener">Lakóépülettervezési Tanszék&lt;/a>)&lt;/li>
 &lt;li>&lt;a href="https://hu.linkedin.com/in/%C3%A1bel-m%C3%A9sz%C3%A1ros-50b83b56" target="_blank" rel="noopener">Mészáros Ábel&lt;/a> (Lechner Tudásközpont)&lt;/li>
+&lt;li>kitűnő oldal az urbanistákról, pantheon: &lt;a href="https://urbanistak.hu/">https://urbanistak.hu/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://www.urbanisztika.bme.hu/tanszek/munkatarsak/ihrig-denes/" target="_blank" rel="noopener">Ihrig Dénes&lt;/a> az ÉKME Városépítési Tanszéke (ma: BME ÉPK Urbanisztika Tanszék). Sajnos 2019-ben elhunyt. &lt;a href="https://library.hungaricana.hu/hu/view/BME_EpitKozlek_Evkonyv_1963-64/?pg=107&amp;amp;layout=s" target="_blank" rel="noopener">Kispest központjának részletes rendezési terve&lt;/a>. (Társtervező: Takács Máté.) 1963. Ekkor 33 éves, adjunktus.&lt;/li>
 &lt;li>Zoltai István:
 &lt;ul>
@@ -619,10 +632,17 @@ Az V. ötéves terv tengelyében még mindig a nagymérvű mennyiségi lakáshi�
 &lt;/blockquote>
 &lt;ul>
 &lt;li>&lt;code>&amp;quot;zoltai istván&amp;quot;&lt;/code> Hungaricana keresés, 200 találat. &lt;em>1987. március 11.&lt;/em> - Budapest Főváros Tanácsa Végrehajtó Bizottsága üléseinek jegyzőkönyvei: Javaslat Reitter Ferenc díj adományozására. [személyes adatok, elismerései, méltatás, a javaslat indoklása építészeti tevékenységével, de Ybl-díjának okát nem említik]&lt;/li>
+&lt;li>Ybl Egyesület: &lt;a href="http://yblegyesulet.hu/ybl-dij/ybl-dijas-epiteszek/" target="_blank" rel="noopener">Ybl-díjas építészek&lt;/a>, 1976. Egy Word dokumentum tartalmazza az adatokat: III. fokozat, &lt;em>„Kispest lakótelep tervezésében kifejtett városrendezési tevékenységéért”&lt;/em>. 1943-ban született.&lt;/li>
+&lt;li>Úgy tűnik él és alkot jelenleg is: Korényi és Társai Kft. munkáinál vállal szerepet. Z &amp;amp; W Építésziroda?&lt;/li>
+&lt;li>A BME ÉPK Középülettervezési Tanszékén &lt;a href="http://www.kozep.bme.hu/wp-content/uploads/2016/09/diploma-Kozep-1946-2016.pdf" target="_blank" rel="noopener">diplomázott&lt;/a>, 1966-ban.&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>&lt;a href="https://mek.oszk.hu/00300/00355/html/ABC12527/12847.htm" target="_blank" rel="noopener">Reischl Antal&lt;/a>, BFT VB tag, egyetemi tanár a BME ÉPK Lakóépülettervezési Tanszékén&lt;/li>
 &lt;li>Bálint Imre, Kispest II/A ütem és kispesti városközpont tervezője&lt;/li>
-&lt;li>Pomsár János, BVTV osztályvezető (Javaslat Pro Urbe Budapest kitüntetésre, Budapest Főváros Tanácsa Végrehajtó Bizottsága jegyzőkönyv 1979. január 17. és 1981. január 14.: Kispest városközpont (I. ütem) beépítési terve, 1967)&lt;/li>
+&lt;li>&lt;a href="https://hu.wikipedia.org/wiki/Poms%C3%A1r_J%C3%A1nos" target="_blank" rel="noopener">Pomsár János&lt;/a>: BVTV osztályvezető (Javaslat Pro Urbe Budapest kitüntetésre, Budapest Főváros Tanácsa Végrehajtó Bizottsága jegyzőkönyv 1979. január 17. és 1981. január 14.: Kispest városközpont (I. ütem) beépítési terve, 1967). &lt;a href="http://mek.hu/index.php?id=44609" target="_blank" rel="noopener">Gyászhíre&lt;/a> a Magyar Építész Kamara honlapján, &lt;a href="http://meonline.hu/magyar-epitomuveszet-hirek/bucsu/pomsar-janos-1931-2018/" target="_blank" rel="noopener">nekrológja&lt;/a> a Magyar Építőművészet oldalán, &lt;a href="https://urbanistak.hu/category/mnop/" target="_blank" rel="noopener">életrajza&lt;/a> az urbanistak.hu oldalon található meg.&lt;/li>
+&lt;li>Szilágyi Lajos, Városrendezési és Építészeti Főosztály, főosztályvezető, ÉM miniszterhelyettes. Reitter Ferenc-díj: 1989, Lechner Ödön díj: 1996. Szülőhelyük: Szabolcs-Szatmár című könyvben (Nyíregyháza, 1985, 519 p.) szerepel.&lt;/li>
+&lt;li>Heincz Mihály, Városrendezési és Építészeti Főosztály, főosztályvezető. &lt;a href="https://eptud.viacomkft.hu/hirek/in-memoriam-heincz-mihaly" target="_blank" rel="noopener">Életrajza&lt;/a> a gyászhír kapcsán olvasható az Építéstudományi Egyesület oldalán. A Youtube-on elérhető egy 20 perces &lt;a href="https://www.youtube.com/watch?v=l89_KFe3pmU" target="_blank" rel="noopener">portréműsor&lt;/a> róla &amp;ldquo;9. tv Ferencváros Televíziója&amp;rdquo; csatornáján.&lt;/li>
+&lt;li>&lt;a href="https://epiteszforum.hu/polonyi-karoly-epitesz-emlekkiallitasa" target="_blank" rel="noopener">Polónyi Károly&lt;/a>, BFT VB Városrendezési és Építészeti Főosztály megbízott főosztályvezető. További cikkek a Lechner Tudásközpont oldalán: A déli part alkirálya &lt;a href="http://uj.lechnerkozpont.hu/cikk/a-deli-part-alkiralya-i" target="_blank" rel="noopener">I&lt;/a>, &lt;a href="http://uj.lechnerkozpont.hu/cikk/a-deli-part-alkiralya-ii" target="_blank" rel="noopener">II&lt;/a>.&lt;/li>
 &lt;li>Pongrácz Pál, Városrendezési és Építészeti Főosztály, főosztályvezető (Kispest II/B ütem előadó)&lt;/li>
 &lt;li>Giltner Andor, tanácselnök helyettes (Kispest II/B ütem felelős)&lt;/li>
 &lt;li>Szabó Balázs (MTA CSFK FTI)&lt;/li>
