@@ -952,7 +952,7 @@ Kispest városközpont 2/B ütem 3. szakasz helyszínrajz. Forrás: A budapesti 
 &lt;/ol>
 &lt;p>Az OSM szerverére felkerült adatok különböző idő után válhatnak láthatóvá a neten is böngészhető térképen, mivel a térképet az adatokból rajzolja meg a szerver és ez különféle terepi objektumok esetén más-más időt vehet igénybe. Több fórumoldal foglalkozik ezzel a kérdéssel (keresés: &lt;code>building not render after edit osm&lt;/code>). Például: &lt;a href="https://help.openstreetmap.org/questions/23836/re-why-my-last-edits-are-not-displayed" target="_blank" rel="noopener">Why my last edits are not displayed?&lt;/a>&lt;/p>
 &lt;h2 id="r-leaflet">R Leaflet&lt;/h2>
-&lt;p>Miután a nekem szükséges épületeket létrehoztam és feltöltöttem az OSM-re, onnan letöltöm és térképen ábrázolom típus szerint őket. A teljes munkafolyamat R-ben végezhető.&lt;/p>
+&lt;p>Miután a nekem szükséges épületeket létrehoztam és feltöltöttem az OSM-re, onnan letöltöttem és térképen ábrázoltam őket típus szerint. A teljes munkafolyamat R-ben végezhető.&lt;/p>
 &lt;hr>
 &lt;h2 id="az-új-e-típus">Az új E típus&lt;/h2>
 &lt;p>Az E típusú épületek újszerűséget vittek a paneles építészetbe. Milyenek voltak ezek? Miben tértek el a korábbi típustervektől? Tényleg jobbak voltak? Lássuk a BFT VB előterjesztést!&lt;/p>
