@@ -873,7 +873,7 @@ Zoltai István portré. Százhalombattai Hírtükör, 2009. október 20.
 &lt;p>&lt;em>Mi a cél?&lt;/em>&lt;/p>
 &lt;p>Térképen ábrázolni az &lt;em>épület körvonalat&lt;/em> (magyarul talán így mondanánk, angolul viszont &lt;em>building footprint&lt;/em>-nek hívják). Az interaktív megvalósítás a későbbiekben azt jelenti, hogy ki/be kapcsolhatóak a megjelenített épületek az egyes jellemzők szerint. Ehhez vélhetőleg Shiny-t alkalmaznék.&lt;/p>
 &lt;h2 id="kiindulási-adatok">Kiindulási adatok&lt;/h2>
-&lt;p>Felhasználva a &lt;a href="https://hermanp.github.io/hu/post/kispest-lakotelep-4-resz/">4. részben&lt;/a> közölt 1981-es Kispest beépítési tervet és &lt;em>A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés&lt;/em>&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> című többkötetes kiadvány helyszínrajzait, ezeket egybevetve a Google Maps műholdas alaptérképével, képes voltam összeírni a kispesti lakótelep lakóépületeit (zárójelben típusok szerint):&lt;/p>
+&lt;p>Felhasználva a &lt;a href="https://hermanp.github.io/hu/post/kispest-lakotelep-4-resz/">4. részben&lt;/a> közölt 1981-es Kispest beépítési tervet, &lt;em>A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés&lt;/em>&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> és a &lt;em>Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése&lt;/em>&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> című többkötetes kiadványok helyszínrajzait, ezeket egybevetve a Google Maps műholdas alaptérképével, képes voltam összeírni a kispesti lakótelep lakóépületeit (zárójelben típusok szerint):&lt;/p>
 &lt;ul>
 &lt;li>I. ütem:
 &lt;ul>
@@ -885,7 +885,7 @@ Zoltai István portré. Százhalombattai Hírtükör, 2009. október 20.
 &lt;ul>
 &lt;li>3 db 10 szintes &lt;strong>A-4&lt;/strong> típusú pontház&lt;/li>
 &lt;li>10 db 11 szintes &lt;strong>S-12&lt;/strong> típusú szalagház és&lt;/li>
-&lt;li>5 db 4 és 5 szintes elemekből összeállított &lt;strong>H-O&lt;/strong> típusú épület&lt;/li>
+&lt;li>5 db 4 és 5 szintes elemekből összeállított &lt;strong>H-0&lt;/strong> típusú épület&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>II/B ütem:
@@ -893,30 +893,56 @@ Zoltai István portré. Százhalombattai Hírtükör, 2009. október 20.
 &lt;li>12 db 11 emeletes &lt;strong>S-412&lt;/strong> típusú szalagház&lt;/li>
 &lt;li>14 db 11 emeletes &lt;strong>S-312&lt;/strong> típusú szalagház&lt;/li>
 &lt;li>10 db 11 emeletes &lt;strong>F-90&lt;/strong> típusú szalagház&lt;/li>
-&lt;li>9 db 4 és 5 szintes elemekből összeállított &lt;strong>H-O&lt;/strong> típusú épület és&lt;/li>
+&lt;li>9 db 4 és 5 szintes elemekből összeállított &lt;strong>H-0&lt;/strong> típusú épület és&lt;/li>
 &lt;li>17 db 4 vagy 5 szintes &lt;strong>E-5&lt;/strong> típusú épület&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;figure id="figure-kispest-városközpont-2b-ütem-1-és-2-szakasz-helyszínrajz-forrás-a-budapesti-célcsoportos-és-magánerős-komplex-vi-ötéves-tervi-lakásépítés-hálós-elemzés">
-&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/IMG_20200730_143336_hue511cb7049bcae27bb32715c6ab91db1_841680_2000x2000_fit_q90_lanczos.jpg" data-caption="Kispest városközpont 2/B ütem 1. és 2. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés">
-&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/IMG_20200730_143336_hue511cb7049bcae27bb32715c6ab91db1_841680_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="4160" height="3120">
+&lt;figure id="figure-kispest-városközpont-i-és-iia-ütem-helyszínrajz-forrás-az-v-ötéves-budapesti-állami-célcsoportos-komplex-lakásépítési-terv-előkészítési-és-megvalósítási-feltételeinek-hálós-elemzése-2-i-kötet-budapest-1978-197-oldal">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/kispest_I_IIA_hu00ffaa9514943f805fe2c0a10504c4ef_1339936_2000x2000_fit_q90_lanczos.jpg" data-caption="Kispest városközpont I és II/A ütem helyszínrajz. Forrás: Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése (2.) I. kötet. Budapest 1978. 197. oldal">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/kispest_I_IIA_hu00ffaa9514943f805fe2c0a10504c4ef_1339936_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="3120" height="4160">
 &lt;/a>
 &lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
-Kispest városközpont 2/B ütem 1. és 2. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés
+Kispest városközpont I és II/A ütem helyszínrajz. Forrás: Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése (2.) I. kötet. Budapest 1978. 197. oldal
 &lt;/figcaption>
 &lt;/figure>
-&lt;figure id="figure-kispest-városközpont-2b-ütem-3-szakasz-helyszínrajz-forrás-a-budapesti-célcsoportos-és-magánerős-komplex-vi-ötéves-tervi-lakásépítés-hálós-elemzés">
-&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/IMG_20200730_143400_hu4f96b3f87a2e0df15f1b14c67fe5dc27_820529_2000x2000_fit_q90_lanczos.jpg" data-caption="Kispest városközpont 2/B ütem 3. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés.">
-&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/IMG_20200730_143400_hu4f96b3f87a2e0df15f1b14c67fe5dc27_820529_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="4160" height="3120">
+&lt;figure id="figure-kispest-városközpont-iib-ütem-1-szakasz-helyszínrajz-forrás-az-v-ötéves-budapesti-állami-célcsoportos-komplex-lakásépítési-terv-előkészítési-és-megvalósítási-feltételeinek-hálós-elemzése-2-i-kötet-budapest-1978-215-oldal-látható-a-változás-az-1981-ben-kiadott-helyszínrajzhoz-képest-ami-lehetséges-intézményközponti-épületeket-is-mutat-eltűnik-a-226-os-számú-épület-1981-re">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/kispest_IIB_1szakasz_hu1c47ced7b9afc4858b1a9b118eeabee8_1223330_2000x2000_fit_q90_lanczos.jpg" data-caption="Kispest városközpont II/B ütem 1. szakasz helyszínrajz. Forrás: Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése (2.) I. kötet. Budapest 1978. 215. oldal. Látható a változás az 1981-ben kiadott helyszínrajzhoz képest, ami lehetséges intézményközponti épületeket is mutat. Eltűnik a 226-os számú épület 1981-re.">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/kispest_IIB_1szakasz_hu1c47ced7b9afc4858b1a9b118eeabee8_1223330_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="4160" height="3120">
 &lt;/a>
 &lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
-Kispest városközpont 2/B ütem 3. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés.
+Kispest városközpont II/B ütem 1. szakasz helyszínrajz. Forrás: Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése (2.) I. kötet. Budapest 1978. 215. oldal. Látható a változás az 1981-ben kiadott helyszínrajzhoz képest, ami lehetséges intézményközponti épületeket is mutat. Eltűnik a 226-os számú épület 1981-re.
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure id="figure-kispest-városközpont-iib-ütem-1-és-2-szakasz-helyszínrajz-forrás-a-budapesti-célcsoportos-és-magánerős-komplex-vi-ötéves-tervi-lakásépítés-hálós-elemzés">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/kispest_IIB_1_2szakasz_hue511cb7049bcae27bb32715c6ab91db1_841680_2000x2000_fit_q90_lanczos.jpg" data-caption="Kispest városközpont II/B ütem 1. és 2. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/kispest_IIB_1_2szakasz_hue511cb7049bcae27bb32715c6ab91db1_841680_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="4160" height="3120">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+Kispest városközpont II/B ütem 1. és 2. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure id="figure-kispest-városközpont-iib-ütem-3-szakasz-helyszínrajz-forrás-a-budapesti-célcsoportos-és-magánerős-komplex-vi-ötéves-tervi-lakásépítés-hálós-elemzés">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/kispest_IIB_3szakasz_hu4f96b3f87a2e0df15f1b14c67fe5dc27_820529_2000x2000_fit_q90_lanczos.jpg" data-caption="Kispest városközpont II/B ütem 3. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés.">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/kispest_IIB_3szakasz_hu4f96b3f87a2e0df15f1b14c67fe5dc27_820529_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="4160" height="3120">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+Kispest városközpont II/B ütem 3. szakasz helyszínrajz. Forrás: A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés.
 &lt;/figcaption>
 &lt;/figure>
 &lt;p>Ezekről egy &lt;a href="https://docs.google.com/spreadsheets/d/1LVAJUEYR19ZKJL6qfAU35jEEAo43WpLNQSETC82IGZk/edit?usp=sharing" target="_blank" rel="noopener">attribútum táblázatot&lt;/a> állítottam össze, ami tartalmazza a lakóépület típusát, címét, szintszámát és egyéb adatokat.&lt;/p>
+&lt;h3 id="lakóépület-típusok">Lakóépület típusok&lt;/h3>
+&lt;p>De nézzük csak meg, miféle lakóépület típustervekből válogathattak a tervezők. Egy gyűjteményt leltem fel a Szabó Ervin könyvtár Budapest Gyűjteményében, amelyikre a &lt;a href="https://hermanp.github.io/hu/post/kispest-lakotelep-2-resz/">2. részben&lt;/a> is hivatkoztam (ahol Sallai Mihályt utasítják a rendelkezésre álló típusterv választék bemutatására egy tervgyűjteményben): &lt;em>Az 5. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei&lt;/em>&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>. Továbbá a fentebb hivatkozott&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> V. ötéves terv hálós elemzése könyv 303. oldalán található egy táblázat a típustervek házgyár szerinti megoszlásáról.&lt;/p>
+&lt;figure id="figure-az-v-ötéves-budapesti-állami-célcsoportos-komplex-lakásépítési-terv-előkészítési-és-megvalósítási-feltételeinek-hálós-elemzése-2-i-kötet-budapest-1978-303-oldal-a-pte-rövidítés-panelos-termelőegységek-a-házgyárakat-jelenti">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/tipusterv_eloszlas_hazgyarak_hu8b7ea57eb72da1ed711c2dd0fe0d98a9_1286011_2000x2000_fit_q90_lanczos.jpg" data-caption="Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése (2.) I. kötet. Budapest 1978. 303. oldal. A PTE rövidítés (panelos termelőegységek) a házgyárakat jelenti.">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/tipusterv_eloszlas_hazgyarak_hu8b7ea57eb72da1ed711c2dd0fe0d98a9_1286011_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="4160" height="3120">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése (2.) I. kötet. Budapest 1978. 303. oldal. A PTE rövidítés (panelos termelőegységek) a házgyárakat jelenti.
+&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="openstreetmap-térképezés">OpenStreetMap térképezés&lt;/h2>
-&lt;p>Az ábrázoláshoz az épületek körvonalait legálisan, könnyen meg lehet szerezni az &lt;a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap&lt;/a> (OSM) adatbázisból. Ennek több módja is lehet: letölteni a terület shape file-ját, majd R-be beolvasni és feldolgozható formára hozni&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> vagy külön erre a célra kialakított R csomagot használni. Amikor nekikezdtem a munkának, sok épület nem vagy pontatlanul volt berajzolva. Két út állt előttem: vagy csak magamnak rajzolgatok vagy a munkámat közzéteszem az OSM-en, így másoknak is segítek. Utóbbi mellett döntöttem és felvettem a kapcsolatot a hazai OSM közösséggel a Google Groups-os levelezőlistájukon keresztül.&lt;/p>
+&lt;p>Az ábrázoláshoz az épületek körvonalait legálisan, könnyen meg lehet szerezni az &lt;a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap&lt;/a> (OSM) adatbázisból. Ennek több módja is lehet: letölteni a terület shape file-ját, majd R-be beolvasni és feldolgozható formára hozni&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> vagy külön erre a célra kialakított R csomagot használni. Amikor nekikezdtem a munkának, sok épület nem vagy pontatlanul volt berajzolva. Két út állt előttem: vagy csak magamnak rajzolgatok vagy a munkámat közzéteszem az OSM-en, így másoknak is segítek. Utóbbi mellett döntöttem és felvettem a kapcsolatot a hazai OSM közösséggel a Google Groups-os levelezőlistájukon keresztül.&lt;/p>
 &lt;p>Segédletként pedig az alábbiakat találtam:&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://www.osmtippek.hu/josm/rajzolas-muholdkeprol/" target="_blank" rel="noopener">Település felrajzolása műholdkép alapján&lt;/a> - OSM Tippek&lt;/li>
@@ -1050,7 +1076,7 @@ Az E típusterv. Példák épületváltozatok kialakítására a lakástípusok 
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>Azonban érdemes rámutatni itt egy &lt;strong>Virág Csabával&lt;/strong>, LAKÓTERV vezető építészével készült &lt;a href="http://www.kozep.bme.hu/wp-content/uploads/2013/08/tanulmany_viragcsaba_2007.pdf" target="_blank" rel="noopener">interjúra&lt;/a>, melyet Buzder-Lantos Zsófia és Gönczi Orsolya készített. Ennek Panelos Fejlesztési Programterv fejezetében olvashatunk az általa N+H System (N: nappali, H: háló) tervről, mely a paneles lakóépületek tervezésének és technológiájának fejlesztéséről kiírt pályázatra készült el.&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> Munkatársai Korényi András és Nagy János &amp;ldquo;a paneltechnológia atyjai&amp;rdquo; voltak. Két évig tervezte kb. 60 fős csapatával, de nem részletezett okokból visszalépett e terv vezetésétől. Ekkor vették át tőle:&lt;/p>
+&lt;p>Azonban érdemes rámutatni itt egy &lt;strong>Virág Csabával&lt;/strong>, LAKÓTERV vezető építészével készült &lt;a href="http://www.kozep.bme.hu/wp-content/uploads/2013/08/tanulmany_viragcsaba_2007.pdf" target="_blank" rel="noopener">interjúra&lt;/a>, melyet Buzder-Lantos Zsófia és Gönczi Orsolya készített. Ennek Panelos Fejlesztési Programterv fejezetében olvashatunk az általa N+H System (N: nappali, H: háló) tervről, mely a paneles lakóépületek tervezésének és technológiájának fejlesztéséről kiírt pályázatra készült el.&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup> Munkatársai Korényi András és Nagy János &amp;ldquo;a paneltechnológia atyjai&amp;rdquo; voltak. Két évig tervezte kb. 60 fős csapatával, de nem részletezett okokból visszalépett e terv vezetésétől. Ekkor vették át tőle:&lt;/p>
 &lt;blockquote>
 &lt;p>Korényi—Zoltai barátaim azután legalább e munka maradék eredményeiből az ún. „E”-típusból megcsinálták a Káposztásmegyeri Lakótelepet. Ez történt 1982-ben.&lt;/p>
 &lt;/blockquote>
@@ -1178,13 +1204,16 @@ pedig a meglevő berendezésekhez igazodó, de új termékcsalád kerül bevezet
 &lt;hr>
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
-&lt;p>A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés / [kidolgozta az Építésgazdasági és Szervezési Intézet 31. Főosztály Lakótelep Szervezési Osztálya]. Tanulmányok, helyszínrajzok, tervrajzok, táblázatok, grafikonok. Kiad. az Építésügyi Tájékoztató Központ. 9-13. kötetek lelhetőek fel a FSZEK Budapest Gyűjteményében. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>A budapesti célcsoportos és magánerős komplex VI. ötéves tervi lakásépítés: hálós elemzés / [kidolgozta az Építésgazdasági és Szervezési Intézet 31. Főosztály Lakótelep Szervezési Osztálya]. Tanulmányok, helyszínrajzok, tervrajzok, táblázatok, grafikonok. Budapest, Építésügyi Tájékoztató Központ, 1981. 9-13. kötetek lelhetőek fel a FSZEK Budapest Gyűjteményében. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:2" role="doc-endnote">
-&lt;p>Stackoverflow: R plot building footprint / outline on map using OpenStreetMap data. &lt;a href="https://stackoverflow.com/q/53161186">https://stackoverflow.com/q/53161186&lt;/a>. Elérés: 2021.06.14. &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>Az V. ötéves budapesti állami célcsoportos komplex lakásépítési terv előkészítési és megvalósítási feltételeinek hálós elemzése (2.) I. kötet / [kidolg. az Építésgazdasági és Szervezési Intézet 11. tagozat Termelésszervezési Osztálya]. Budapest, Építésügyi Tájékoztatási Központ, 1978. &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:3" role="doc-endnote">
-&lt;p>Kovács Judit: &lt;em>N+H rendszer. Titka: az egyszerűség&lt;/em>. (1979. március 18. Magyar Nemzet, 35. évfolyam 65. szám 7. oldal) &lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>Az 5. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei / közread. a Fővárosi Építőipari Beruházási Vállalat, Budapest, 1976. &lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4" role="doc-endnote">
+&lt;p>Kovács Judit: &lt;em>N+H rendszer. Titka: az egyszerűség&lt;/em>. (1979. március 18. Magyar Nemzet, 35. évfolyam 65. szám 7. oldal) &lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>Kispest lakótelep, 7. rész. A nagy tervek</title><link>https://hermanp.github.io/hu/post/kispest-lakotelep-7-resz/</link><pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate><guid>https://hermanp.github.io/hu/post/kispest-lakotelep-7-resz/</guid><description>&lt;p>Az előző részekben olvashattunk az egyes lakótelepi építési ütemekről, de kitekintettünk az ötéves lakásépítési tervekre is, így láthattuk a kispesti koncepció alakulását a budapesti lakásépítésen belül. De mégis, voltak nagyobb ívű tervek? Bizony, voltak és úgy láttam jónak, hogy külön részben tárgyalom ezeket. Mit ölelnek fel?&lt;/p>
