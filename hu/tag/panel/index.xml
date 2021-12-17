@@ -962,44 +962,176 @@ A panel lakóépület sorozattervek listája. Forrás: Az V. ötéves tervben Bu
 &lt;thead>
 &lt;tr>
 &lt;th>Házgyár&lt;/th>
+&lt;th>Tervező vállalat&lt;/th>
 &lt;th>Típus&lt;/th>
 &lt;th>Megjelenési forma&lt;/th>
-&lt;th>Szekció átlagos lakásterület (m2)&lt;/th>
+&lt;th>Szintszám&lt;/th>
+&lt;th>Lakószint&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
 &lt;td>4&lt;/td>
+&lt;td>TTI&lt;/td>
 &lt;td>A-4&lt;/td>
 &lt;td>pontház sorolható&lt;/td>
-&lt;td>4906&lt;/td>
+&lt;td>10&lt;/td>
+&lt;td>10&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>4&lt;/td>
+&lt;td>LAKÓTERV&lt;/td>
 &lt;td>S-412&lt;/td>
 &lt;td>sávház&lt;/td>
-&lt;td>5530&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>3&lt;/td>
+&lt;td>LAKÓTERV&lt;/td>
 &lt;td>S-312&lt;/td>
 &lt;td>sávház&lt;/td>
-&lt;td>5530&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>3&lt;/td>
+&lt;td>LAKÓTERV (TTI)&lt;/td>
 &lt;td>F-90&lt;/td>
 &lt;td>sávház sovány&lt;/td>
-&lt;td>4592&lt;/td>
+&lt;td>12&lt;/td>
+&lt;td>11&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>3&lt;/td>
+&lt;td>LAKÓTERV (TTI)&lt;/td>
 &lt;td>H-0&lt;/td>
 &lt;td>többszintes sorház&lt;/td>
-&lt;td>6720&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
+&lt;p>Tekintsünk végig az egyes típusok lakásösszetételén és alaprajzain. A Kispesten felépített típusok több esetben nem illeszkednek a tervekhez, többnyire a fogadószint, vagyis a földszint épületgépészeti (víz-, szennyvíz-, távfűtő vezetékek és hőközpont) és egyéb célokra (raktár, üzlet) lett hasznosítva, így ott lakások nem találhatóak.&lt;/p>
+&lt;h4 id="a-4">A-4&lt;/h4>
+&lt;p>Ennek a pontháznak két változata létezett, sorolható (vagyis egymás mellé helyezve összeépíthető) vagy szabadonálló. Kispesten csak szabadonálló formában épültek fel, ezért azt a két lakástípust mutatom be, ami ezekben megtalálható.&lt;/p>
+&lt;figure id="figure-a-4-típusú-panelház-alaprajza-sorolható-változat-az-v-ötéves-tervben-budapesten-építhető-házgyári-lakóépületek-sorozattervei-87-o-1976">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/A4_sorolhato_alaprajz_hue1af7c14b293f44295298da81996bdc3_1154951_2000x2000_fit_q90_lanczos.jpg" data-caption="A-4 típusú panelház alaprajza, sorolható változat. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 87. o., 1976">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/A4_sorolhato_alaprajz_hue1af7c14b293f44295298da81996bdc3_1154951_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="3120" height="4160">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+A-4 típusú panelház alaprajza, sorolható változat. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 87. o., 1976
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure id="figure-a-4-típusú-panelház-alaprajza-szabadonálló-változat-az-v-ötéves-tervben-budapesten-építhető-házgyári-lakóépületek-sorozattervei-88-o-1976">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/A4_szabadonallo_alaprajz_hu340064fa28b6de0e220a4e69665fa63d_904053_2000x2000_fit_q90_lanczos.jpg" data-caption="A-4 típusú panelház alaprajza, szabadonálló változat. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 88. o., 1976">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/A4_szabadonallo_alaprajz_hu340064fa28b6de0e220a4e69665fa63d_904053_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="3120" height="4160">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+A-4 típusú panelház alaprajza, szabadonálló változat. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 88. o., 1976
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure id="figure-a-4-típusú-panelház-1-szobás-u-kódjelű-lakás-alaprajza-az-v-ötéves-tervben-budapesten-építhető-házgyári-lakóépületek-sorozattervei-89-o-1976">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/A4_1szoba_u_lakas_hu6886947a58de9a32cf650e4695beb575_1005868_2000x2000_fit_q90_lanczos.jpg" data-caption="A-4 típusú panelház 1 szobás (U kódjelű) lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 89. o., 1976">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/A4_1szoba_u_lakas_hu6886947a58de9a32cf650e4695beb575_1005868_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="3120" height="4160">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+A-4 típusú panelház 1 szobás (U kódjelű) lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 89. o., 1976
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure id="figure-a-4-típusú-panelház-2--félszobás-tx-kódjelű-lakás-alaprajza-az-v-ötéves-tervben-budapesten-építhető-házgyári-lakóépületek-sorozattervei-91-o-1976">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/A4_2esfelszoba_tx_lakas_hu22573d049c71f1c74d140599f078cd1a_1065254_2000x2000_fit_q90_lanczos.jpg" data-caption="A-4 típusú panelház 2 &amp;#43; félszobás (Tx kódjelű) lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 91. o., 1976">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/A4_2esfelszoba_tx_lakas_hu22573d049c71f1c74d140599f078cd1a_1065254_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="3120" height="4160">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+A-4 típusú panelház 2 + félszobás (Tx kódjelű) lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 91. o., 1976
+&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="s-312s-412">S-312/S-412&lt;/h4>
+&lt;p>Ezeknél a típusoknál a fogadószinti lakástípusok nem léteznek (a fentebb írt okok miatt), ezért csak a Kispesten létező, kétféle emeleti lakástípust mutatom be.&lt;/p>
+&lt;figure id="figure-s-312-és-s-412-típusú-panelház-alaprajza-az-v-ötéves-tervben-budapesten-építhető-házgyári-lakóépületek-sorozattervei-83-o-1976">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/S312es412_alaprajz_hu35e1fe379ce2543ba04f6a34137f2844_987458_2000x2000_fit_q90_lanczos.jpg" data-caption="S-312 és S-412 típusú panelház alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 83. o., 1976">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/S312es412_alaprajz_hu35e1fe379ce2543ba04f6a34137f2844_987458_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="3120" height="4160">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+S-312 és S-412 típusú panelház alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 83. o., 1976
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure id="figure-s-312-és-s-412-típusú-panelház-1--2-félszobás-rx-kódjelű-lakás-alaprajza-az-v-ötéves-tervben-budapesten-építhető-házgyári-lakóépületek-sorozattervei-86-o-1976">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/S312es412_1es2felszoba_rx_lakas_hua2fadf15473546c9ea895db84dfc5b37_1017473_2000x2000_fit_q90_lanczos.jpg" data-caption="S-312 és S-412 típusú panelház 1 &amp;#43; 2 félszobás (rx kódjelű) lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 86. o., 1976">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/S312es412_1es2felszoba_rx_lakas_hua2fadf15473546c9ea895db84dfc5b37_1017473_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="3120" height="4160">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+S-312 és S-412 típusú panelház 1 + 2 félszobás (rx kódjelű) lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 86. o., 1976
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure id="figure-s-312-és-s-412-típusú-panelház-1--2-félszobás-t-kódjelű-lakás-alaprajza-az-v-ötéves-tervben-budapesten-építhető-házgyári-lakóépületek-sorozattervei-85-o-1976">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/S312es412_1es2felszoba_t_lakas_hueaac39e3520233fe1cbb33446fdbb6e4_1091071_2000x2000_fit_q90_lanczos.jpg" data-caption="S-312 és S-412 típusú panelház 1 &amp;#43; 2 félszobás (t kódjelű) lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 85. o., 1976">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/S312es412_1es2felszoba_t_lakas_hueaac39e3520233fe1cbb33446fdbb6e4_1091071_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="3120" height="4160">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+S-312 és S-412 típusú panelház 1 + 2 félszobás (t kódjelű) lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 85. o., 1976
+&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="f-90">F-90&lt;/h4>
+&lt;p>Bár ennél a típusnál sincsenek lakások a fogadószinten, de a fogadószinti lakástípusok megtalálhatóak az emeleti szinteken is, így mindet be tudom mutatni.&lt;/p>
+&lt;figure id="figure-f-90-típusú-panelház-alaprajza-az-v-ötéves-tervben-budapesten-építhető-házgyári-lakóépületek-sorozattervei-57-o-1976">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/F90_alaprajz_huaf9ffe070549ac676a42a6d1b8192e47_1033094_2000x2000_fit_q90_lanczos.jpg" data-caption="F-90 típusú panelház alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 57. o., 1976">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/F90_alaprajz_huaf9ffe070549ac676a42a6d1b8192e47_1033094_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="3120" height="4160">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+F-90 típusú panelház alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 57. o., 1976
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure id="figure-f-90-típusú-panelház-1--félszobás-lakás-alaprajza-az-v-ötéves-tervben-budapesten-építhető-házgyári-lakóépületek-sorozattervei-60-o-1976">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/F90_1esfelszoba_lakas_hu8248fdad837f2920b16253115f217ba7_966451_2000x2000_fit_q90_lanczos.jpg" data-caption="F-90 típusú panelház 1 &amp;#43; félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 60. o., 1976">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/F90_1esfelszoba_lakas_hu8248fdad837f2920b16253115f217ba7_966451_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="3120" height="4160">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+F-90 típusú panelház 1 + félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 60. o., 1976
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure id="figure-f-90-típusú-panelház-2-szobás-lakás-alaprajza-az-v-ötéves-tervben-budapesten-építhető-házgyári-lakóépületek-sorozattervei-59-o-1976">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/F90_2szoba_lakas_hu2acda65f2c47fa456ca4c9946273c722_1047589_2000x2000_fit_q90_lanczos.jpg" data-caption="F-90 típusú panelház 2 szobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 59. o., 1976">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/F90_2szoba_lakas_hu2acda65f2c47fa456ca4c9946273c722_1047589_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="3120" height="4160">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+F-90 típusú panelház 2 szobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 59. o., 1976
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure id="figure-f-90-típusú-panelház-2--félszobás-lakás-alaprajza-az-v-ötéves-tervben-budapesten-építhető-házgyári-lakóépületek-sorozattervei-58-o-1976">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/F90_2esfelszoba_lakas_hu2c90f5775ddb0faa527d9e931f0fac05_1024895_2000x2000_fit_q90_lanczos.jpg" data-caption="F-90 típusú panelház 2 &amp;#43; félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 58. o., 1976">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/F90_2esfelszoba_lakas_hu2c90f5775ddb0faa527d9e931f0fac05_1024895_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="3120" height="4160">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+F-90 típusú panelház 2 + félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 58. o., 1976
+&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="h-0">H-0&lt;/h4>
+&lt;figure id="figure-h-0-típusú-panelház-alaprajza-az-v-ötéves-tervben-budapesten-építhető-házgyári-lakóépületek-sorozattervei-72-o-1976">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/H0_alaprajz_hu5692a4e5da1d6bb6dafa49b1cd2631a6_906511_2000x2000_fit_q90_lanczos.jpg" data-caption="H-0 típusú panelház alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 72. o., 1976">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/H0_alaprajz_hu5692a4e5da1d6bb6dafa49b1cd2631a6_906511_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="3120" height="4160">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+H-0 típusú panelház alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 72. o., 1976
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure id="figure-h-0-típusú-panelház-2--félszobás-lakás-alaprajza-az-v-ötéves-tervben-budapesten-építhető-házgyári-lakóépületek-sorozattervei-74-o-1976">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/H0_2esfelszoba_lakas_hu75b9985d8e2adde6bb518e71c40a87b9_1071103_2000x2000_fit_q90_lanczos.jpg" data-caption="H-0 típusú panelház 2 &amp;#43; félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 74. o., 1976">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/H0_2esfelszoba_lakas_hu75b9985d8e2adde6bb518e71c40a87b9_1071103_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="3120" height="4160">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+H-0 típusú panelház 2 + félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 74. o., 1976
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure id="figure-h-0-típusú-panelház-2--2-félszobás-lakás-alaprajza-az-v-ötéves-tervben-budapesten-építhető-házgyári-lakóépületek-sorozattervei-73-o-1976">
+&lt;a data-fancybox="" href="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/H0_2es2felszoba_lakas_huab7acb1275f4b26111ffd565bcecdb6b_1110263_2000x2000_fit_q90_lanczos.jpg" data-caption="H-0 típusú panelház 2 &amp;#43; 2 félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 73. o., 1976">
+&lt;img data-src="https://hermanp.github.io/hu/post/kispest-lakotelep-8-resz/H0_2es2felszoba_lakas_huab7acb1275f4b26111ffd565bcecdb6b_1110263_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="3120" height="4160">
+&lt;/a>
+&lt;figcaption data-pre="" data-post=". ábra:" class="numbered">
+H-0 típusú panelház 2 + 2 félszobás lakás alaprajza. Az V. ötéves tervben Budapesten építhető házgyári lakóépületek sorozattervei, 73. o., 1976
+&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="openstreetmap-térképezés">OpenStreetMap térképezés&lt;/h2>
 &lt;p>Az ábrázoláshoz az épületek körvonalait legálisan, könnyen meg lehet szerezni az &lt;a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap&lt;/a> (OSM) adatbázisból. Ennek több módja is lehet: letölteni a terület shape file-ját, majd R-be beolvasni és feldolgozható formára hozni&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> vagy külön erre a célra kialakított R csomagot használni. Amikor nekikezdtem a munkának, sok épület nem vagy pontatlanul volt berajzolva. Két út állt előttem: vagy csak magamnak rajzolgatok vagy a munkámat közzéteszem az OSM-en, így másoknak is segítek. Utóbbi mellett döntöttem és felvettem a kapcsolatot a hazai OSM közösséggel a Google Groups-os levelezőlistájukon keresztül.&lt;/p>
 &lt;p>Segédletként pedig az alábbiakat találtam:&lt;/p>
